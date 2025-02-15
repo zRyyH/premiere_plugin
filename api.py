@@ -16,7 +16,7 @@ atexit.register(premiere_driver.disconnect)
 @app.get("/connect")
 def connect():
     try:
-        return {"mensagem": "Projeto Premiere Pro Conectado0!"}
+        return {"mensagem": "Projeto Premiere Pro Conectado!"}
     except Exception as e:
         return {"mensagem": f"Erro ao conectar ao Premiere Pro!, error: {e}"}
 
