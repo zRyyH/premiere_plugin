@@ -1,0 +1,512 @@
+2025-02-14 21:16:46,702 - INFO - Evento: Projeto Premiere Pro Conectado
+2025-02-14 21:16:56,357 - INFO - Evento: Arquivos importados com sucesso
+2025-02-14 21:17:12,665 - INFO - Evento: Arquivos adicionados a sequencia
+2025-02-14 21:17:19,681 - INFO - Evento: Arquivos adicionados a sequencia
+2025-02-14 21:17:33,120 - INFO - Evento: Sequencia limpa
+2025-02-14 21:17:43,091 - INFO - Evento: Projeto Premiere Pro Conectado
+2025-02-14 21:17:48,716 - INFO - Evento: Sequencia limpa
+2025-02-14 21:18:52,429 - CRITICAL - Evento: Erro ao executar função: 'NoneType' object has no attribute 'get_project_files'
+2025-02-14 21:18:52,430 - CRITICAL - Evento: Erro ao executar função: 'NoneType' object has no attribute 'get_project_files'
+2025-02-14 21:18:52,466 - INFO - Evento: Arquivos importados com sucesso
+2025-02-14 21:18:59,811 - CRITICAL - Evento: Erro ao executar função: 'NoneType' object has no attribute 'get_project_files'
+2025-02-14 21:18:59,812 - CRITICAL - Evento: Erro ao executar função: 'NoneType' object has no attribute 'get_project_files'
+2025-02-14 21:18:59,812 - INFO - Evento: Arquivos importados com sucesso
+2025-02-14 21:23:57,741 - CRITICAL - Evento: Erro ao executar função: 'NoneType' object has no attribute 'get_project_files'
+2025-02-14 21:23:57,741 - CRITICAL - Evento: Erro ao executar função: 'NoneType' object has no attribute 'get_project_files'
+2025-02-14 21:24:19,392 - INFO - Evento: Projeto Premiere Pro Conectado!
+2025-02-14 21:24:21,943 - INFO - Evento: Imagens importadas com sucesso!
+2025-02-14 21:24:22,100 - INFO - Evento: Musicas importadas com sucesso!
+2025-02-14 22:55:03,711 - INFO - Evento: Projeto Premiere Pro Conectado!
+2025-02-14 22:55:14,657 - CRITICAL - Evento: Erro ao executar função: import_images() got an unexpected keyword argument 'path_folder'
+2025-02-14 22:55:14,657 - CRITICAL - Evento: Erro ao executar função: import_musics() got an unexpected keyword argument 'path_folder'
+2025-02-14 22:55:30,543 - INFO - Evento: Projeto Premiere Pro Conectado!
+2025-02-14 22:55:33,443 - CRITICAL - Evento: Erro ao executar função: import_images() got an unexpected keyword argument 'path_folder'
+2025-02-14 22:55:33,443 - CRITICAL - Evento: Erro ao executar função: import_musics() got an unexpected keyword argument 'path_folder'
+2025-02-14 22:57:16,324 - INFO - Evento: Projeto Premiere Pro Desconectado!
+2025-02-14 22:57:24,620 - INFO - Evento: Projeto Premiere Pro Conectado!
+2025-02-14 22:57:27,890 - CRITICAL - Evento: Erro ao executar função: import_images() got an unexpected keyword argument 'path_folder'
+2025-02-14 22:57:27,890 - CRITICAL - Evento: Erro ao executar função: import_musics() got an unexpected keyword argument 'path_folder'
+2025-02-14 22:58:47,911 - INFO - Evento: Projeto Premiere Pro Desconectado!
+2025-02-14 22:58:54,870 - INFO - Evento: Projeto Premiere Pro Conectado!
+2025-02-14 22:58:58,648 - CRITICAL - Evento: Erro ao executar função: import_images() got an unexpected keyword argument 'path'
+2025-02-14 22:58:58,648 - CRITICAL - Evento: Erro ao executar função: import_musics() got an unexpected keyword argument 'path'
+2025-02-14 22:59:39,277 - INFO - Evento: Projeto Premiere Pro Desconectado!
+2025-02-14 22:59:45,597 - INFO - Evento: Projeto Premiere Pro Conectado!
+2025-02-14 22:59:48,598 - INFO - Evento: Imagens importadas com sucesso!
+2025-02-14 22:59:48,766 - INFO - Evento: Musicas importadas com sucesso!
+2025-02-14 23:00:00,523 - INFO - Evento: Imagens importadas com sucesso!
+2025-02-14 23:00:00,680 - INFO - Evento: Musicas importadas com sucesso!
+2025-02-14 23:00:33,555 - INFO - Evento: Audio adicionado a sequencia!
+2025-02-14 23:00:34,183 - INFO - Evento: Imagem adicionada a sequencia!
+2025-02-14 23:09:31,619 - INFO - Evento: Projeto Premiere Pro Desconectado!
+2025-02-14 23:10:14,865 - INFO - Evento: Projeto Premiere Pro Desconectado!
+2025-02-14 23:10:51,026 - CRITICAL - Evento: Erro ao executar função: [WinError 267] O nome do diretório é inválido: 'C:\\Users\\zryyh\\OneDrive\\Documentos\\AdobePremiere\\Images\\Image_1.jpg'
+2025-02-14 23:10:51,026 - CRITICAL - Evento: Erro ao executar função: 'NoneType' object has no attribute 'get_project_files'
+2025-02-14 23:31:46,801 - INFO - Evento: Projeto Premiere Pro Desconectado!
+2025-02-14 23:32:23,109 - INFO - Evento: Projeto Premiere Pro Conectado!
+2025-02-14 23:32:44,323 - INFO - Evento: Imagens importadas com sucesso!
+2025-02-14 23:32:44,451 - INFO - Evento: Musicas importadas com sucesso!
+2025-02-14 23:32:55,101 - INFO - Evento: Audio adicionado a sequencia!
+2025-02-14 23:32:55,330 - INFO - Evento: Imagem adicionada a sequencia!
+2025-02-14 23:35:39,199 - INFO - Evento: Imagens importadas com sucesso!
+2025-02-14 23:35:39,379 - INFO - Evento: Musicas importadas com sucesso!
+2025-02-14 23:35:46,889 - INFO - Evento: Audio adicionado a sequencia!
+2025-02-14 23:35:47,613 - INFO - Evento: Imagem adicionada a sequencia!
+2025-02-14 23:41:54,874 - INFO - Evento: Projeto Premiere Pro Conectado!
+2025-02-14 23:42:01,986 - INFO - Evento: Imagens importadas com sucesso!
+2025-02-14 23:42:02,139 - INFO - Evento: Musicas importadas com sucesso!
+2025-02-14 23:42:09,694 - INFO - Evento: Audio adicionado a sequencia!
+2025-02-14 23:42:10,393 - INFO - Evento: Imagem adicionada a sequencia!
+2025-02-14 23:42:13,891 - INFO - Evento: Sequencia limpa!
+2025-02-14 23:42:16,638 - INFO - Evento: Audio adicionado a sequencia!
+2025-02-14 23:42:17,275 - INFO - Evento: Imagem adicionada a sequencia!
+2025-02-15 02:10:01,887 - INFO - Evento: Projeto Premiere Pro Desconectado!
+2025-02-15 02:10:07,835 - CRITICAL - Evento: Erro ao executar função: [WinError 3] O sistema não pode encontrar o caminho especificado: 'C'
+2025-02-15 02:10:07,836 - CRITICAL - Evento: Erro ao executar função: [WinError 3] O sistema não pode encontrar o caminho especificado: 'C'
+2025-02-15 02:10:18,007 - INFO - Evento: Projeto Premiere Pro Conectado!
+2025-02-15 02:10:20,171 - CRITICAL - Evento: Erro ao executar função: [WinError 3] O sistema não pode encontrar o caminho especificado: 'C'
+2025-02-15 02:10:20,171 - CRITICAL - Evento: Erro ao executar função: [WinError 3] O sistema não pode encontrar o caminho especificado: 'C'
+2025-02-15 02:10:27,376 - INFO - Evento: Audio adicionado a sequencia!
+2025-02-15 02:10:27,377 - CRITICAL - Evento: Erro ao executar função: division by zero
+2025-02-15 02:10:35,838 - INFO - Evento: Audio adicionado a sequencia!
+2025-02-15 02:10:35,838 - CRITICAL - Evento: Erro ao executar função: division by zero
+2025-02-15 02:10:38,887 - INFO - Evento: Projeto Premiere Pro Conectado!
+2025-02-15 02:10:41,610 - CRITICAL - Evento: Erro ao executar função: [WinError 3] O sistema não pode encontrar o caminho especificado: 'C'
+2025-02-15 02:10:41,612 - CRITICAL - Evento: Erro ao executar função: [WinError 3] O sistema não pode encontrar o caminho especificado: 'C'
+2025-02-15 02:10:57,974 - INFO - Evento: Projeto Premiere Pro Desconectado!
+2025-02-15 02:11:30,651 - INFO - Evento: Projeto Premiere Pro Conectado!
+2025-02-15 02:11:53,149 - INFO - Evento: Projeto Premiere Pro Desconectado!
+2025-02-15 02:12:00,116 - INFO - Evento: Projeto Premiere Pro Conectado!
+2025-02-15 02:12:03,929 - INFO - Evento: Imagens importadas com sucesso!
+2025-02-15 02:12:04,061 - INFO - Evento: Musicas importadas com sucesso!
+2025-02-15 02:12:13,481 - INFO - Evento: Audio adicionado a sequencia!
+2025-02-15 02:12:14,166 - INFO - Evento: Imagem adicionada a sequencia!
+2025-02-15 02:12:17,929 - INFO - Evento: Sequencia limpa!
+2025-02-15 02:12:20,264 - INFO - Evento: Audio adicionado a sequencia!
+2025-02-15 02:12:20,955 - INFO - Evento: Imagem adicionada a sequencia!
+2025-02-15 02:12:48,240 - INFO - Evento: Imagens importadas com sucesso!
+2025-02-15 02:12:48,382 - INFO - Evento: Musicas importadas com sucesso!
+2025-02-15 02:13:48,477 - INFO - Evento: Projeto Premiere Pro Desconectado!
+2025-02-15 02:13:55,235 - INFO - Evento: Projeto Premiere Pro Conectado!
+2025-02-15 02:13:58,603 - INFO - Evento: Imagens importadas com sucesso!
+2025-02-15 02:13:58,714 - INFO - Evento: Musicas importadas com sucesso!
+2025-02-15 02:14:28,970 - INFO - Evento: Imagens importadas com sucesso!
+2025-02-15 02:14:29,029 - INFO - Evento: Musicas importadas com sucesso!
+2025-02-15 02:14:33,813 - INFO - Evento: Imagens importadas com sucesso!
+2025-02-15 02:14:33,908 - INFO - Evento: Musicas importadas com sucesso!
+2025-02-15 02:14:38,718 - INFO - Evento: Imagens importadas com sucesso!
+2025-02-15 02:14:38,792 - INFO - Evento: Musicas importadas com sucesso!
+2025-02-15 02:14:40,750 - INFO - Evento: Imagens importadas com sucesso!
+2025-02-15 02:14:40,825 - INFO - Evento: Musicas importadas com sucesso!
+2025-02-15 02:14:42,492 - INFO - Evento: Imagens importadas com sucesso!
+2025-02-15 02:14:42,591 - INFO - Evento: Musicas importadas com sucesso!
+2025-02-15 02:14:50,155 - INFO - Evento: Audio adicionado a sequencia!
+2025-02-15 02:14:50,279 - INFO - Evento: Imagem adicionada a sequencia!
+2025-02-15 02:15:01,674 - INFO - Evento: Sequencia limpa!
+2025-02-15 02:15:03,516 - INFO - Evento: Audio adicionado a sequencia!
+2025-02-15 02:15:03,628 - INFO - Evento: Imagem adicionada a sequencia!
+2025-02-15 02:33:59,435 - INFO - Evento: Projeto Premiere Pro Desconectado!
+2025-02-15 02:35:00,469 - INFO - Evento: Projeto Premiere Pro Conectado!
+2025-02-15 02:35:06,799 - INFO - Evento: Imagens importadas com sucesso!
+2025-02-15 02:35:06,912 - INFO - Evento: Musicas importadas com sucesso!
+2025-02-15 02:35:17,135 - INFO - Evento: Adicionando áudio Music_3.mp3 na sequência
+2025-02-15 02:35:17,229 - INFO - Evento: Adicionando áudio Music_2.mp3 na sequência
+2025-02-15 02:35:17,252 - INFO - Evento: Obtendo duração da sequência: 111997466380800 ticks
+2025-02-15 02:35:17,253 - INFO - Evento: Audio adicionado a sequencia!
+2025-02-15 02:35:17,343 - INFO - Evento: Adicionando imagem Image_1.jpg na sequência
+2025-02-15 02:35:17,370 - INFO - Evento: Imagem adicionada a sequencia!
+2025-02-15 02:35:29,846 - INFO - Evento: Removendo clipe de vídeo
+2025-02-15 02:35:29,934 - INFO - Evento: Removendo clipe de áudio
+2025-02-15 02:35:29,973 - INFO - Evento: Removendo clipe de áudio
+2025-02-15 02:35:30,021 - INFO - Evento: Sequencia limpa!
+2025-02-15 02:35:50,410 - INFO - Evento: Imagens importadas com sucesso!
+2025-02-15 02:35:50,540 - INFO - Evento: Musicas importadas com sucesso!
+2025-02-15 02:35:59,293 - INFO - Evento: Adicionando áudio Music_3.mp3 na sequência
+2025-02-15 02:35:59,402 - INFO - Evento: Adicionando áudio Music_1.mp3 na sequência
+2025-02-15 02:35:59,420 - INFO - Evento: Obtendo duração da sequência: 129114076291200 ticks
+2025-02-15 02:35:59,420 - INFO - Evento: Audio adicionado a sequencia!
+2025-02-15 02:35:59,538 - INFO - Evento: Adicionando imagem Image_1.jpg na sequência
+2025-02-15 02:35:59,655 - INFO - Evento: Adicionando imagem Image_5.jpg na sequência
+2025-02-15 02:35:59,784 - INFO - Evento: Adicionando imagem Image_3.jpg na sequência
+2025-02-15 02:35:59,912 - INFO - Evento: Adicionando imagem Image_4.jpg na sequência
+2025-02-15 02:36:00,053 - INFO - Evento: Adicionando imagem Image_2.jpg na sequência
+2025-02-15 02:36:00,075 - INFO - Evento: Imagem adicionada a sequencia!
+2025-02-15 02:36:18,824 - INFO - Evento: Removendo clipe de vídeo
+2025-02-15 02:36:18,867 - INFO - Evento: Removendo clipe de vídeo
+2025-02-15 02:36:18,911 - INFO - Evento: Removendo clipe de vídeo
+2025-02-15 02:36:18,949 - INFO - Evento: Removendo clipe de vídeo
+2025-02-15 02:36:18,988 - INFO - Evento: Removendo clipe de vídeo
+2025-02-15 02:36:19,080 - INFO - Evento: Removendo clipe de áudio
+2025-02-15 02:36:19,115 - INFO - Evento: Removendo clipe de áudio
+2025-02-15 02:36:19,158 - INFO - Evento: Sequencia limpa!
+2025-02-15 02:36:33,907 - INFO - Evento: Imagens importadas com sucesso!
+2025-02-15 02:36:34,040 - INFO - Evento: Musicas importadas com sucesso!
+2025-02-15 02:36:39,959 - INFO - Evento: Adicionando áudio Music_3.mp3 na sequência
+2025-02-15 02:36:40,094 - INFO - Evento: Adicionando áudio Music_1.mp3 na sequência
+2025-02-15 02:36:40,230 - INFO - Evento: Adicionando áudio Music_5.mp3 na sequência
+2025-02-15 02:36:40,360 - INFO - Evento: Adicionando áudio Music_4.mp3 na sequência
+2025-02-15 02:36:40,480 - INFO - Evento: Adicionando áudio Music_2.mp3 na sequência
+2025-02-15 02:36:40,500 - INFO - Evento: Obtendo duração da sequência: 356757783782400 ticks
+2025-02-15 02:36:40,500 - INFO - Evento: Audio adicionado a sequencia!
+2025-02-15 02:36:40,641 - INFO - Evento: Adicionando imagem Image_4.jpg na sequência
+2025-02-15 02:36:40,818 - INFO - Evento: Adicionando imagem Image_5.jpg na sequência
+2025-02-15 02:36:40,987 - INFO - Evento: Adicionando imagem Image_1.jpg na sequência
+2025-02-15 02:36:41,002 - INFO - Evento: Imagem adicionada a sequencia!
+2025-02-15 02:37:04,120 - INFO - Evento: Removendo clipe de vídeo
+2025-02-15 02:37:04,164 - INFO - Evento: Removendo clipe de vídeo
+2025-02-15 02:37:04,208 - INFO - Evento: Removendo clipe de vídeo
+2025-02-15 02:37:04,313 - INFO - Evento: Removendo clipe de áudio
+2025-02-15 02:37:04,350 - INFO - Evento: Removendo clipe de áudio
+2025-02-15 02:37:04,390 - INFO - Evento: Removendo clipe de áudio
+2025-02-15 02:37:04,433 - INFO - Evento: Removendo clipe de áudio
+2025-02-15 02:37:04,473 - INFO - Evento: Removendo clipe de áudio
+2025-02-15 02:37:04,525 - INFO - Evento: Sequencia limpa!
+2025-02-15 02:45:24,955 - INFO - Evento: Projeto Premiere Pro Desconectado!
+2025-02-15 02:45:39,366 - INFO - Evento: Projeto Premiere Pro Conectado!
+2025-02-15 02:45:57,965 - INFO - Evento: Adicionando áudio Music_1.mp3 na sequência
+2025-02-15 02:45:58,079 - INFO - Evento: Adicionando áudio Music_2.mp3 na sequência
+2025-02-15 02:45:58,194 - INFO - Evento: Adicionando áudio Music_4.mp3 na sequência
+2025-02-15 02:45:58,327 - INFO - Evento: Adicionando áudio Music_3.mp3 na sequência
+2025-02-15 02:45:58,469 - INFO - Evento: Adicionando áudio Music_5.mp3 na sequência
+2025-02-15 02:45:58,493 - INFO - Evento: Obtendo duração da sequência: 356757783782400 ticks
+2025-02-15 02:45:58,635 - INFO - Evento: Adicionando imagem Image_5.jpg na sequência
+2025-02-15 02:45:58,753 - INFO - Evento: Adicionando imagem Image_4.jpg na sequência
+2025-02-15 02:45:58,876 - INFO - Evento: Adicionando imagem Image_1.jpg na sequência
+2025-02-15 02:46:01,421 - INFO - Evento: Removendo clipe de vídeo
+2025-02-15 02:46:01,461 - INFO - Evento: Removendo clipe de vídeo
+2025-02-15 02:46:01,495 - INFO - Evento: Removendo clipe de vídeo
+2025-02-15 02:46:01,633 - INFO - Evento: Removendo clipe de áudio
+2025-02-15 02:46:01,672 - INFO - Evento: Removendo clipe de áudio
+2025-02-15 02:46:01,710 - INFO - Evento: Removendo clipe de áudio
+2025-02-15 02:46:01,746 - INFO - Evento: Removendo clipe de áudio
+2025-02-15 02:46:01,783 - INFO - Evento: Removendo clipe de áudio
+2025-02-15 02:46:01,829 - INFO - Evento: Sequência limpa
+2025-02-15 02:46:03,470 - INFO - Evento: Sequência limpa
+2025-02-15 02:46:07,441 - INFO - Evento: Adicionando áudio Music_1.mp3 na sequência
+2025-02-15 02:46:07,543 - INFO - Evento: Adicionando áudio Music_2.mp3 na sequência
+2025-02-15 02:46:07,651 - INFO - Evento: Adicionando áudio Music_4.mp3 na sequência
+2025-02-15 02:46:07,770 - INFO - Evento: Adicionando áudio Music_3.mp3 na sequência
+2025-02-15 02:46:07,884 - INFO - Evento: Adicionando áudio Music_5.mp3 na sequência
+2025-02-15 02:46:07,906 - INFO - Evento: Obtendo duração da sequência: 356757783782400 ticks
+2025-02-15 02:46:08,016 - INFO - Evento: Adicionando imagem Image_5.jpg na sequência
+2025-02-15 02:46:08,133 - INFO - Evento: Adicionando imagem Image_4.jpg na sequência
+2025-02-15 02:46:08,249 - INFO - Evento: Adicionando imagem Image_1.jpg na sequência
+2025-02-15 02:46:18,630 - CRITICAL - Evento: Erro ao executar função: Arquivo Music_1.mp3 não encontrado no projeto!
+2025-02-15 02:46:18,632 - CRITICAL - Evento: Erro ao executar função: arg "clipProjectItem" of function "Track.insertClip" shoud be of type <class 'pymiere.objects.premiere_objects.ProjectItem'> but got 'None' (type <class 'NoneType'>)
+2025-02-15 02:46:18,637 - INFO - Evento: Obtendo duração da sequência: 0 ticks
+2025-02-15 02:46:18,668 - CRITICAL - Evento: Erro ao executar função: Arquivo Image_5.jpg não encontrado no projeto!
+2025-02-15 02:46:18,671 - CRITICAL - Evento: Erro ao executar função: 'NoneType' object has no attribute 'setInPoint'
+2025-02-15 02:46:21,585 - CRITICAL - Evento: Erro ao executar função: Arquivo Music_1.mp3 não encontrado no projeto!
+2025-02-15 02:46:21,589 - CRITICAL - Evento: Erro ao executar função: arg "clipProjectItem" of function "Track.insertClip" shoud be of type <class 'pymiere.objects.premiere_objects.ProjectItem'> but got 'None' (type <class 'NoneType'>)
+2025-02-15 02:46:21,595 - INFO - Evento: Obtendo duração da sequência: 0 ticks
+2025-02-15 02:46:21,627 - CRITICAL - Evento: Erro ao executar função: Arquivo Image_5.jpg não encontrado no projeto!
+2025-02-15 02:46:21,630 - CRITICAL - Evento: Erro ao executar função: 'NoneType' object has no attribute 'setInPoint'
+2025-02-15 02:46:22,864 - CRITICAL - Evento: Erro ao executar função: Arquivo Music_1.mp3 não encontrado no projeto!
+2025-02-15 02:46:22,868 - CRITICAL - Evento: Erro ao executar função: arg "clipProjectItem" of function "Track.insertClip" shoud be of type <class 'pymiere.objects.premiere_objects.ProjectItem'> but got 'None' (type <class 'NoneType'>)
+2025-02-15 02:46:22,873 - INFO - Evento: Obtendo duração da sequência: 0 ticks
+2025-02-15 02:46:22,907 - CRITICAL - Evento: Erro ao executar função: Arquivo Image_5.jpg não encontrado no projeto!
+2025-02-15 02:46:22,910 - CRITICAL - Evento: Erro ao executar função: 'NoneType' object has no attribute 'setInPoint'
+2025-02-15 02:46:25,091 - INFO - Evento: Sequência limpa
+2025-02-15 02:46:28,953 - INFO - Evento: Projeto Premiere Pro Conectado!
+2025-02-15 02:46:54,091 - CRITICAL - Evento: Erro ao executar função: [WinError 267] O nome do diretório é inválido: 'C:\\Users\\zryyh\\OneDrive\\Documentos\\AdobePremiere\\Images\\Image_1.jpg'
+2025-02-15 02:47:53,095 - INFO - Evento: Adicionando áudio Music_2.mp3 na sequência
+2025-02-15 02:47:53,195 - INFO - Evento: Adicionando áudio Music_3.mp3 na sequência
+2025-02-15 02:47:53,305 - INFO - Evento: Adicionando áudio Music_5.mp3 na sequência
+2025-02-15 02:47:53,406 - INFO - Evento: Adicionando áudio Music_1.mp3 na sequência
+2025-02-15 02:47:53,506 - INFO - Evento: Adicionando áudio Music_4.mp3 na sequência
+2025-02-15 02:47:53,526 - INFO - Evento: Obtendo duração da sequência: 356757783782400 ticks
+2025-02-15 02:47:53,640 - INFO - Evento: Adicionando imagem Image_1.jpg na sequência
+2025-02-15 02:47:53,771 - INFO - Evento: Adicionando imagem Image_2.jpg na sequência
+2025-02-15 02:49:26,470 - INFO - Evento: Adicionando áudio Music_1.mp3 na sequência
+2025-02-15 02:49:26,550 - INFO - Evento: Adicionando áudio Music_2.mp3 na sequência
+2025-02-15 02:49:26,571 - INFO - Evento: Obtendo duração da sequência: 134902956988800 ticks
+2025-02-15 02:49:26,658 - INFO - Evento: Adicionando imagem Image_1.jpg na sequência
+2025-02-15 02:49:26,757 - INFO - Evento: Adicionando imagem Image_2.jpg na sequência
+2025-02-15 02:49:30,243 - INFO - Evento: Removendo clipe de vídeo
+2025-02-15 02:49:30,284 - INFO - Evento: Removendo clipe de vídeo
+2025-02-15 02:49:30,373 - INFO - Evento: Removendo clipe de áudio
+2025-02-15 02:49:30,408 - INFO - Evento: Removendo clipe de áudio
+2025-02-15 02:49:30,450 - INFO - Evento: Sequência limpa
+2025-02-15 03:05:13,346 - INFO - Evento: Projeto Premiere Pro Desconectado!
+2025-02-15 03:05:24,402 - CRITICAL - Evento: Erro ao executar função: 'NoneType' object has no attribute 'limpar_sequencia'
+2025-02-15 03:05:27,101 - INFO - Evento: Projeto Premiere Pro Conectado!
+2025-02-15 03:05:28,687 - INFO - Evento: Sequência limpa
+2025-02-15 03:05:43,904 - INFO - Evento: Adicionando áudio Music_1.mp3 na sequência
+2025-02-15 03:05:43,990 - INFO - Evento: Adicionando áudio Music_2.mp3 na sequência
+2025-02-15 03:05:44,011 - INFO - Evento: Obtendo duração da sequência: 134902956988800 ticks
+2025-02-15 03:05:44,101 - INFO - Evento: Adicionando imagem Image_1.jpg na sequência
+2025-02-15 03:05:44,213 - INFO - Evento: Adicionando imagem Image_2.jpg na sequência
+2025-02-15 03:05:58,730 - INFO - Evento: Removendo clipe de vídeo
+2025-02-15 03:05:58,768 - INFO - Evento: Removendo clipe de vídeo
+2025-02-15 03:05:58,861 - INFO - Evento: Removendo clipe de áudio
+2025-02-15 03:05:58,896 - INFO - Evento: Removendo clipe de áudio
+2025-02-15 03:05:58,937 - INFO - Evento: Sequência limpa
+2025-02-15 03:06:06,436 - INFO - Evento: Adicionando áudio Music_1.mp3 na sequência
+2025-02-15 03:06:06,524 - INFO - Evento: Adicionando áudio Music_2.mp3 na sequência
+2025-02-15 03:06:06,547 - INFO - Evento: Obtendo duração da sequência: 134902956988800 ticks
+2025-02-15 03:06:06,645 - INFO - Evento: Adicionando imagem Image_1.jpg na sequência
+2025-02-15 03:06:06,738 - INFO - Evento: Adicionando imagem Image_2.jpg na sequência
+2025-02-15 03:06:10,450 - INFO - Evento: Removendo clipe de vídeo
+2025-02-15 03:06:10,489 - INFO - Evento: Removendo clipe de vídeo
+2025-02-15 03:06:10,596 - INFO - Evento: Removendo clipe de áudio
+2025-02-15 03:06:10,638 - INFO - Evento: Removendo clipe de áudio
+2025-02-15 03:06:10,696 - INFO - Evento: Sequência limpa
+2025-02-15 03:08:36,761 - INFO - Evento: Projeto Premiere Pro Desconectado!
+2025-02-15 03:08:44,534 - INFO - Evento: Projeto Premiere Pro Conectado!
+2025-02-15 03:08:56,375 - INFO - Evento: Arquivo carregado: Image_1.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_1.jpg
+2025-02-15 03:08:56,375 - INFO - Evento: Arquivo carregado: Image_2.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_2.jpg
+2025-02-15 03:08:56,563 - INFO - Evento: Arquivo carregado: Music_1.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_1.mp3
+2025-02-15 03:08:56,563 - INFO - Evento: Arquivo carregado: Music_2.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_2.mp3
+2025-02-15 03:49:10,459 - INFO - Evento: Projeto Premiere Pro Desconectado!
+2025-02-15 03:49:12,503 - INFO - Evento: Projeto Premiere Pro Desconectado!
+2025-02-15 04:25:06,990 - INFO - Evento: Arquivo carregado: Image_4.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_4.jpg
+2025-02-15 04:25:06,991 - INFO - Evento: Arquivo carregado: Image_5.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_5.jpg
+2025-02-15 04:25:06,991 - CRITICAL - Evento: Erro ao executar função: 'NoneType' object has no attribute 'get_project_files'
+2025-02-15 04:25:06,991 - CRITICAL - Evento: Erro ao executar função: [WinError 267] O nome do diretório é inválido: 'C:\\Users\\zryyh\\OneDrive\\Documentos\\AdobePremiere\\Musicas\\Music_1.mp3'
+2025-02-15 04:25:24,970 - INFO - Evento: Arquivo carregado: Image_4.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_4.jpg
+2025-02-15 04:25:24,970 - INFO - Evento: Arquivo carregado: Image_5.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_5.jpg
+2025-02-15 04:25:24,970 - CRITICAL - Evento: Erro ao executar função: 'NoneType' object has no attribute 'get_project_files'
+2025-02-15 04:25:24,970 - CRITICAL - Evento: Erro ao executar função: [WinError 267] O nome do diretório é inválido: 'C:\\Users\\zryyh\\OneDrive\\Documentos\\AdobePremiere\\Musicas\\Music_1.mp3'
+2025-02-15 04:29:09,624 - INFO - Evento: Projeto Premiere Pro Conectado!
+2025-02-15 04:29:56,733 - INFO - Evento: Arquivo carregado: Image_3.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_3.jpg
+2025-02-15 04:29:56,733 - INFO - Evento: Arquivo carregado: Image_4.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_4.jpg
+2025-02-15 04:29:56,734 - INFO - Evento: Arquivo carregado: Image_5.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_5.jpg
+2025-02-15 04:29:56,915 - CRITICAL - Evento: Erro ao executar função: [WinError 267] O nome do diretório é inválido: 'C:\\Users\\zryyh\\OneDrive\\Documentos\\AdobePremiere\\Musicas\\Music_1.mp3'
+2025-02-15 04:33:48,383 - CRITICAL - Evento: Erro ao executar função: list index out of range
+2025-02-15 04:33:48,383 - CRITICAL - Evento: Erro ao executar função: [WinError 267] O nome do diretório é inválido: 'C:\\Users\\zryyh\\OneDrive\\Documentos\\AdobePremiere\\Musicas\\Music_1.mp3'
+2025-02-15 04:35:29,374 - INFO - Evento: Arquivo carregado: Image_1.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_1.jpg
+2025-02-15 04:35:29,590 - CRITICAL - Evento: Erro ao executar função: [WinError 267] O nome do diretório é inválido: 'C:\\Users\\zryyh\\OneDrive\\Documentos\\AdobePremiere\\Musicas\\Music_1.mp3'
+2025-02-15 04:40:47,104 - INFO - Evento: Projeto Premiere Pro Desconectado!
+2025-02-15 04:40:51,056 - INFO - Evento: Projeto Premiere Pro Conectado!
+2025-02-15 04:41:57,958 - INFO - Evento: Arquivo carregado: Image_1.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_1.jpg
+2025-02-15 04:41:57,958 - INFO - Evento: Arquivo carregado: Image_3.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_3.jpg
+2025-02-15 04:41:57,958 - INFO - Evento: Arquivo carregado: Image_2.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_2.jpg
+2025-02-15 04:41:58,121 - INFO - Evento: Arquivo carregado: Music_4.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_4.mp3
+2025-02-15 04:41:58,122 - INFO - Evento: Arquivo carregado: Music_5.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_5.mp3
+2025-02-15 04:42:40,305 - INFO - Evento: Arquivo carregado: Image_5.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_5.jpg
+2025-02-15 04:42:40,305 - INFO - Evento: Arquivo carregado: Image_4.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_4.jpg
+2025-02-15 04:42:40,305 - INFO - Evento: Arquivo carregado: Image_2.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_2.jpg
+2025-02-15 04:42:40,470 - INFO - Evento: Arquivo carregado: Music_4.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_4.mp3
+2025-02-15 04:42:40,471 - INFO - Evento: Arquivo carregado: Music_5.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_5.mp3
+2025-02-15 04:42:56,203 - INFO - Evento: Arquivo carregado: Image_1.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_1.jpg
+2025-02-15 04:42:56,204 - INFO - Evento: Arquivo carregado: Image_2.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_2.jpg
+2025-02-15 04:42:56,204 - INFO - Evento: Arquivo carregado: Image_3.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_3.jpg
+2025-02-15 04:42:56,368 - INFO - Evento: Arquivo carregado: Music_4.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_4.mp3
+2025-02-15 04:42:56,368 - INFO - Evento: Arquivo carregado: Music_5.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_5.mp3
+2025-02-15 04:43:01,183 - INFO - Evento: Arquivo carregado: Image_1.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_1.jpg
+2025-02-15 04:43:01,183 - INFO - Evento: Arquivo carregado: Image_2.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_2.jpg
+2025-02-15 04:43:01,183 - INFO - Evento: Arquivo carregado: Image_3.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_3.jpg
+2025-02-15 04:43:01,361 - INFO - Evento: Arquivo carregado: Music_4.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_4.mp3
+2025-02-15 04:43:01,361 - INFO - Evento: Arquivo carregado: Music_5.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_5.mp3
+2025-02-15 04:43:09,890 - INFO - Evento: Arquivo carregado: Image_3.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_3.jpg
+2025-02-15 04:43:09,890 - INFO - Evento: Arquivo carregado: Image_2.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_2.jpg
+2025-02-15 04:43:09,890 - INFO - Evento: Arquivo carregado: Image_4.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_4.jpg
+2025-02-15 04:43:10,064 - INFO - Evento: Arquivo carregado: Music_4.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_4.mp3
+2025-02-15 04:43:10,064 - INFO - Evento: Arquivo carregado: Music_5.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_5.mp3
+2025-02-15 04:44:02,195 - INFO - Evento: Arquivo carregado: Image_1.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_1.jpg
+2025-02-15 04:44:02,195 - INFO - Evento: Arquivo carregado: Image_4.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_4.jpg
+2025-02-15 04:44:02,195 - INFO - Evento: Arquivo carregado: Image_2.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_2.jpg
+2025-02-15 04:44:02,358 - INFO - Evento: Arquivo carregado: Music_3.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_3.mp3
+2025-02-15 04:44:02,359 - INFO - Evento: Arquivo carregado: Music_5.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_5.mp3
+2025-02-15 04:44:02,359 - INFO - Evento: Arquivo carregado: Music_2.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_2.mp3
+2025-02-15 04:44:06,196 - INFO - Evento: Arquivo carregado: Image_3.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_3.jpg
+2025-02-15 04:44:06,196 - INFO - Evento: Arquivo carregado: Image_2.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_2.jpg
+2025-02-15 04:44:06,196 - INFO - Evento: Arquivo carregado: Image_1.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_1.jpg
+2025-02-15 04:44:06,386 - INFO - Evento: Arquivo carregado: Music_1.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_1.mp3
+2025-02-15 04:44:06,386 - INFO - Evento: Arquivo carregado: Music_5.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_5.mp3
+2025-02-15 04:44:06,386 - INFO - Evento: Arquivo carregado: Music_4.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_4.mp3
+2025-02-15 04:44:07,805 - INFO - Evento: Arquivo carregado: Image_4.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_4.jpg
+2025-02-15 04:44:07,805 - INFO - Evento: Arquivo carregado: Image_1.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_1.jpg
+2025-02-15 04:44:07,805 - INFO - Evento: Arquivo carregado: Image_2.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_2.jpg
+2025-02-15 04:44:07,903 - INFO - Evento: Arquivo carregado: Music_1.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_1.mp3
+2025-02-15 04:44:07,919 - INFO - Evento: Arquivo carregado: Music_5.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_5.mp3
+2025-02-15 04:44:07,919 - INFO - Evento: Arquivo carregado: Music_3.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_3.mp3
+2025-02-15 04:44:09,317 - INFO - Evento: Arquivo carregado: Image_3.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_3.jpg
+2025-02-15 04:44:09,317 - INFO - Evento: Arquivo carregado: Image_2.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_2.jpg
+2025-02-15 04:44:09,318 - INFO - Evento: Arquivo carregado: Image_5.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_5.jpg
+2025-02-15 04:44:09,526 - INFO - Evento: Arquivo carregado: Music_2.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_2.mp3
+2025-02-15 04:44:09,526 - INFO - Evento: Arquivo carregado: Music_5.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_5.mp3
+2025-02-15 04:44:09,526 - INFO - Evento: Arquivo carregado: Music_4.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_4.mp3
+2025-02-15 04:49:34,245 - INFO - Evento: Arquivo carregado: Image_1.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_1.jpg
+2025-02-15 04:49:34,245 - INFO - Evento: Arquivo carregado: Image_3.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_3.jpg
+2025-02-15 04:49:34,245 - INFO - Evento: Arquivo carregado: Image_2.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_2.jpg
+2025-02-15 04:49:34,400 - INFO - Evento: Arquivo carregado: Music_3.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_3.mp3
+2025-02-15 04:49:34,400 - INFO - Evento: Arquivo carregado: Music_4.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_4.mp3
+2025-02-15 04:49:34,400 - INFO - Evento: Arquivo carregado: Music_5.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_5.mp3
+2025-02-15 04:49:37,539 - INFO - Evento: Adicionando áudio Music_3.mp3 na sequência
+2025-02-15 04:49:37,636 - INFO - Evento: Adicionando áudio Music_4.mp3 na sequência
+2025-02-15 04:49:37,725 - INFO - Evento: Adicionando áudio Music_5.mp3 na sequência
+2025-02-15 04:49:37,747 - INFO - Evento: Obtendo duração da sequência: 221854826793600 ticks
+2025-02-15 04:49:37,842 - INFO - Evento: Adicionando imagem Image_1.jpg na sequência
+2025-02-15 04:49:37,945 - INFO - Evento: Adicionando imagem Image_3.jpg na sequência
+2025-02-15 04:49:38,049 - INFO - Evento: Adicionando imagem Image_2.jpg na sequência
+2025-02-15 04:52:36,882 - INFO - Evento: Removendo clipe de vídeo
+2025-02-15 04:52:36,917 - INFO - Evento: Removendo clipe de vídeo
+2025-02-15 04:52:36,952 - INFO - Evento: Removendo clipe de vídeo
+2025-02-15 04:52:37,035 - INFO - Evento: Removendo clipe de áudio
+2025-02-15 04:52:37,069 - INFO - Evento: Removendo clipe de áudio
+2025-02-15 04:52:37,102 - INFO - Evento: Removendo clipe de áudio
+2025-02-15 04:52:37,139 - INFO - Evento: Sequência limpa
+2025-02-15 17:16:34,758 - CRITICAL - Evento: Erro ao executar função: Premiere Pro is not running
+2025-02-15 17:16:56,647 - INFO - Evento: Projeto Premiere Pro Desconectado!
+2025-02-15 17:16:59,681 - INFO - Evento: Projeto Premiere Pro Conectado!
+2025-02-15 17:17:45,700 - INFO - Evento: Arquivo carregado: Image_4.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_4.jpg
+2025-02-15 17:17:45,700 - INFO - Evento: Arquivo carregado: Image_5.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_5.jpg
+2025-02-15 17:17:45,700 - INFO - Evento: Arquivo carregado: Image_3.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_3.jpg
+2025-02-15 17:17:45,961 - INFO - Evento: Arquivo carregado: Music_4.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_4.mp3
+2025-02-15 17:17:45,961 - INFO - Evento: Arquivo carregado: Music_5.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_5.mp3
+2025-02-15 17:17:45,961 - INFO - Evento: Arquivo carregado: Music_2.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_2.mp3
+2025-02-15 17:17:51,280 - WARNING - Evento: Nenhuma sequência ativa encontrada.
+2025-02-15 17:17:51,280 - WARNING - Evento: Nenhuma sequência ativa encontrada.
+2025-02-15 17:17:51,280 - CRITICAL - Evento: Erro ao executar função: unsupported operand type(s) for /: 'NoneType' and 'int'
+2025-02-15 17:17:59,633 - WARNING - Evento: Nenhuma sequência ativa encontrada.
+2025-02-15 17:17:59,633 - WARNING - Evento: Nenhuma sequência ativa encontrada.
+2025-02-15 17:17:59,633 - CRITICAL - Evento: Erro ao executar função: unsupported operand type(s) for /: 'NoneType' and 'int'
+2025-02-15 17:18:01,738 - WARNING - Evento: Nenhuma sequência ativa encontrada.
+2025-02-15 17:18:01,738 - WARNING - Evento: Nenhuma sequência ativa encontrada.
+2025-02-15 17:18:01,738 - CRITICAL - Evento: Erro ao executar função: unsupported operand type(s) for /: 'NoneType' and 'int'
+2025-02-15 17:18:02,668 - INFO - Evento: Arquivo carregado: Image_4.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_4.jpg
+2025-02-15 17:18:02,668 - INFO - Evento: Arquivo carregado: Image_1.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_1.jpg
+2025-02-15 17:18:02,668 - INFO - Evento: Arquivo carregado: Image_2.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_2.jpg
+2025-02-15 17:18:02,875 - INFO - Evento: Arquivo carregado: Music_3.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_3.mp3
+2025-02-15 17:18:02,875 - INFO - Evento: Arquivo carregado: Music_1.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_1.mp3
+2025-02-15 17:18:02,875 - INFO - Evento: Arquivo carregado: Music_2.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_2.mp3
+2025-02-15 17:18:03,952 - WARNING - Evento: Nenhuma sequência ativa encontrada.
+2025-02-15 17:18:03,952 - WARNING - Evento: Nenhuma sequência ativa encontrada.
+2025-02-15 17:18:03,952 - CRITICAL - Evento: Erro ao executar função: unsupported operand type(s) for /: 'NoneType' and 'int'
+2025-02-15 17:18:06,700 - WARNING - Evento: Nenhuma sequência ativa encontrada.
+2025-02-15 17:18:27,275 - INFO - Evento: Arquivo carregado: Image_4.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_4.jpg
+2025-02-15 17:18:27,275 - INFO - Evento: Arquivo carregado: Image_1.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_1.jpg
+2025-02-15 17:18:27,275 - INFO - Evento: Arquivo carregado: Image_5.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_5.jpg
+2025-02-15 17:18:27,419 - INFO - Evento: Arquivo carregado: Music_5.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_5.mp3
+2025-02-15 17:18:27,419 - INFO - Evento: Arquivo carregado: Music_1.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_1.mp3
+2025-02-15 17:18:27,419 - INFO - Evento: Arquivo carregado: Music_4.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_4.mp3
+2025-02-15 17:18:28,324 - WARNING - Evento: Nenhuma sequência ativa encontrada.
+2025-02-15 17:18:28,324 - WARNING - Evento: Nenhuma sequência ativa encontrada.
+2025-02-15 17:18:28,325 - CRITICAL - Evento: Erro ao executar função: unsupported operand type(s) for /: 'NoneType' and 'int'
+2025-02-15 17:18:31,137 - INFO - Evento: Projeto Premiere Pro Desconectado!
+2025-02-15 17:18:34,212 - INFO - Evento: Projeto Premiere Pro Conectado!
+2025-02-15 17:19:07,216 - INFO - Evento: Arquivo carregado: Image_3.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_3.jpg
+2025-02-15 17:19:07,216 - INFO - Evento: Arquivo carregado: Image_2.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_2.jpg
+2025-02-15 17:19:07,216 - INFO - Evento: Arquivo carregado: Image_1.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_1.jpg
+2025-02-15 17:19:07,362 - INFO - Evento: Arquivo carregado: Music_4.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_4.mp3
+2025-02-15 17:19:07,362 - INFO - Evento: Arquivo carregado: Music_1.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_1.mp3
+2025-02-15 17:19:07,362 - INFO - Evento: Arquivo carregado: Music_2.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_2.mp3
+2025-02-15 17:19:08,997 - INFO - Evento: Adicionando áudio Music_4.mp3 na sequência
+2025-02-15 17:19:09,097 - INFO - Evento: Adicionando áudio Music_1.mp3 na sequência
+2025-02-15 17:19:09,189 - INFO - Evento: Adicionando áudio Music_2.mp3 na sequência
+2025-02-15 17:19:09,208 - INFO - Evento: Obtendo duração da sequência: 216739761638400 ticks
+2025-02-15 17:19:09,305 - INFO - Evento: Adicionando imagem Image_3.jpg na sequência
+2025-02-15 17:19:09,484 - INFO - Evento: Adicionando imagem Image_2.jpg na sequência
+2025-02-15 17:19:09,596 - INFO - Evento: Adicionando imagem Image_1.jpg na sequência
+2025-02-15 17:19:14,778 - INFO - Evento: Removendo clipe de vídeo
+2025-02-15 17:19:14,828 - INFO - Evento: Removendo clipe de vídeo
+2025-02-15 17:19:14,862 - INFO - Evento: Removendo clipe de vídeo
+2025-02-15 17:19:14,940 - INFO - Evento: Removendo clipe de áudio
+2025-02-15 17:19:14,975 - INFO - Evento: Removendo clipe de áudio
+2025-02-15 17:19:15,005 - INFO - Evento: Removendo clipe de áudio
+2025-02-15 17:19:15,042 - INFO - Evento: Sequência limpa
+2025-02-15 17:19:15,920 - INFO - Evento: Arquivo carregado: Image_4.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_4.jpg
+2025-02-15 17:19:15,920 - INFO - Evento: Arquivo carregado: Image_5.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_5.jpg
+2025-02-15 17:19:15,920 - INFO - Evento: Arquivo carregado: Image_1.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_1.jpg
+2025-02-15 17:19:16,037 - INFO - Evento: Arquivo carregado: Music_2.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_2.mp3
+2025-02-15 17:19:16,037 - INFO - Evento: Arquivo carregado: Music_3.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_3.mp3
+2025-02-15 17:19:16,037 - INFO - Evento: Arquivo carregado: Music_5.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_5.mp3
+2025-02-15 17:19:18,412 - INFO - Evento: Adicionando áudio Music_2.mp3 na sequência
+2025-02-15 17:19:18,523 - INFO - Evento: Adicionando áudio Music_3.mp3 na sequência
+2025-02-15 17:19:18,641 - INFO - Evento: Adicionando áudio Music_5.mp3 na sequência
+2025-02-15 17:19:18,657 - INFO - Evento: Obtendo duração da sequência: 198911195683200 ticks
+2025-02-15 17:19:18,792 - INFO - Evento: Adicionando imagem Image_4.jpg na sequência
+2025-02-15 17:19:18,926 - INFO - Evento: Adicionando imagem Image_5.jpg na sequência
+2025-02-15 17:19:19,047 - INFO - Evento: Adicionando imagem Image_1.jpg na sequência
+2025-02-15 17:19:24,987 - INFO - Evento: Removendo clipe de vídeo
+2025-02-15 17:19:25,028 - INFO - Evento: Removendo clipe de vídeo
+2025-02-15 17:19:25,064 - INFO - Evento: Removendo clipe de vídeo
+2025-02-15 17:19:25,154 - INFO - Evento: Removendo clipe de áudio
+2025-02-15 17:19:25,187 - INFO - Evento: Removendo clipe de áudio
+2025-02-15 17:19:25,219 - INFO - Evento: Removendo clipe de áudio
+2025-02-15 17:19:25,259 - INFO - Evento: Sequência limpa
+2025-02-15 17:19:25,840 - INFO - Evento: Adicionando áudio Music_2.mp3 na sequência
+2025-02-15 17:19:25,951 - INFO - Evento: Adicionando áudio Music_3.mp3 na sequência
+2025-02-15 17:19:26,070 - INFO - Evento: Adicionando áudio Music_5.mp3 na sequência
+2025-02-15 17:19:26,090 - INFO - Evento: Obtendo duração da sequência: 198911195683200 ticks
+2025-02-15 17:19:26,214 - INFO - Evento: Adicionando imagem Image_4.jpg na sequência
+2025-02-15 17:19:26,339 - INFO - Evento: Adicionando imagem Image_5.jpg na sequência
+2025-02-15 17:19:26,461 - INFO - Evento: Adicionando imagem Image_1.jpg na sequência
+2025-02-15 17:20:14,551 - INFO - Evento: Arquivo carregado: Image_3.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_3.jpg
+2025-02-15 17:20:14,552 - INFO - Evento: Arquivo carregado: Image_4.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_4.jpg
+2025-02-15 17:20:14,732 - INFO - Evento: Arquivo carregado: Music_5.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_5.mp3
+2025-02-15 17:20:14,732 - INFO - Evento: Arquivo carregado: Music_2.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_2.mp3
+2025-02-15 17:20:14,732 - INFO - Evento: Arquivo carregado: Music_1.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_1.mp3
+2025-02-15 17:20:18,834 - INFO - Evento: Removendo clipe de vídeo
+2025-02-15 17:20:18,879 - INFO - Evento: Removendo clipe de vídeo
+2025-02-15 17:20:18,914 - INFO - Evento: Removendo clipe de vídeo
+2025-02-15 17:20:19,014 - INFO - Evento: Removendo clipe de áudio
+2025-02-15 17:20:19,048 - INFO - Evento: Removendo clipe de áudio
+2025-02-15 17:20:19,079 - INFO - Evento: Removendo clipe de áudio
+2025-02-15 17:20:19,116 - INFO - Evento: Sequência limpa
+2025-02-15 17:20:21,927 - INFO - Evento: Adicionando áudio Music_5.mp3 na sequência
+2025-02-15 17:20:22,036 - INFO - Evento: Adicionando áudio Music_2.mp3 na sequência
+2025-02-15 17:20:22,144 - INFO - Evento: Adicionando áudio Music_1.mp3 na sequência
+2025-02-15 17:20:22,161 - INFO - Evento: Obtendo duração da sequência: 221816686291200 ticks
+2025-02-15 17:20:22,272 - INFO - Evento: Adicionando imagem Image_3.jpg na sequência
+2025-02-15 17:20:22,404 - INFO - Evento: Adicionando imagem Image_4.jpg na sequência
+2025-02-15 17:20:31,222 - INFO - Evento: Removendo clipe de vídeo
+2025-02-15 17:20:31,259 - INFO - Evento: Removendo clipe de vídeo
+2025-02-15 17:20:31,348 - INFO - Evento: Removendo clipe de áudio
+2025-02-15 17:20:31,380 - INFO - Evento: Removendo clipe de áudio
+2025-02-15 17:20:31,413 - INFO - Evento: Removendo clipe de áudio
+2025-02-15 17:20:31,451 - INFO - Evento: Sequência limpa
+2025-02-15 17:20:33,734 - INFO - Evento: Adicionando áudio Music_5.mp3 na sequência
+2025-02-15 17:20:33,839 - INFO - Evento: Adicionando áudio Music_2.mp3 na sequência
+2025-02-15 17:20:33,941 - INFO - Evento: Adicionando áudio Music_1.mp3 na sequência
+2025-02-15 17:20:33,958 - INFO - Evento: Obtendo duração da sequência: 221816686291200 ticks
+2025-02-15 17:20:34,064 - INFO - Evento: Adicionando imagem Image_3.jpg na sequência
+2025-02-15 17:20:34,184 - INFO - Evento: Adicionando imagem Image_4.jpg na sequência
+2025-02-15 17:23:01,846 - INFO - Evento: Arquivo carregado: Image_3.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_3.jpg
+2025-02-15 17:23:01,847 - INFO - Evento: Arquivo carregado: Image_4.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_4.jpg
+2025-02-15 17:23:01,847 - INFO - Evento: Arquivo carregado: Image_1.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_1.jpg
+2025-02-15 17:23:01,847 - INFO - Evento: Arquivo carregado: Image_5.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_5.jpg
+2025-02-15 17:23:02,009 - INFO - Evento: Arquivo carregado: Music_2.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_2.mp3
+2025-02-15 17:23:02,009 - INFO - Evento: Arquivo carregado: Music_4.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_4.mp3
+2025-02-15 17:23:07,040 - INFO - Evento: Adicionando áudio Music_2.mp3 na sequência
+2025-02-15 17:23:07,124 - INFO - Evento: Adicionando áudio Music_4.mp3 na sequência
+2025-02-15 17:23:07,142 - INFO - Evento: Obtendo duração da sequência: 140729978188800 ticks
+2025-02-15 17:23:07,227 - INFO - Evento: Adicionando imagem Image_3.jpg na sequência
+2025-02-15 17:23:07,324 - INFO - Evento: Adicionando imagem Image_4.jpg na sequência
+2025-02-15 17:23:07,417 - INFO - Evento: Adicionando imagem Image_1.jpg na sequência
+2025-02-15 17:23:07,516 - INFO - Evento: Adicionando imagem Image_5.jpg na sequência
+2025-02-15 17:23:22,231 - INFO - Evento: Removendo clipe de vídeo
+2025-02-15 17:23:22,265 - INFO - Evento: Removendo clipe de vídeo
+2025-02-15 17:23:22,299 - INFO - Evento: Removendo clipe de vídeo
+2025-02-15 17:23:22,332 - INFO - Evento: Removendo clipe de vídeo
+2025-02-15 17:23:22,414 - INFO - Evento: Removendo clipe de áudio
+2025-02-15 17:23:22,446 - INFO - Evento: Removendo clipe de áudio
+2025-02-15 17:23:22,486 - INFO - Evento: Sequência limpa
+2025-02-15 17:23:48,871 - INFO - Evento: Arquivo carregado: Image_3.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_3.jpg
+2025-02-15 17:23:49,020 - INFO - Evento: Arquivo carregado: Music_5.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_5.mp3
+2025-02-15 17:23:49,020 - INFO - Evento: Arquivo carregado: Music_1.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_1.mp3
+2025-02-15 17:23:49,020 - INFO - Evento: Arquivo carregado: Music_4.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_4.mp3
+2025-02-15 17:23:49,020 - INFO - Evento: Arquivo carregado: Music_2.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_2.mp3
+2025-02-15 17:23:59,353 - INFO - Evento: Adicionando áudio Music_5.mp3 na sequência
+2025-02-15 17:23:59,452 - INFO - Evento: Adicionando áudio Music_1.mp3 na sequência
+2025-02-15 17:23:59,547 - INFO - Evento: Adicionando áudio Music_4.mp3 na sequência
+2025-02-15 17:23:59,647 - INFO - Evento: Adicionando áudio Music_2.mp3 na sequência
+2025-02-15 17:23:59,665 - INFO - Evento: Obtendo duração da sequência: 303653490940800 ticks
+2025-02-15 17:23:59,764 - INFO - Evento: Adicionando imagem Image_3.jpg na sequência
+2025-02-15 17:24:50,092 - INFO - Evento: Arquivo carregado: Image_4.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_4.jpg
+2025-02-15 17:24:50,092 - INFO - Evento: Arquivo carregado: Image_5.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_5.jpg
+2025-02-15 17:24:50,301 - INFO - Evento: Arquivo carregado: Music_4.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_4.mp3
+2025-02-15 17:24:50,301 - INFO - Evento: Arquivo carregado: Music_5.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_5.mp3
+2025-02-15 17:24:52,402 - INFO - Evento: Removendo clipe de vídeo
+2025-02-15 17:24:52,484 - INFO - Evento: Removendo clipe de áudio
+2025-02-15 17:24:52,517 - INFO - Evento: Removendo clipe de áudio
+2025-02-15 17:24:52,551 - INFO - Evento: Removendo clipe de áudio
+2025-02-15 17:24:52,583 - INFO - Evento: Removendo clipe de áudio
+2025-02-15 17:24:52,617 - INFO - Evento: Sequência limpa
+2025-02-15 17:24:53,634 - INFO - Evento: Adicionando áudio Music_4.mp3 na sequência
+2025-02-15 17:24:53,730 - INFO - Evento: Adicionando áudio Music_5.mp3 na sequência
+2025-02-15 17:24:53,749 - INFO - Evento: Obtendo duração da sequência: 168750533952000 ticks
+2025-02-15 17:24:53,850 - INFO - Evento: Adicionando imagem Image_4.jpg na sequência
+2025-02-15 17:24:53,968 - INFO - Evento: Adicionando imagem Image_5.jpg na sequência
+2025-02-15 17:29:53,524 - INFO - Evento: Projeto Premiere Pro Desconectado!

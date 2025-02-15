@@ -1,0 +1,115 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background-color: #1e1e1e;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    background-color: #2b2b2b;
+    padding: 20px;
+    border-radius: 8px;
+    width: 400px;
+    text-align: center;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #444;
+    margin-bottom: 15px;
+}
+
+.file-box {
+    background-color: #333;
+    padding: 10px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    flex-direction: column;
+}
+
+.file-label {
+    font-size: 14px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.file-input {
+    display: none;
+}
+
+.file-btn {
+    background: #444;
+    border: none;
+    color: white;
+    padding: 8px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.file-btn:hover {
+    background: #555;
+}
+
+.counter {
+    display: flex;
+    align-items: center;
+    margin-top: 8px;
+}
+
+.counter button {
+    background: #555;
+    border: none;
+    color: white;
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+.count {
+    margin: 0 10px;
+}
+
+.options {
+    display: flex;
+    flex-direction: column;
+    margin-top: 8px;
+}
+
+.options label {
+    font-size: 12px;
+}
+
+.buttons {
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.action-btn {
+    background: #444;
+    border: none;
+    color: white;
+    padding: 8px;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 32%;
+}
+
+.action-btn:hover {
+    background: #555;
+}

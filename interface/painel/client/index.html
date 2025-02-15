@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerenciador de Arquivos</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="header">
+            <span>Source File</span>
+            <span>Mix Size</span>
+            <span>Settings</span>
+        </div>
+
+        <div class="file-box">
+            <label class="file-label">Imagens</label>
+            <input type="file" id="imageInput" class="file-input" multiple>
+            <button class="file-btn" onclick="openFileSelector('imageInput', 'imageFolderCheck')">Procurar
+                Arquivo</button>
+            <div class="counter">
+                <button class="minus">-</button>
+                <span class="count">1</span>
+                <button class="plus">+</button>
+            </div>
+            <div class="options">
+                <label>
+                    <input type="checkbox" id="imageFolderCheck" checked
+                        onchange="toggleFileInput('imageInput', this.checked)"> Importar pasta
+                </label>
+                <label>
+                    <input type="checkbox" id="imageShuffleCheck"> Embaralhar
+                </label>
+            </div>
+        </div>
+
+        <div class="file-box">
+            <label class="file-label">Músicas</label>
+            <input type="file" id="musicInput" class="file-input" multiple>
+            <button class="file-btn" onclick="openFileSelector('musicInput', 'musicFolderCheck')">Procurar
+                Arquivo</button>
+            <div class="counter">
+                <button class="minus">-</button>
+                <span class="count">1</span>
+                <button class="plus">+</button>
+            </div>
+            <div class="options">
+                <label>
+                    <input type="checkbox" id="musicFolderCheck" checked
+                        onchange="toggleFileInput('musicInput', this.checked)"> Importar pasta
+                </label>
+                <label>
+                    <input type="checkbox" id="musicShuffleCheck"> Embaralhar
+                </label>
+            </div>
+        </div>
+
+        <div class="buttons">
+            <button class="action-btn" id="clearFilesBtn">Limpar Sequência</button>
+            <button class="action-btn" id="importFilesBtn">Importar Arquivos</button>
+            <button class="action-btn" id="addFilesBtn">Adicionar à Sequência</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

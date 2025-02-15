@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExtensionManifest Version="7.0" ExtensionBundleId="com.suaempresa.suaextensao" ExtensionBundleVersion="1.0.0" ExtensionBundleName="Minha Extensão">
+    <ExtensionList>
+        <Extension Id="com.suaempresa.suaextensao.panel" Version="1.0.0" />
+    </ExtensionList>
+    
+    <ExecutionEnvironment>
+        <HostList>
+            <Host Name="PPRO" Version="[23.0,99.0]" /> <!-- Adobe Premiere Pro versão 23 ou superior -->
+        </HostList>
+        <LocaleList>
+            <Locale Code="en_US" />
+            <Locale Code="pt_BR" />
+        </LocaleList>
+        <RequiredRuntimeList>
+            <RequiredRuntime Name="CSXS" Version="12.0" /> <!-- Atualizado para CSXS versão 12 -->
+        </RequiredRuntimeList>
+    </ExecutionEnvironment>
+    
+    <DispatchInfoList>
+        <Extension Id="com.suaempresa.suaextensao.panel">
+            <DispatchInfo>
+                <Resources>
+                    <MainPath>./client/index.html</MainPath>
+                    <CEFCommandLine>
+                        <Parameter>--enable-nodejs</Parameter>
+                    </CEFCommandLine>
+                </Resources>
+                <Lifecycle>
+                    <AutoVisible>true</AutoVisible>
+                </Lifecycle>
+                <UI>
+                    <Type>Panel</Type>
+                    <Menu>Minha Extensão</Menu>
+                    <Geometry>
+                        <Size>
+                            <Height>350</Height>
+                            <Width>400</Width>
+                        </Size>
+                    </Geometry>
+                </UI>
+            </DispatchInfo>
+        </Extension>
+    </DispatchInfoList>
+</ExtensionManifest>

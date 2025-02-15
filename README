@@ -1,0 +1,6 @@
+Passo 1:
+Execute esse comando no powershell como administrador
+Set-ItemProperty -Path "HKCU:\Software\Adobe\CSXS.12" -Name "PlayerDebugMode" -Value "1"
+
+Passo 2:
+Executar programs\extension_installer_win.bat como administrador no prompt de comando (CMD)
