@@ -2276,3 +2276,196 @@
 2025-02-25 04:58:01,562 - INFO - Evento: Projeto Premiere Pro Conectado!
 2025-02-25 05:14:58,654 - INFO - Evento: Projeto Premiere Pro Desconectado!
 2025-02-25 05:15:01,218 - INFO - Evento: Projeto Premiere Pro Conectado!
+2025-02-25 05:15:10,853 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 05:15:10,854 - INFO - Evento: Arquivo carregado: Image (71).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (71).png
+2025-02-25 05:15:10,854 - INFO - Evento: Arquivo carregado: Image (13).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (13).png
+2025-02-25 05:15:10,854 - INFO - Evento: Arquivo carregado: Image (107).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (107).png
+2025-02-25 05:15:10,854 - INFO - Evento: Arquivo carregado: Image (84).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (84).png
+2025-02-25 05:15:10,855 - INFO - Evento: Arquivo carregado: Image (19).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (19).png
+2025-02-25 05:15:16,562 - INFO - Evento: Arquivos de imagem: ['C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (71).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (13).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (107).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (84).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (19).png']
+2025-02-25 05:15:23,226 - INFO - Evento: Obtendo número de trilhas de vídeo: 0
+2025-02-25 05:15:23,226 - CRITICAL - Evento: Erro ao executar função: unsupported operand type(s) for /: 'str' and 'int'
+2025-02-25 05:15:37,692 - INFO - Evento: Obtendo número de trilhas de vídeo: 0
+2025-02-25 05:15:37,692 - CRITICAL - Evento: Erro ao executar função: unsupported operand type(s) for /: 'str' and 'int'
+2025-02-25 05:15:39,064 - INFO - Evento: Arquivos de imagem: ['C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (71).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (13).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (107).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (84).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (19).png']
+2025-02-25 05:15:42,267 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 05:15:42,268 - INFO - Evento: Arquivo carregado: Image (131).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (131).png
+2025-02-25 05:15:42,268 - INFO - Evento: Arquivo carregado: Image (120).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (120).png
+2025-02-25 05:15:42,268 - INFO - Evento: Arquivo carregado: Image (132).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (132).png
+2025-02-25 05:15:42,268 - INFO - Evento: Arquivo carregado: Image (99).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (99).png
+2025-02-25 05:15:42,270 - INFO - Evento: Arquivo carregado: Image (60).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (60).png
+2025-02-25 05:15:44,425 - INFO - Evento: Arquivos de imagem: ['C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (131).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (120).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (132).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (99).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (60).png']
+2025-02-25 05:15:45,695 - INFO - Evento: Obtendo número de trilhas de vídeo: 0
+2025-02-25 05:15:45,695 - CRITICAL - Evento: Erro ao executar função: unsupported operand type(s) for /: 'str' and 'int'
+2025-02-25 05:16:10,930 - INFO - Evento: Modo de embaralhamento: False, Modo de pasta: True
+2025-02-25 05:16:10,931 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (1).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (1).MP3
+2025-02-25 05:16:10,931 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (10).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (10).MP3
+2025-02-25 05:16:10,931 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (2).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (2).MP3
+2025-02-25 05:16:10,931 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (3).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (3).MP3
+2025-02-25 05:16:10,932 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (4).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (4).MP3
+2025-02-25 05:16:10,932 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (5).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (5).MP3
+2025-02-25 05:16:43,208 - CRITICAL - Evento: Erro ao executar função: Arquivo NaoFazsentidonenhum (1).MP3 não encontrado no projeto!
+2025-02-25 05:16:43,209 - CRITICAL - Evento: Erro ao executar função: arg "clipProjectItem" of function "Track.insertClip" shoud be of type <class 'pymiere.objects.premiere_objects.ProjectItem'> but got 'None' (type <class 'NoneType'>)
+2025-02-25 05:16:43,214 - INFO - Evento: Obtendo duração da sequência: 0 ticks
+2025-02-25 05:16:48,213 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\NaoFazsentidonenhum (1).MP3', 'C:\\Users\\zryyh\\Music\\musicas\\NaoFazsentidonenhum (10).MP3', 'C:\\Users\\zryyh\\Music\\musicas\\NaoFazsentidonenhum (2).MP3', 'C:\\Users\\zryyh\\Music\\musicas\\NaoFazsentidonenhum (3).MP3', 'C:\\Users\\zryyh\\Music\\musicas\\NaoFazsentidonenhum (4).MP3', 'C:\\Users\\zryyh\\Music\\musicas\\NaoFazsentidonenhum (5).MP3']
+2025-02-25 05:16:51,854 - INFO - Evento: Adicionando áudio NaoFazsentidonenhum (1).MP3 na sequência
+2025-02-25 05:16:52,030 - INFO - Evento: Adicionando áudio NaoFazsentidonenhum (10).MP3 na sequência
+2025-02-25 05:16:52,232 - INFO - Evento: Adicionando áudio NaoFazsentidonenhum (2).MP3 na sequência
+2025-02-25 05:16:52,394 - INFO - Evento: Adicionando áudio NaoFazsentidonenhum (3).MP3 na sequência
+2025-02-25 05:16:52,558 - INFO - Evento: Adicionando áudio NaoFazsentidonenhum (4).MP3 na sequência
+2025-02-25 05:16:52,770 - INFO - Evento: Adicionando áudio NaoFazsentidonenhum (5).MP3 na sequência
+2025-02-25 05:16:52,794 - INFO - Evento: Obtendo duração da sequência: 4490586471571200 ticks
+2025-02-25 05:17:00,013 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 05:17:00,013 - INFO - Evento: Arquivo carregado: Image (81).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (81).png
+2025-02-25 05:17:00,013 - INFO - Evento: Arquivo carregado: Image (25).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (25).png
+2025-02-25 05:17:00,013 - INFO - Evento: Arquivo carregado: Image (27).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (27).png
+2025-02-25 05:17:00,013 - INFO - Evento: Arquivo carregado: Image (5).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (5).png
+2025-02-25 05:17:02,216 - INFO - Evento: Arquivos de imagem: ['C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (81).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (25).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (27).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (5).png']
+2025-02-25 05:17:06,591 - INFO - Evento: Obtendo número de trilhas de vídeo: 0
+2025-02-25 05:17:06,809 - INFO - Evento: Adicionando imagem Image (81).png na sequência
+2025-02-25 05:17:07,037 - INFO - Evento: Adicionando imagem Image (25).png na sequência
+2025-02-25 05:17:07,267 - INFO - Evento: Adicionando imagem Image (27).png na sequência
+2025-02-25 05:17:07,484 - INFO - Evento: Adicionando imagem Image (5).png na sequência
+2025-02-25 05:17:27,713 - INFO - Evento: Removendo clipe de vídeo: {track.clips[0].name}
+2025-02-25 05:17:27,744 - INFO - Evento: Removendo clipe de vídeo: {track.clips[0].name}
+2025-02-25 05:17:27,776 - INFO - Evento: Removendo clipe de vídeo: {track.clips[0].name}
+2025-02-25 05:17:27,807 - INFO - Evento: Removendo clipe de vídeo: {track.clips[0].name}
+2025-02-25 05:17:27,835 - INFO - Evento: Imagens removidas da sequência
+2025-02-25 05:17:28,920 - INFO - Evento: Removendo clipe de áudio: {track.clips[0].name}
+2025-02-25 05:17:28,949 - INFO - Evento: Removendo clipe de áudio: {track.clips[0].name}
+2025-02-25 05:17:28,980 - INFO - Evento: Removendo clipe de áudio: {track.clips[0].name}
+2025-02-25 05:17:29,010 - INFO - Evento: Removendo clipe de áudio: {track.clips[0].name}
+2025-02-25 05:17:29,043 - INFO - Evento: Removendo clipe de áudio: {track.clips[0].name}
+2025-02-25 05:17:29,073 - INFO - Evento: Removendo clipe de áudio: {track.clips[0].name}
+2025-02-25 05:17:29,115 - INFO - Evento: Áudios removidos da sequência
+2025-02-25 05:17:36,235 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 05:17:36,235 - INFO - Evento: Arquivo carregado: Image (118).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (118).png
+2025-02-25 05:17:36,236 - INFO - Evento: Arquivo carregado: Image (63).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (63).png
+2025-02-25 05:17:36,236 - INFO - Evento: Arquivo carregado: Image (38).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (38).png
+2025-02-25 05:17:40,015 - INFO - Evento: Arquivos de imagem: ['C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (118).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (63).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (38).png']
+2025-02-25 05:17:44,959 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 05:17:44,959 - INFO - Evento: Arquivo carregado: Image (27).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (27).png
+2025-02-25 05:17:44,959 - INFO - Evento: Arquivo carregado: Image (133).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (133).png
+2025-02-25 05:17:44,959 - INFO - Evento: Arquivo carregado: Image (42).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (42).png
+2025-02-25 05:17:48,204 - INFO - Evento: Arquivos de imagem: ['C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (27).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (133).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (42).png']
+2025-02-25 05:17:51,178 - INFO - Evento: Obtendo número de trilhas de vídeo: 0
+2025-02-25 05:17:51,407 - INFO - Evento: Adicionando imagem Image (27).png na sequência
+2025-02-25 05:17:51,636 - INFO - Evento: Adicionando imagem Image (133).png na sequência
+2025-02-25 05:17:51,876 - INFO - Evento: Adicionando imagem Image (42).png na sequência
+2025-02-25 05:18:30,688 - INFO - Evento: Modo de embaralhamento: False, Modo de pasta: True
+2025-02-25 05:18:30,689 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (1).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (1).MP3
+2025-02-25 05:18:30,689 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (10).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (10).MP3
+2025-02-25 05:18:30,689 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (2).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (2).MP3
+2025-02-25 05:18:30,689 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (3).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (3).MP3
+2025-02-25 05:18:30,689 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (4).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (4).MP3
+2025-02-25 05:18:30,689 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (5).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (5).MP3
+2025-02-25 05:18:35,240 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\NaoFazsentidonenhum (1).MP3', 'C:\\Users\\zryyh\\Music\\musicas\\NaoFazsentidonenhum (10).MP3', 'C:\\Users\\zryyh\\Music\\musicas\\NaoFazsentidonenhum (2).MP3', 'C:\\Users\\zryyh\\Music\\musicas\\NaoFazsentidonenhum (3).MP3', 'C:\\Users\\zryyh\\Music\\musicas\\NaoFazsentidonenhum (4).MP3', 'C:\\Users\\zryyh\\Music\\musicas\\NaoFazsentidonenhum (5).MP3']
+2025-02-25 05:18:40,143 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\NaoFazsentidonenhum (1).MP3', 'C:\\Users\\zryyh\\Music\\musicas\\NaoFazsentidonenhum (10).MP3', 'C:\\Users\\zryyh\\Music\\musicas\\NaoFazsentidonenhum (2).MP3', 'C:\\Users\\zryyh\\Music\\musicas\\NaoFazsentidonenhum (3).MP3', 'C:\\Users\\zryyh\\Music\\musicas\\NaoFazsentidonenhum (4).MP3', 'C:\\Users\\zryyh\\Music\\musicas\\NaoFazsentidonenhum (5).MP3']
+2025-02-25 05:18:42,097 - INFO - Evento: Adicionando áudio NaoFazsentidonenhum (1).MP3 na sequência
+2025-02-25 05:18:42,293 - INFO - Evento: Adicionando áudio NaoFazsentidonenhum (10).MP3 na sequência
+2025-02-25 05:18:42,490 - INFO - Evento: Adicionando áudio NaoFazsentidonenhum (2).MP3 na sequência
+2025-02-25 05:18:42,686 - INFO - Evento: Adicionando áudio NaoFazsentidonenhum (3).MP3 na sequência
+2025-02-25 05:18:42,883 - INFO - Evento: Adicionando áudio NaoFazsentidonenhum (4).MP3 na sequência
+2025-02-25 05:18:43,077 - INFO - Evento: Adicionando áudio NaoFazsentidonenhum (5).MP3 na sequência
+2025-02-25 05:18:43,094 - INFO - Evento: Obtendo duração da sequência: 4490586471571200 ticks
+2025-02-25 05:18:56,329 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\NaoFazsentidonenhum (1).MP3', 'C:\\Users\\zryyh\\Music\\musicas\\NaoFazsentidonenhum (10).MP3', 'C:\\Users\\zryyh\\Music\\musicas\\NaoFazsentidonenhum (2).MP3', 'C:\\Users\\zryyh\\Music\\musicas\\NaoFazsentidonenhum (3).MP3', 'C:\\Users\\zryyh\\Music\\musicas\\NaoFazsentidonenhum (4).MP3', 'C:\\Users\\zryyh\\Music\\musicas\\NaoFazsentidonenhum (5).MP3']
+2025-02-25 05:19:00,337 - INFO - Evento: Removendo clipe de áudio: {track.clips[0].name}
+2025-02-25 05:19:00,372 - INFO - Evento: Removendo clipe de áudio: {track.clips[0].name}
+2025-02-25 05:19:00,404 - INFO - Evento: Removendo clipe de áudio: {track.clips[0].name}
+2025-02-25 05:19:00,438 - INFO - Evento: Removendo clipe de áudio: {track.clips[0].name}
+2025-02-25 05:19:00,472 - INFO - Evento: Removendo clipe de áudio: {track.clips[0].name}
+2025-02-25 05:19:00,503 - INFO - Evento: Removendo clipe de áudio: {track.clips[0].name}
+2025-02-25 05:19:00,542 - INFO - Evento: Áudios removidos da sequência
+2025-02-25 05:19:01,937 - INFO - Evento: Modo de embaralhamento: False, Modo de pasta: True
+2025-02-25 05:19:01,937 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (1).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (1).MP3
+2025-02-25 05:19:01,937 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (10).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (10).MP3
+2025-02-25 05:19:01,940 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (2).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (2).MP3
+2025-02-25 05:19:03,221 - INFO - Evento: Modo de embaralhamento: False, Modo de pasta: True
+2025-02-25 05:19:03,222 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (1).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (1).MP3
+2025-02-25 05:19:03,222 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (10).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (10).MP3
+2025-02-25 05:19:03,222 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (2).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (2).MP3
+2025-02-25 05:19:03,477 - INFO - Evento: Modo de embaralhamento: False, Modo de pasta: True
+2025-02-25 05:19:03,479 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (1).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (1).MP3
+2025-02-25 05:19:03,479 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (10).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (10).MP3
+2025-02-25 05:19:03,479 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (2).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (2).MP3
+2025-02-25 05:19:04,150 - INFO - Evento: Modo de embaralhamento: False, Modo de pasta: True
+2025-02-25 05:19:04,150 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (1).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (1).MP3
+2025-02-25 05:19:04,150 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (10).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (10).MP3
+2025-02-25 05:19:04,151 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (2).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (2).MP3
+2025-02-25 05:19:04,961 - INFO - Evento: Modo de embaralhamento: False, Modo de pasta: True
+2025-02-25 05:19:04,961 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (1).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (1).MP3
+2025-02-25 05:19:04,961 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (10).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (10).MP3
+2025-02-25 05:19:04,962 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (2).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (2).MP3
+2025-02-25 05:19:05,501 - INFO - Evento: Modo de embaralhamento: False, Modo de pasta: True
+2025-02-25 05:19:05,501 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (1).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (1).MP3
+2025-02-25 05:19:05,501 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (10).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (10).MP3
+2025-02-25 05:19:05,502 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (2).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (2).MP3
+2025-02-25 05:19:07,006 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 05:19:07,006 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (6).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (6).MP3
+2025-02-25 05:19:07,006 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (4).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (4).MP3
+2025-02-25 05:19:07,008 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (10).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (10).MP3
+2025-02-25 05:19:07,401 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 05:19:07,401 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (3).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (3).MP3
+2025-02-25 05:19:07,402 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (4).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (4).MP3
+2025-02-25 05:19:07,402 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (1).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (1).MP3
+2025-02-25 05:19:07,762 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 05:19:07,762 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (10).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (10).MP3
+2025-02-25 05:19:07,762 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (9).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (9).MP3
+2025-02-25 05:19:07,763 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (7).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (7).MP3
+2025-02-25 05:19:08,134 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 05:19:08,134 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (1).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (1).MP3
+2025-02-25 05:19:08,135 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (5).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (5).MP3
+2025-02-25 05:19:08,135 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (9).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (9).MP3
+2025-02-25 05:19:08,475 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 05:19:08,476 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (6).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (6).MP3
+2025-02-25 05:19:08,476 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (8).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (8).MP3
+2025-02-25 05:19:08,476 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (5).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (5).MP3
+2025-02-25 05:19:08,769 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 05:19:08,770 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (1).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (1).MP3
+2025-02-25 05:19:08,770 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (7).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (7).MP3
+2025-02-25 05:19:08,770 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (6).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (6).MP3
+2025-02-25 05:19:10,544 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\NaoFazsentidonenhum (1).MP3', 'C:\\Users\\zryyh\\Music\\musicas\\NaoFazsentidonenhum (7).MP3', 'C:\\Users\\zryyh\\Music\\musicas\\NaoFazsentidonenhum (6).MP3']
+2025-02-25 05:19:12,567 - INFO - Evento: Adicionando áudio NaoFazsentidonenhum (1).MP3 na sequência
+2025-02-25 05:19:12,797 - INFO - Evento: Adicionando áudio NaoFazsentidonenhum (7).MP3 na sequência
+2025-02-25 05:19:13,032 - INFO - Evento: Adicionando áudio NaoFazsentidonenhum (6).MP3 na sequência
+2025-02-25 05:19:13,049 - INFO - Evento: Obtendo duração da sequência: 4490561044569600 ticks
+2025-02-25 05:20:04,441 - INFO - Evento: Removendo clipe de vídeo: {track.clips[0].name}
+2025-02-25 05:20:04,473 - INFO - Evento: Removendo clipe de vídeo: {track.clips[0].name}
+2025-02-25 05:20:04,507 - INFO - Evento: Removendo clipe de vídeo: {track.clips[0].name}
+2025-02-25 05:20:04,535 - INFO - Evento: Imagens removidas da sequência
+2025-02-25 05:20:05,497 - INFO - Evento: Removendo clipe de áudio: {track.clips[0].name}
+2025-02-25 05:20:05,529 - INFO - Evento: Removendo clipe de áudio: {track.clips[0].name}
+2025-02-25 05:20:05,560 - INFO - Evento: Removendo clipe de áudio: {track.clips[0].name}
+2025-02-25 05:20:05,599 - INFO - Evento: Áudios removidos da sequência
+2025-02-25 05:20:20,465 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 05:20:20,465 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (10).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (10).MP3
+2025-02-25 05:20:20,465 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (3).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (3).MP3
+2025-02-25 05:20:20,466 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (5).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (5).MP3
+2025-02-25 05:20:21,114 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 05:20:21,114 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (3).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (3).MP3
+2025-02-25 05:20:21,114 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (9).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (9).MP3
+2025-02-25 05:20:21,116 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (4).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (4).MP3
+2025-02-25 05:20:22,504 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\NaoFazsentidonenhum (3).MP3', 'C:\\Users\\zryyh\\Music\\musicas\\NaoFazsentidonenhum (9).MP3', 'C:\\Users\\zryyh\\Music\\musicas\\NaoFazsentidonenhum (4).MP3']
+2025-02-25 05:20:24,706 - INFO - Evento: Adicionando áudio NaoFazsentidonenhum (3).MP3 na sequência
+2025-02-25 05:20:24,943 - INFO - Evento: Adicionando áudio NaoFazsentidonenhum (9).MP3 na sequência
+2025-02-25 05:20:25,165 - INFO - Evento: Adicionando áudio NaoFazsentidonenhum (4).MP3 na sequência
+2025-02-25 05:20:25,180 - INFO - Evento: Obtendo duração da sequência: 2245293235785600 ticks
+2025-02-25 05:20:39,868 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 05:20:39,869 - INFO - Evento: Arquivo carregado: Image (83).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (83).png
+2025-02-25 05:20:39,869 - INFO - Evento: Arquivo carregado: Image (62).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (62).png
+2025-02-25 05:20:39,869 - INFO - Evento: Arquivo carregado: Image (52).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (52).png
+2025-02-25 05:20:39,869 - INFO - Evento: Arquivo carregado: Image (113).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (113).png
+2025-02-25 05:20:39,870 - INFO - Evento: Arquivo carregado: Image (88).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (88).png
+2025-02-25 05:20:40,728 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 05:20:40,728 - INFO - Evento: Arquivo carregado: Image (124).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (124).png
+2025-02-25 05:20:40,729 - INFO - Evento: Arquivo carregado: Image (119).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (119).png
+2025-02-25 05:20:40,729 - INFO - Evento: Arquivo carregado: Image (24).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (24).png
+2025-02-25 05:20:40,730 - INFO - Evento: Arquivo carregado: Image (65).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (65).png
+2025-02-25 05:20:40,730 - INFO - Evento: Arquivo carregado: Image (71).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (71).png
+2025-02-25 05:20:42,144 - INFO - Evento: Arquivos de imagem: ['C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (124).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (119).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (24).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (65).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (71).png']
+2025-02-25 05:20:45,292 - INFO - Evento: Obtendo número de trilhas de vídeo: 0
+2025-02-25 05:20:45,564 - INFO - Evento: Adicionando imagem Image (124).png na sequência
+2025-02-25 05:20:45,840 - INFO - Evento: Adicionando imagem Image (119).png na sequência
+2025-02-25 05:20:46,130 - INFO - Evento: Adicionando imagem Image (24).png na sequência
+2025-02-25 05:20:46,419 - INFO - Evento: Adicionando imagem Image (65).png na sequência
+2025-02-25 05:20:46,641 - INFO - Evento: Adicionando imagem Image (71).png na sequência
