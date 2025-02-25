@@ -1,71 +1,204 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gerenciador de Arquivos</title>
-    <link rel="stylesheet" href="styles.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Gerenciador de Arquivos</title>
+  <link rel="stylesheet" href="styles.css" />
 </head>
 
 <body>
-    <div class="container">
-        <div class="header">
-            <span>Source File</span>
-            <span>Mix Size</span>
-            <span>Settings</span>
-        </div>
-
-        <div class="file-box">
-            <label class="file-label">Imagens</label>
-            <input type="file" id="imageInput" class="file-input" multiple>
-            <button class="file-btn" onclick="openFileSelector('imageInput', 'imageFolderCheck')">Procurar
-                Arquivo</button>
-            <div class="counter">
-                <button class="minus">-</button>
-                <span class="count">1</span>
-                <button class="plus">+</button>
-            </div>
-            <div class="options">
-                <label>
-                    <input type="checkbox" id="imageFolderCheck" checked
-                        onchange="toggleFileInput('imageInput', this.checked)"> Importar pasta
-                </label>
-                <label>
-                    <input type="checkbox" id="imageShuffleCheck"> Embaralhar
-                </label>
-            </div>
-        </div>
-
-        <div class="file-box">
-            <label class="file-label">Músicas</label>
-            <input type="file" id="musicInput" class="file-input" multiple>
-            <button class="file-btn" onclick="openFileSelector('musicInput', 'musicFolderCheck')">Procurar
-                Arquivo</button>
-            <div class="counter">
-                <button class="minus">-</button>
-                <span class="count">1</span>
-                <button class="plus">+</button>
-            </div>
-            <div class="options">
-                <label>
-                    <input type="checkbox" id="musicFolderCheck" checked
-                        onchange="toggleFileInput('musicInput', this.checked)"> Importar pasta
-                </label>
-                <label>
-                    <input type="checkbox" id="musicShuffleCheck"> Embaralhar
-                </label>
-            </div>
-        </div>
-
-        <div class="buttons">
-            <button class="action-btn" id="clearFilesBtn">Limpar Sequência</button>
-            <button class="action-btn" id="importFilesBtn">Importar Arquivos</button>
-            <button class="action-btn" id="addFilesBtn">Adicionar à Sequência</button>
-        </div>
+  <div class="container">
+    <!-- Cabeçalho principal -->
+    <div class="header">
+      <span>Seleção de Arquivos</span>
+      <span>Quantidade</span>
+      <span>Opções</span>
     </div>
 
-    <script src="script.js"></script>
-</body>
+    <!-- ABA DE IMAGENS (.disabled no início) -->
+    <div class="file-row disabled" id="imageRow">
+      <!-- Box de imagens -->
+      <div class="file-box">
+        <label class="file-label">Imagens</label>
+        <input type="file" id="imageInput" class="file-input" multiple />
+        
+        <!-- Botão de Procurar Arquivo -->
+        <button
+          class="file-btn"
+          id="browseImagesBtn"
+          onclick="markLastClickedImageButton('browseImagesBtn'); openFileSelector('imageInput','imageFolderCheck')"
+        >
+          <!-- Indicador interno (laranja) -->
+          <span id="imgBrowseIndicator" class="btn-indicator browse"></span>
+          Procurar Arquivo
+        </button>
 
+        <div class="counter">
+          <button class="minus">-</button>
+          <span class="count">1</span>
+          <button class="plus">+</button>
+        </div>
+
+        <div class="options">
+          <label>
+            <input
+              type="checkbox"
+              id="imageFolderCheck"
+              checked
+              onchange="toggleFileInput('imageInput', this.checked)" />
+            Importar pasta
+          </label>
+          <label>
+            <input type="checkbox" id="imageShuffleCheck" />
+            Embaralhar
+          </label>
+        </div>
+      </div>
+
+      <!-- Lista de imagens -->
+      <div class="file-list" id="imageListContainer">
+        <div class="file-list-header">
+          <h3>Imagens Selecionadas</h3>
+          <p class="folder-info" id="imageFolderName"></p>
+        </div>
+        <ul id="imageList"></ul>
+      </div>
+
+      <!-- Botões de ação (Imagens) -->
+      <div class="file-actions">
+        <button
+          class="action-btn"
+          id="loadImagesBtn"
+          disabled
+          onclick="markLastClickedImageButton('loadImagesBtn'); loadImages()"
+        >
+          <span id="imgLoadIndicator" class="btn-indicator other"></span>
+          Carregar Imagens
+        </button>
+
+        <button
+          class="action-btn"
+          id="importImagesBtn"
+          disabled
+          onclick="markLastClickedImageButton('importImagesBtn'); importImages()"
+        >
+          <span id="imgImportIndicator" class="btn-indicator other"></span>
+          Importar Imagens
+        </button>
+
+        <button
+          class="action-btn"
+          id="addImagesBtn"
+          disabled
+          onclick="markLastClickedImageButton('addImagesBtn'); addImages()"
+        >
+          <span id="imgAddIndicator" class="btn-indicator other"></span>
+          Adicionar Imagens
+        </button>
+
+        <button
+          class="action-btn"
+          id="clearImagesBtn"
+          disabled
+          onclick="markLastClickedImageButton('clearImagesBtn'); clearImages()"
+        >
+          <!-- Indicador interno (vermelho) -->
+          <span id="imgClearIndicator" class="btn-indicator clear"></span>
+          Limpar Imagens
+        </button>
+      </div>
+    </div>
+
+    <!-- ABA DE MÚSICAS -->
+    <div class="file-row" id="musicRow">
+      <!-- Box de músicas -->
+      <div class="file-box">
+        <label class="file-label">Músicas</label>
+        <input type="file" id="musicInput" class="file-input" multiple />
+        
+        <!-- Botão Procurar Arquivo -->
+        <button
+          class="file-btn"
+          id="browseMusicsBtn"
+          onclick="markLastClickedMusicButton('browseMusicsBtn'); openFileSelector('musicInput','musicFolderCheck')"
+        >
+          <span id="mscBrowseIndicator" class="btn-indicator browse"></span>
+          Procurar Arquivo
+        </button>
+
+        <div class="counter">
+          <button class="minus">-</button>
+          <span class="count">1</span>
+          <button class="plus">+</button>
+        </div>
+
+        <div class="options">
+          <label>
+            <input
+              type="checkbox"
+              id="musicFolderCheck"
+              checked
+              onchange="toggleFileInput('musicInput', this.checked)" />
+            Importar pasta
+          </label>
+          <label>
+            <input type="checkbox" id="musicShuffleCheck" />
+            Embaralhar
+          </label>
+        </div>
+      </div>
+
+      <!-- Lista de músicas -->
+      <div class="file-list" id="musicListContainer">
+        <div class="file-list-header">
+          <h3>Músicas Selecionadas</h3>
+          <p class="folder-info" id="musicFolderName"></p>
+        </div>
+        <ul id="musicList"></ul>
+      </div>
+
+      <!-- Botões de ação (Músicas) -->
+      <div class="file-actions">
+        <button
+          class="action-btn"
+          id="loadMusicsBtn"
+          onclick="markLastClickedMusicButton('loadMusicsBtn'); loadMusics()"
+        >
+          <span id="mscLoadIndicator" class="btn-indicator other"></span>
+          Carregar Músicas
+        </button>
+
+        <button
+          class="action-btn"
+          id="importMusicsBtn"
+          onclick="markLastClickedMusicButton('importMusicsBtn'); importMusics()"
+        >
+          <span id="mscImportIndicator" class="btn-indicator other"></span>
+          Importar Músicas
+        </button>
+
+        <button
+          class="action-btn"
+          id="addMusicsBtn"
+          onclick="markLastClickedMusicButton('addMusicsBtn'); addMusics()"
+        >
+          <span id="mscAddIndicator" class="btn-indicator other"></span>
+          Adicionar Músicas
+        </button>
+
+        <button
+          class="action-btn"
+          id="clearMusicsBtn"
+          onclick="markLastClickedMusicButton('clearMusicsBtn'); clearMusics()"
+        >
+          <span id="mscClearIndicator" class="btn-indicator clear"></span>
+          Limpar Músicas
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
 </html>
