@@ -22,8 +22,8 @@ extensoes = {
 
 
 def load_files(paths: list[str], mix_size: int, shuffle: bool, folder: bool):
-    # files = list(Path(paths[0]).iterdir()) if folder else [Path(p) for p in paths]
     files = [Path(p) for p in paths]
+    info(f"Modo de embaralhamento: {shuffle}, Modo de pasta: {folder}")
 
     if folder:
         if shuffle:

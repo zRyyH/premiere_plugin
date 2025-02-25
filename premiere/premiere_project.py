@@ -16,7 +16,6 @@ class PremiereProject:
         for item in self.project.rootItem.children:
             if file_name.lower() in item.name.lower():
                 return item
-
         raise FileNotFoundError(f"Arquivo {file_name} não encontrado no projeto!")
 
     @safe_project

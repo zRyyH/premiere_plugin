@@ -510,3 +510,1123 @@
 2025-02-15 17:24:53,850 - INFO - Evento: Adicionando imagem Image_4.jpg na sequência
 2025-02-15 17:24:53,968 - INFO - Evento: Adicionando imagem Image_5.jpg na sequência
 2025-02-15 17:29:53,524 - INFO - Evento: Projeto Premiere Pro Desconectado!
+2025-02-23 15:57:58,272 - INFO - Evento: Projeto Premiere Pro Conectado!
+2025-02-23 16:15:21,382 - INFO - Evento: Projeto Premiere Pro Conectado!
+2025-02-23 16:15:52,876 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-20 001248.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-20 001248.png
+2025-02-23 16:15:52,876 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-06 194210.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-06 194210.png
+2025-02-23 16:15:52,876 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-19 042346.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-19 042346.png
+2025-02-23 16:15:52,876 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-19 161633.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-19 161633.png
+2025-02-23 16:15:53,050 - INFO - Evento: Arquivo carregado: MusicaLonga (4).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (4).MP3
+2025-02-23 16:15:53,050 - INFO - Evento: Arquivo carregado: MusicaLonga (9).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (9).MP3
+2025-02-23 16:15:53,050 - INFO - Evento: Arquivo carregado: MusicaLonga (7).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (7).MP3
+2025-02-23 16:15:53,050 - INFO - Evento: Arquivo carregado: MusicaLonga (2).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (2).MP3
+2025-02-23 16:15:53,050 - INFO - Evento: Arquivo carregado: MusicaLonga (1).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (1).MP3
+2025-02-23 16:15:56,023 - INFO - Evento: Adicionando áudio MusicaLonga (4).MP3 na sequência
+2025-02-23 16:15:56,136 - INFO - Evento: Adicionando áudio MusicaLonga (9).MP3 na sequência
+2025-02-23 16:15:56,248 - INFO - Evento: Adicionando áudio MusicaLonga (7).MP3 na sequência
+2025-02-23 16:15:56,358 - INFO - Evento: Adicionando áudio MusicaLonga (2).MP3 na sequência
+2025-02-23 16:15:56,475 - INFO - Evento: Adicionando áudio MusicaLonga (1).MP3 na sequência
+2025-02-23 16:15:56,495 - INFO - Evento: Obtendo duração da sequência: 3742155392976000 ticks
+2025-02-23 16:15:56,495 - CRITICAL - Evento: Erro ao executar função: unsupported operand type(s) for /: 'int' and 'method'
+2025-02-23 16:17:26,352 - INFO - Evento: Projeto Premiere Pro Desconectado!
+2025-02-23 16:17:28,822 - INFO - Evento: Projeto Premiere Pro Conectado!
+2025-02-23 16:17:51,050 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-11 160650.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-11 160650.png
+2025-02-23 16:17:51,050 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-12 224613.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-12 224613.png
+2025-02-23 16:17:51,050 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-15 141058.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-15 141058.png
+2025-02-23 16:17:51,050 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-11 170335.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-11 170335.png
+2025-02-23 16:17:51,269 - INFO - Evento: Arquivo carregado: MusicaLonga (1).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (1).MP3
+2025-02-23 16:17:51,269 - INFO - Evento: Arquivo carregado: MusicaLonga (3).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (3).MP3
+2025-02-23 16:17:51,269 - INFO - Evento: Arquivo carregado: MusicaLonga (4).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (4).MP3
+2025-02-23 16:17:51,269 - INFO - Evento: Arquivo carregado: MusicaLonga (2).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (2).MP3
+2025-02-23 16:17:53,398 - INFO - Evento: Adicionando áudio MusicaLonga (1).MP3 na sequência
+2025-02-23 16:17:53,496 - INFO - Evento: Adicionando áudio MusicaLonga (3).MP3 na sequência
+2025-02-23 16:17:53,601 - INFO - Evento: Adicionando áudio MusicaLonga (4).MP3 na sequência
+2025-02-23 16:17:53,710 - INFO - Evento: Adicionando áudio MusicaLonga (2).MP3 na sequência
+2025-02-23 16:17:53,731 - INFO - Evento: Obtendo duração da sequência: 2993724314380800 ticks
+2025-02-23 16:17:53,731 - CRITICAL - Evento: Erro ao executar função: unsupported operand type(s) for /: 'int' and 'method'
+2025-02-23 16:18:56,066 - INFO - Evento: Projeto Premiere Pro Desconectado!
+2025-02-23 16:18:58,363 - INFO - Evento: Projeto Premiere Pro Conectado!
+2025-02-23 16:19:06,996 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-09 213453.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-09 213453.png
+2025-02-23 16:19:06,996 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-15 041420.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-15 041420.png
+2025-02-23 16:19:06,996 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-10 233638.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-10 233638.png
+2025-02-23 16:19:06,997 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-04 130419.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-04 130419.png
+2025-02-23 16:19:07,165 - INFO - Evento: Arquivo carregado: MusicaLonga (4).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (4).MP3
+2025-02-23 16:19:07,165 - INFO - Evento: Arquivo carregado: MusicaLonga (3).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (3).MP3
+2025-02-23 16:19:07,165 - INFO - Evento: Arquivo carregado: MusicaLonga (2).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (2).MP3
+2025-02-23 16:19:07,165 - INFO - Evento: Arquivo carregado: MusicaLonga (8).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (8).MP3
+2025-02-23 16:19:08,948 - INFO - Evento: Adicionando áudio MusicaLonga (4).MP3 na sequência
+2025-02-23 16:19:09,045 - INFO - Evento: Adicionando áudio MusicaLonga (3).MP3 na sequência
+2025-02-23 16:19:09,229 - INFO - Evento: Adicionando áudio MusicaLonga (2).MP3 na sequência
+2025-02-23 16:19:09,332 - INFO - Evento: Adicionando áudio MusicaLonga (8).MP3 na sequência
+2025-02-23 16:19:09,354 - INFO - Evento: Obtendo duração da sequência: 2993724314380800 ticks
+2025-02-23 16:19:09,372 - INFO - Evento: Obtendo número de trilhas de vídeo: 0
+2025-02-23 16:19:09,372 - CRITICAL - Evento: Erro ao executar função: division by zero
+2025-02-23 16:20:30,381 - INFO - Evento: Projeto Premiere Pro Desconectado!
+2025-02-23 16:20:36,394 - INFO - Evento: Projeto Premiere Pro Conectado!
+2025-02-23 16:20:44,987 - INFO - Evento: Projeto Premiere Pro Desconectado!
+2025-02-23 16:20:47,196 - INFO - Evento: Projeto Premiere Pro Conectado!
+2025-02-23 16:20:56,268 - INFO - Evento: Arquivo carregado: MusicaLonga (8).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (8).MP3
+2025-02-23 16:20:56,269 - INFO - Evento: Arquivo carregado: MusicaLonga (6).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (6).MP3
+2025-02-23 16:20:56,269 - INFO - Evento: Arquivo carregado: MusicaLonga (3).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (3).MP3
+2025-02-23 16:20:56,269 - INFO - Evento: Arquivo carregado: MusicaLonga (9).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (9).MP3
+2025-02-23 16:21:12,927 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-14 115006.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-14 115006.png
+2025-02-23 16:21:12,927 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-02 011801.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-02 011801.png
+2025-02-23 16:21:12,927 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-17 153946.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-17 153946.png
+2025-02-23 16:21:12,927 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-14 113719.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-14 113719.png
+2025-02-23 16:21:13,160 - INFO - Evento: Arquivo carregado: MusicaLonga (2).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (2).MP3
+2025-02-23 16:21:13,160 - INFO - Evento: Arquivo carregado: MusicaLonga (1).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (1).MP3
+2025-02-23 16:21:13,160 - INFO - Evento: Arquivo carregado: MusicaLonga (3).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (3).MP3
+2025-02-23 16:21:13,160 - INFO - Evento: Arquivo carregado: MusicaLonga (7).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (7).MP3
+2025-02-23 16:21:16,395 - INFO - Evento: Adicionando áudio MusicaLonga (2).MP3 na sequência
+2025-02-23 16:21:16,520 - INFO - Evento: Adicionando áudio MusicaLonga (1).MP3 na sequência
+2025-02-23 16:21:16,651 - INFO - Evento: Adicionando áudio MusicaLonga (3).MP3 na sequência
+2025-02-23 16:21:16,778 - INFO - Evento: Adicionando áudio MusicaLonga (7).MP3 na sequência
+2025-02-23 16:21:16,797 - INFO - Evento: Obtendo duração da sequência: 2993724314380800 ticks
+2025-02-23 16:21:16,817 - INFO - Evento: Obtendo número de trilhas de vídeo: 0
+2025-02-23 16:21:16,947 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-14 115006.png na sequência
+2025-02-23 16:21:17,083 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-02 011801.png na sequência
+2025-02-23 16:21:17,217 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-17 153946.png na sequência
+2025-02-23 16:21:17,353 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-14 113719.png na sequência
+2025-02-23 16:21:19,114 - INFO - Evento: Adicionando áudio MusicaLonga (2).MP3 na sequência
+2025-02-23 16:21:19,274 - INFO - Evento: Adicionando áudio MusicaLonga (1).MP3 na sequência
+2025-02-23 16:21:19,420 - INFO - Evento: Adicionando áudio MusicaLonga (3).MP3 na sequência
+2025-02-23 16:21:19,591 - INFO - Evento: Adicionando áudio MusicaLonga (7).MP3 na sequência
+2025-02-23 16:21:19,614 - INFO - Evento: Obtendo duração da sequência: 5987448628761600 ticks
+2025-02-23 16:21:19,640 - INFO - Evento: Obtendo número de trilhas de vídeo: 4
+2025-02-23 16:21:19,798 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-14 115006.png na sequência
+2025-02-23 16:21:19,971 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-02 011801.png na sequência
+2025-02-23 16:21:20,146 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-17 153946.png na sequência
+2025-02-23 16:21:20,320 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-14 113719.png na sequência
+2025-02-23 16:21:22,557 - INFO - Evento: Adicionando áudio MusicaLonga (2).MP3 na sequência
+2025-02-23 16:21:22,711 - INFO - Evento: Adicionando áudio MusicaLonga (1).MP3 na sequência
+2025-02-23 16:21:22,842 - INFO - Evento: Adicionando áudio MusicaLonga (3).MP3 na sequência
+2025-02-23 16:21:22,971 - INFO - Evento: Adicionando áudio MusicaLonga (7).MP3 na sequência
+2025-02-23 16:21:22,994 - INFO - Evento: Obtendo duração da sequência: 8981172943142400 ticks
+2025-02-23 16:21:23,012 - INFO - Evento: Obtendo número de trilhas de vídeo: 8
+2025-02-23 16:21:23,141 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-14 115006.png na sequência
+2025-02-23 16:21:23,276 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-02 011801.png na sequência
+2025-02-23 16:21:23,405 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-17 153946.png na sequência
+2025-02-23 16:21:23,543 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-14 113719.png na sequência
+2025-02-23 16:21:32,078 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-14 114101.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-14 114101.png
+2025-02-23 16:21:32,078 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-02 085835.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-02 085835.png
+2025-02-23 16:21:32,078 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-09 211920.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-09 211920.png
+2025-02-23 16:21:32,078 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-10 204048.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-10 204048.png
+2025-02-23 16:21:32,371 - INFO - Evento: Arquivo carregado: MusicaLonga (3).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (3).MP3
+2025-02-23 16:21:32,371 - INFO - Evento: Arquivo carregado: MusicaLonga (6).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (6).MP3
+2025-02-23 16:21:32,371 - INFO - Evento: Arquivo carregado: MusicaLonga (7).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (7).MP3
+2025-02-23 16:21:32,371 - INFO - Evento: Arquivo carregado: MusicaLonga (2).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (2).MP3
+2025-02-23 16:21:33,731 - INFO - Evento: Adicionando áudio MusicaLonga (3).MP3 na sequência
+2025-02-23 16:21:33,873 - INFO - Evento: Adicionando áudio MusicaLonga (6).MP3 na sequência
+2025-02-23 16:21:34,032 - INFO - Evento: Adicionando áudio MusicaLonga (7).MP3 na sequência
+2025-02-23 16:21:34,176 - INFO - Evento: Adicionando áudio MusicaLonga (2).MP3 na sequência
+2025-02-23 16:21:34,262 - INFO - Evento: Obtendo duração da sequência: 11974897257523200 ticks
+2025-02-23 16:21:34,279 - INFO - Evento: Obtendo número de trilhas de vídeo: 12
+2025-02-23 16:21:34,442 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-14 114101.png na sequência
+2025-02-23 16:21:34,610 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-02 085835.png na sequência
+2025-02-23 16:21:34,781 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-09 211920.png na sequência
+2025-02-23 16:21:34,958 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-10 204048.png na sequência
+2025-02-23 16:21:36,882 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-04 130425.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-04 130425.png
+2025-02-23 16:21:36,882 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-08 212628.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-08 212628.png
+2025-02-23 16:21:36,882 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-03 034930.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-03 034930.png
+2025-02-23 16:21:36,882 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-11 160650.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-11 160650.png
+2025-02-23 16:21:37,199 - INFO - Evento: Arquivo carregado: MusicaLonga (8).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (8).MP3
+2025-02-23 16:21:37,199 - INFO - Evento: Arquivo carregado: MusicaLonga (5).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (5).MP3
+2025-02-23 16:21:37,199 - INFO - Evento: Arquivo carregado: MusicaLonga (9).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (9).MP3
+2025-02-23 16:21:37,199 - INFO - Evento: Arquivo carregado: MusicaLonga (6).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (6).MP3
+2025-02-23 16:21:38,479 - INFO - Evento: Adicionando áudio MusicaLonga (8).MP3 na sequência
+2025-02-23 16:21:38,707 - INFO - Evento: Adicionando áudio MusicaLonga (5).MP3 na sequência
+2025-02-23 16:21:38,918 - INFO - Evento: Adicionando áudio MusicaLonga (9).MP3 na sequência
+2025-02-23 16:21:39,158 - INFO - Evento: Adicionando áudio MusicaLonga (6).MP3 na sequência
+2025-02-23 16:21:39,182 - INFO - Evento: Obtendo duração da sequência: 14968621571904000 ticks
+2025-02-23 16:21:39,200 - INFO - Evento: Obtendo número de trilhas de vídeo: 16
+2025-02-23 16:21:39,391 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-04 130425.png na sequência
+2025-02-23 16:21:39,592 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-08 212628.png na sequência
+2025-02-23 16:21:39,807 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-03 034930.png na sequência
+2025-02-23 16:21:40,039 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-11 160650.png na sequência
+2025-02-23 16:21:50,797 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:21:50,831 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:21:50,863 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:21:50,896 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:21:50,931 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:21:50,962 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:21:50,993 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:21:51,026 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:21:51,059 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:21:51,090 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:21:51,121 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:21:51,154 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:21:51,186 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:21:51,216 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:21:51,251 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:21:51,283 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:21:51,316 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:21:51,349 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:21:51,379 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:21:51,410 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:21:51,488 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:21:51,518 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:21:51,549 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:21:51,584 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:21:51,615 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:21:51,646 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:21:51,676 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:21:51,710 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:21:51,742 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:21:51,771 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:21:51,802 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:21:51,831 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:21:51,880 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:21:51,911 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:21:51,940 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:21:51,970 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:21:51,999 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:21:52,029 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:21:52,057 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:21:52,087 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:21:52,120 - INFO - Evento: Sequência limpa
+2025-02-23 16:21:54,029 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-15 175534.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-15 175534.png
+2025-02-23 16:21:54,029 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-19 211637.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-19 211637.png
+2025-02-23 16:21:54,029 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-14 112131.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-14 112131.png
+2025-02-23 16:21:54,029 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-19 204600.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-19 204600.png
+2025-02-23 16:21:54,369 - INFO - Evento: Arquivo carregado: MusicaLonga (8).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (8).MP3
+2025-02-23 16:21:54,369 - INFO - Evento: Arquivo carregado: MusicaLonga (6).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (6).MP3
+2025-02-23 16:21:54,369 - INFO - Evento: Arquivo carregado: MusicaLonga (1).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (1).MP3
+2025-02-23 16:21:54,369 - INFO - Evento: Arquivo carregado: MusicaLonga (2).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (2).MP3
+2025-02-23 16:21:55,349 - INFO - Evento: Adicionando áudio MusicaLonga (8).MP3 na sequência
+2025-02-23 16:21:55,516 - INFO - Evento: Adicionando áudio MusicaLonga (6).MP3 na sequência
+2025-02-23 16:21:55,706 - INFO - Evento: Adicionando áudio MusicaLonga (1).MP3 na sequência
+2025-02-23 16:21:55,891 - INFO - Evento: Adicionando áudio MusicaLonga (2).MP3 na sequência
+2025-02-23 16:21:55,907 - INFO - Evento: Obtendo duração da sequência: 2993724314380800 ticks
+2025-02-23 16:21:55,946 - INFO - Evento: Obtendo número de trilhas de vídeo: 0
+2025-02-23 16:21:56,239 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-15 175534.png na sequência
+2025-02-23 16:21:56,456 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-19 211637.png na sequência
+2025-02-23 16:21:56,682 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-14 112131.png na sequência
+2025-02-23 16:21:56,905 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-19 204600.png na sequência
+2025-02-23 16:21:58,012 - INFO - Evento: Arquivo carregado: Captura de tela 2025-01-31 170858.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-01-31 170858.png
+2025-02-23 16:21:58,012 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-21 225031.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-21 225031.png
+2025-02-23 16:21:58,012 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-04 130332.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-04 130332.png
+2025-02-23 16:21:58,012 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-09 161958.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-09 161958.png
+2025-02-23 16:21:58,432 - INFO - Evento: Arquivo carregado: MusicaLonga (4).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (4).MP3
+2025-02-23 16:21:58,432 - INFO - Evento: Arquivo carregado: MusicaLonga (2).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (2).MP3
+2025-02-23 16:21:58,432 - INFO - Evento: Arquivo carregado: MusicaLonga (5).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (5).MP3
+2025-02-23 16:21:58,432 - INFO - Evento: Arquivo carregado: MusicaLonga (1).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (1).MP3
+2025-02-23 16:22:00,760 - INFO - Evento: Adicionando áudio MusicaLonga (4).MP3 na sequência
+2025-02-23 16:22:00,980 - INFO - Evento: Adicionando áudio MusicaLonga (2).MP3 na sequência
+2025-02-23 16:22:01,205 - INFO - Evento: Adicionando áudio MusicaLonga (5).MP3 na sequência
+2025-02-23 16:22:01,408 - INFO - Evento: Adicionando áudio MusicaLonga (1).MP3 na sequência
+2025-02-23 16:22:01,426 - INFO - Evento: Obtendo duração da sequência: 5987448628761600 ticks
+2025-02-23 16:22:01,444 - INFO - Evento: Obtendo número de trilhas de vídeo: 4
+2025-02-23 16:22:01,686 - INFO - Evento: Adicionando imagem Captura de tela 2025-01-31 170858.png na sequência
+2025-02-23 16:22:01,946 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-21 225031.png na sequência
+2025-02-23 16:22:02,207 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-04 130332.png na sequência
+2025-02-23 16:22:02,469 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-09 161958.png na sequência
+2025-02-23 16:22:03,652 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-15 190842.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-15 190842.png
+2025-02-23 16:22:03,652 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-14 113448.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-14 113448.png
+2025-02-23 16:22:03,653 - INFO - Evento: Arquivo carregado: Captura de tela 2025-01-29 141248.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-01-29 141248.png
+2025-02-23 16:22:03,653 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-19 202721.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-19 202721.png
+2025-02-23 16:22:04,132 - INFO - Evento: Arquivo carregado: MusicaLonga (10).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (10).MP3
+2025-02-23 16:22:04,132 - INFO - Evento: Arquivo carregado: MusicaLonga (1).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (1).MP3
+2025-02-23 16:22:04,132 - INFO - Evento: Arquivo carregado: MusicaLonga (8).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (8).MP3
+2025-02-23 16:22:04,132 - INFO - Evento: Arquivo carregado: MusicaLonga (9).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (9).MP3
+2025-02-23 16:22:06,676 - INFO - Evento: Adicionando áudio MusicaLonga (10).MP3 na sequência
+2025-02-23 16:22:06,927 - INFO - Evento: Adicionando áudio MusicaLonga (1).MP3 na sequência
+2025-02-23 16:22:07,137 - INFO - Evento: Adicionando áudio MusicaLonga (8).MP3 na sequência
+2025-02-23 16:22:07,356 - INFO - Evento: Adicionando áudio MusicaLonga (9).MP3 na sequência
+2025-02-23 16:22:07,375 - INFO - Evento: Obtendo duração da sequência: 8981172943142400 ticks
+2025-02-23 16:22:07,393 - INFO - Evento: Obtendo número de trilhas de vídeo: 8
+2025-02-23 16:22:07,671 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-15 190842.png na sequência
+2025-02-23 16:22:07,962 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-14 113448.png na sequência
+2025-02-23 16:22:08,260 - INFO - Evento: Adicionando imagem Captura de tela 2025-01-29 141248.png na sequência
+2025-02-23 16:22:08,628 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-19 202721.png na sequência
+2025-02-23 16:22:10,011 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-14 152234.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-14 152234.png
+2025-02-23 16:22:10,012 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-14 212436.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-14 212436.png
+2025-02-23 16:22:10,012 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-19 204540.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-19 204540.png
+2025-02-23 16:22:10,012 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-02 011801.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-02 011801.png
+2025-02-23 16:22:10,441 - INFO - Evento: Arquivo carregado: MusicaLonga (6).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (6).MP3
+2025-02-23 16:22:10,441 - INFO - Evento: Arquivo carregado: MusicaLonga (4).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (4).MP3
+2025-02-23 16:22:10,441 - INFO - Evento: Arquivo carregado: MusicaLonga (1).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (1).MP3
+2025-02-23 16:22:10,441 - INFO - Evento: Arquivo carregado: MusicaLonga (8).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (8).MP3
+2025-02-23 16:22:13,859 - INFO - Evento: Adicionando áudio MusicaLonga (6).MP3 na sequência
+2025-02-23 16:22:14,157 - INFO - Evento: Adicionando áudio MusicaLonga (4).MP3 na sequência
+2025-02-23 16:22:14,420 - INFO - Evento: Adicionando áudio MusicaLonga (1).MP3 na sequência
+2025-02-23 16:22:14,665 - INFO - Evento: Adicionando áudio MusicaLonga (8).MP3 na sequência
+2025-02-23 16:22:14,683 - INFO - Evento: Obtendo duração da sequência: 11974897257523200 ticks
+2025-02-23 16:22:14,701 - INFO - Evento: Obtendo número de trilhas de vídeo: 12
+2025-02-23 16:22:15,025 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-14 152234.png na sequência
+2025-02-23 16:22:15,340 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-14 212436.png na sequência
+2025-02-23 16:22:15,733 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-19 204540.png na sequência
+2025-02-23 16:22:16,018 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-02 011801.png na sequência
+2025-02-23 16:22:43,730 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:22:43,760 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:22:43,791 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:22:43,826 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:22:43,856 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:22:43,887 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:22:43,917 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:22:43,950 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:22:43,980 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:22:44,012 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:22:44,042 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:22:44,073 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:22:44,104 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:22:44,136 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:22:44,166 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:22:44,197 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:22:44,273 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:22:44,302 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:22:44,331 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:22:44,361 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:22:44,392 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:22:44,421 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:22:44,451 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:22:44,479 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:22:44,511 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:22:44,541 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:22:44,570 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:22:44,600 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:22:44,632 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:22:44,661 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:22:44,690 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:22:44,719 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:22:44,756 - INFO - Evento: Sequência limpa
+2025-02-23 16:33:20,115 - INFO - Evento: Projeto Premiere Pro Desconectado!
+2025-02-23 16:33:22,350 - INFO - Evento: Projeto Premiere Pro Conectado!
+2025-02-23 16:34:42,570 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-11 170335.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-11 170335.png
+2025-02-23 16:34:42,571 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-09 161027.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-09 161027.png
+2025-02-23 16:34:42,571 - INFO - Evento: Arquivo carregado: Captura de tela 2025-01-31 170724.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-01-31 170724.png
+2025-02-23 16:34:42,788 - INFO - Evento: Arquivo carregado: MusicaLonga (10).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (10).MP3
+2025-02-23 16:34:42,788 - INFO - Evento: Arquivo carregado: MusicaLonga (6).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (6).MP3
+2025-02-23 16:34:42,789 - INFO - Evento: Arquivo carregado: MusicaLonga (2).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (2).MP3
+2025-02-23 16:34:44,024 - INFO - Evento: Adicionando áudio MusicaLonga (10).MP3 na sequência
+2025-02-23 16:34:44,122 - INFO - Evento: Adicionando áudio MusicaLonga (6).MP3 na sequência
+2025-02-23 16:34:44,220 - INFO - Evento: Adicionando áudio MusicaLonga (2).MP3 na sequência
+2025-02-23 16:34:44,237 - INFO - Evento: Obtendo duração da sequência: 2245293235785600 ticks
+2025-02-23 16:34:44,256 - INFO - Evento: Obtendo número de trilhas de vídeo: 0
+2025-02-23 16:34:44,352 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-11 170335.png na sequência
+2025-02-23 16:34:44,448 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-09 161027.png na sequência
+2025-02-23 16:34:44,551 - INFO - Evento: Adicionando imagem Captura de tela 2025-01-31 170724.png na sequência
+2025-02-23 16:34:45,578 - INFO - Evento: Adicionando áudio MusicaLonga (10).MP3 na sequência
+2025-02-23 16:34:45,665 - INFO - Evento: Adicionando áudio MusicaLonga (6).MP3 na sequência
+2025-02-23 16:34:45,752 - INFO - Evento: Adicionando áudio MusicaLonga (2).MP3 na sequência
+2025-02-23 16:34:45,773 - INFO - Evento: Obtendo duração da sequência: 4490586471571200 ticks
+2025-02-23 16:34:45,790 - INFO - Evento: Obtendo número de trilhas de vídeo: 3
+2025-02-23 16:34:45,880 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-11 170335.png na sequência
+2025-02-23 16:34:45,973 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-09 161027.png na sequência
+2025-02-23 16:34:46,072 - INFO - Evento: Adicionando imagem Captura de tela 2025-01-31 170724.png na sequência
+2025-02-23 16:34:46,771 - INFO - Evento: Adicionando áudio MusicaLonga (10).MP3 na sequência
+2025-02-23 16:34:46,893 - INFO - Evento: Adicionando áudio MusicaLonga (6).MP3 na sequência
+2025-02-23 16:34:47,016 - INFO - Evento: Adicionando áudio MusicaLonga (2).MP3 na sequência
+2025-02-23 16:34:47,043 - INFO - Evento: Obtendo duração da sequência: 6735879707356800 ticks
+2025-02-23 16:34:47,067 - INFO - Evento: Obtendo número de trilhas de vídeo: 6
+2025-02-23 16:34:47,178 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-11 170335.png na sequência
+2025-02-23 16:34:47,300 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-09 161027.png na sequência
+2025-02-23 16:34:47,427 - INFO - Evento: Adicionando imagem Captura de tela 2025-01-31 170724.png na sequência
+2025-02-23 16:34:48,936 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:34:48,982 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:34:49,026 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:34:49,068 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:34:49,111 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:34:49,155 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:34:49,192 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:34:49,237 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:34:49,279 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:34:49,386 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:34:49,428 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:34:49,472 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:34:49,518 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:34:49,563 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:34:49,608 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:34:49,653 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:34:49,696 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:34:49,738 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:34:49,793 - INFO - Evento: Sequência limpa
+2025-02-23 16:35:02,495 - INFO - Evento: Adicionando áudio MusicaLonga (10).MP3 na sequência
+2025-02-23 16:35:02,580 - INFO - Evento: Adicionando áudio MusicaLonga (6).MP3 na sequência
+2025-02-23 16:35:02,672 - INFO - Evento: Adicionando áudio MusicaLonga (2).MP3 na sequência
+2025-02-23 16:35:02,691 - INFO - Evento: Obtendo duração da sequência: 2245293235785600 ticks
+2025-02-23 16:35:02,710 - INFO - Evento: Obtendo número de trilhas de vídeo: 0
+2025-02-23 16:35:02,801 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-11 170335.png na sequência
+2025-02-23 16:35:02,893 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-09 161027.png na sequência
+2025-02-23 16:35:02,992 - INFO - Evento: Adicionando imagem Captura de tela 2025-01-31 170724.png na sequência
+2025-02-23 16:35:03,118 - INFO - Evento: Adicionando áudio MusicaLonga (10).MP3 na sequência
+2025-02-23 16:35:03,206 - INFO - Evento: Adicionando áudio MusicaLonga (6).MP3 na sequência
+2025-02-23 16:35:03,298 - INFO - Evento: Adicionando áudio MusicaLonga (2).MP3 na sequência
+2025-02-23 16:35:03,317 - INFO - Evento: Obtendo duração da sequência: 4490586471571200 ticks
+2025-02-23 16:35:03,337 - INFO - Evento: Obtendo número de trilhas de vídeo: 3
+2025-02-23 16:35:03,431 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-11 170335.png na sequência
+2025-02-23 16:35:03,527 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-09 161027.png na sequência
+2025-02-23 16:35:03,629 - INFO - Evento: Adicionando imagem Captura de tela 2025-01-31 170724.png na sequência
+2025-02-23 16:35:03,737 - INFO - Evento: Adicionando áudio MusicaLonga (10).MP3 na sequência
+2025-02-23 16:35:03,829 - INFO - Evento: Adicionando áudio MusicaLonga (6).MP3 na sequência
+2025-02-23 16:35:03,924 - INFO - Evento: Adicionando áudio MusicaLonga (2).MP3 na sequência
+2025-02-23 16:35:03,943 - INFO - Evento: Obtendo duração da sequência: 6735879707356800 ticks
+2025-02-23 16:35:03,962 - INFO - Evento: Obtendo número de trilhas de vídeo: 6
+2025-02-23 16:35:04,060 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-11 170335.png na sequência
+2025-02-23 16:35:04,155 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-09 161027.png na sequência
+2025-02-23 16:35:04,258 - INFO - Evento: Adicionando imagem Captura de tela 2025-01-31 170724.png na sequência
+2025-02-23 16:35:04,365 - INFO - Evento: Adicionando áudio MusicaLonga (10).MP3 na sequência
+2025-02-23 16:35:04,533 - INFO - Evento: Adicionando áudio MusicaLonga (6).MP3 na sequência
+2025-02-23 16:35:04,689 - INFO - Evento: Adicionando áudio MusicaLonga (2).MP3 na sequência
+2025-02-23 16:35:04,718 - INFO - Evento: Obtendo duração da sequência: 8981172943142400 ticks
+2025-02-23 16:35:04,747 - INFO - Evento: Obtendo número de trilhas de vídeo: 9
+2025-02-23 16:35:04,882 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-11 170335.png na sequência
+2025-02-23 16:35:05,039 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-09 161027.png na sequência
+2025-02-23 16:35:05,185 - INFO - Evento: Adicionando imagem Captura de tela 2025-01-31 170724.png na sequência
+2025-02-23 16:35:06,167 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-14 113056.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-14 113056.png
+2025-02-23 16:35:06,167 - INFO - Evento: Arquivo carregado: Captura de tela 2025-01-30 220011.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-01-30 220011.png
+2025-02-23 16:35:06,167 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-09 042050.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-09 042050.png
+2025-02-23 16:35:06,390 - INFO - Evento: Arquivo carregado: MusicaLonga (1).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (1).MP3
+2025-02-23 16:35:06,390 - INFO - Evento: Arquivo carregado: MusicaLonga (7).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (7).MP3
+2025-02-23 16:35:06,390 - INFO - Evento: Arquivo carregado: MusicaLonga (8).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (8).MP3
+2025-02-23 16:35:07,635 - INFO - Evento: Adicionando áudio MusicaLonga (1).MP3 na sequência
+2025-02-23 16:35:07,776 - INFO - Evento: Adicionando áudio MusicaLonga (7).MP3 na sequência
+2025-02-23 16:35:07,913 - INFO - Evento: Adicionando áudio MusicaLonga (8).MP3 na sequência
+2025-02-23 16:35:07,934 - INFO - Evento: Obtendo duração da sequência: 11226466178928000 ticks
+2025-02-23 16:35:07,952 - INFO - Evento: Obtendo número de trilhas de vídeo: 12
+2025-02-23 16:35:08,087 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-14 113056.png na sequência
+2025-02-23 16:35:08,227 - INFO - Evento: Adicionando imagem Captura de tela 2025-01-30 220011.png na sequência
+2025-02-23 16:35:08,372 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-09 042050.png na sequência
+2025-02-23 16:35:10,126 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:35:10,167 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:35:10,208 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:35:10,248 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:35:10,287 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:35:10,327 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:35:10,364 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:35:10,407 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:35:10,448 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:35:10,487 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:35:10,530 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:35:10,567 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:35:10,607 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:35:10,646 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:35:10,683 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:35:10,782 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:35:10,818 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:35:10,855 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:35:10,892 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:35:10,928 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:35:10,964 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:35:10,999 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:35:11,037 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:35:11,075 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:35:11,112 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:35:11,150 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:35:11,187 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:35:11,225 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:35:11,262 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:35:11,296 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:35:11,344 - INFO - Evento: Sequência limpa
+2025-02-23 16:39:22,364 - INFO - Evento: Arquivo carregado: Image_1.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_1.jpg
+2025-02-23 16:39:22,364 - INFO - Evento: Arquivo carregado: Image_2.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_2.jpg
+2025-02-23 16:39:22,580 - INFO - Evento: Arquivo carregado: Music_1.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_1.mp3
+2025-02-23 16:39:22,580 - INFO - Evento: Arquivo carregado: Music_2.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_2.mp3
+2025-02-23 16:39:34,295 - INFO - Evento: Arquivo carregado: Image_1.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_1.jpg
+2025-02-23 16:39:34,295 - INFO - Evento: Arquivo carregado: Image_2.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_2.jpg
+2025-02-23 16:39:34,448 - INFO - Evento: Arquivo carregado: Music_1.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_1.mp3
+2025-02-23 16:39:34,449 - INFO - Evento: Arquivo carregado: Music_2.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_2.mp3
+2025-02-23 16:39:50,662 - INFO - Evento: Adicionando áudio Music_1.mp3 na sequência
+2025-02-23 16:39:50,735 - INFO - Evento: Adicionando áudio Music_2.mp3 na sequência
+2025-02-23 16:39:50,754 - INFO - Evento: Obtendo duração da sequência: 134902956988800 ticks
+2025-02-23 16:39:50,777 - INFO - Evento: Obtendo número de trilhas de vídeo: 0
+2025-02-23 16:39:50,872 - INFO - Evento: Adicionando imagem Image_1.jpg na sequência
+2025-02-23 16:39:50,992 - INFO - Evento: Adicionando imagem Image_2.jpg na sequência
+2025-02-23 16:40:02,881 - INFO - Evento: Adicionando áudio Music_1.mp3 na sequência
+2025-02-23 16:40:02,962 - INFO - Evento: Adicionando áudio Music_2.mp3 na sequência
+2025-02-23 16:40:02,982 - INFO - Evento: Obtendo duração da sequência: 269805913977600 ticks
+2025-02-23 16:40:03,004 - INFO - Evento: Obtendo número de trilhas de vídeo: 2
+2025-02-23 16:40:03,082 - INFO - Evento: Adicionando imagem Image_1.jpg na sequência
+2025-02-23 16:40:03,180 - INFO - Evento: Adicionando imagem Image_2.jpg na sequência
+2025-02-23 16:40:04,255 - INFO - Evento: Adicionando áudio Music_1.mp3 na sequência
+2025-02-23 16:40:04,334 - INFO - Evento: Adicionando áudio Music_2.mp3 na sequência
+2025-02-23 16:40:04,354 - INFO - Evento: Obtendo duração da sequência: 404708870966400 ticks
+2025-02-23 16:40:04,375 - INFO - Evento: Obtendo número de trilhas de vídeo: 4
+2025-02-23 16:40:04,457 - INFO - Evento: Adicionando imagem Image_1.jpg na sequência
+2025-02-23 16:40:04,554 - INFO - Evento: Adicionando imagem Image_2.jpg na sequência
+2025-02-23 16:40:07,820 - INFO - Evento: Adicionando áudio Music_1.mp3 na sequência
+2025-02-23 16:40:07,917 - INFO - Evento: Adicionando áudio Music_2.mp3 na sequência
+2025-02-23 16:40:07,944 - INFO - Evento: Obtendo duração da sequência: 539611827955200 ticks
+2025-02-23 16:40:07,969 - INFO - Evento: Obtendo número de trilhas de vídeo: 6
+2025-02-23 16:40:08,069 - INFO - Evento: Adicionando imagem Image_1.jpg na sequência
+2025-02-23 16:40:08,188 - INFO - Evento: Adicionando imagem Image_2.jpg na sequência
+2025-02-23 16:40:11,131 - INFO - Evento: Adicionando áudio Music_1.mp3 na sequência
+2025-02-23 16:40:11,216 - INFO - Evento: Adicionando áudio Music_2.mp3 na sequência
+2025-02-23 16:40:11,238 - INFO - Evento: Obtendo duração da sequência: 674514784944000 ticks
+2025-02-23 16:40:11,259 - INFO - Evento: Obtendo número de trilhas de vídeo: 8
+2025-02-23 16:40:11,340 - INFO - Evento: Adicionando imagem Image_1.jpg na sequência
+2025-02-23 16:40:11,439 - INFO - Evento: Adicionando imagem Image_2.jpg na sequência
+2025-02-23 16:40:26,075 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:40:26,112 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:40:26,148 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:40:26,178 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:40:26,217 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:40:26,252 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:40:26,286 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:40:26,322 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:40:26,355 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:40:26,392 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 16:40:26,478 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:40:26,514 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:40:26,549 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:40:26,589 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:40:26,623 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:40:26,662 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:40:26,699 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:40:26,734 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:40:26,769 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:40:26,803 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 16:40:26,843 - INFO - Evento: Sequência limpa
+2025-02-23 16:40:47,043 - INFO - Evento: Projeto Premiere Pro Desconectado!
+2025-02-23 16:50:44,208 - INFO - Evento: Projeto Premiere Pro Conectado!
+2025-02-23 16:51:12,257 - INFO - Evento: Arquivo carregado: Captura de tela 2025-01-29 140158.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-01-29 140158.png
+2025-02-23 16:51:12,450 - INFO - Evento: Arquivo carregado: MusicaLonga (1).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (1).MP3
+2025-02-23 16:51:42,349 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-14 115308.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-14 115308.png
+2025-02-23 16:51:42,349 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-08 203403.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-08 203403.png
+2025-02-23 16:51:42,349 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-07 210806.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-07 210806.png
+2025-02-23 16:51:42,350 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-15 175534.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-15 175534.png
+2025-02-23 16:51:42,598 - INFO - Evento: Arquivo carregado: MusicaLonga (7).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (7).MP3
+2025-02-23 16:51:42,598 - INFO - Evento: Arquivo carregado: MusicaLonga (5).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (5).MP3
+2025-02-23 16:51:42,598 - INFO - Evento: Arquivo carregado: MusicaLonga (3).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (3).MP3
+2025-02-23 16:51:42,598 - INFO - Evento: Arquivo carregado: MusicaLonga (8).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (8).MP3
+2025-02-23 16:52:00,255 - INFO - Evento: Adicionando áudio MusicaLonga (7).MP3 na sequência
+2025-02-23 16:52:00,394 - INFO - Evento: Adicionando áudio MusicaLonga (5).MP3 na sequência
+2025-02-23 16:52:00,542 - INFO - Evento: Adicionando áudio MusicaLonga (3).MP3 na sequência
+2025-02-23 16:52:00,681 - INFO - Evento: Adicionando áudio MusicaLonga (8).MP3 na sequência
+2025-02-23 16:52:00,698 - INFO - Evento: Obtendo duração da sequência: 2993724314380800 ticks
+2025-02-23 16:52:00,715 - INFO - Evento: Obtendo número de trilhas de vídeo: 0
+2025-02-23 16:52:00,865 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-14 115308.png na sequência
+2025-02-23 16:52:01,009 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-08 203403.png na sequência
+2025-02-23 16:52:01,151 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-07 210806.png na sequência
+2025-02-23 16:52:01,304 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-15 175534.png na sequência
+2025-02-23 16:52:04,143 - INFO - Evento: Adicionando áudio MusicaLonga (7).MP3 na sequência
+2025-02-23 16:52:04,388 - INFO - Evento: Adicionando áudio MusicaLonga (5).MP3 na sequência
+2025-02-23 16:52:04,588 - INFO - Evento: Adicionando áudio MusicaLonga (3).MP3 na sequência
+2025-02-23 16:52:04,827 - INFO - Evento: Adicionando áudio MusicaLonga (8).MP3 na sequência
+2025-02-23 16:52:04,854 - INFO - Evento: Obtendo duração da sequência: 5987448628761600 ticks
+2025-02-23 16:52:04,886 - INFO - Evento: Obtendo número de trilhas de vídeo: 4
+2025-02-23 16:52:05,148 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-14 115308.png na sequência
+2025-02-23 16:52:05,369 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-08 203403.png na sequência
+2025-02-23 16:52:05,601 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-07 210806.png na sequência
+2025-02-23 16:52:05,832 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-15 175534.png na sequência
+2025-02-23 17:26:15,357 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 17:26:15,393 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 17:26:15,426 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 17:26:15,458 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 17:26:15,489 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 17:26:15,520 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 17:26:15,549 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 17:26:15,580 - INFO - Evento: Removendo clipe de vídeo
+2025-02-23 17:26:15,656 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 17:26:15,686 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 17:26:15,715 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 17:26:15,746 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 17:26:15,776 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 17:26:15,808 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 17:26:15,839 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 17:26:15,869 - INFO - Evento: Removendo clipe de áudio
+2025-02-23 17:26:15,910 - INFO - Evento: Sequência limpa
+2025-02-23 17:26:17,026 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-22 200057.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-22 200057.png
+2025-02-23 17:26:17,026 - INFO - Evento: Arquivo carregado: Captura de tela 2025-01-31 173719.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-01-31 173719.png
+2025-02-23 17:26:17,026 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-19 161633.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-19 161633.png
+2025-02-23 17:26:17,026 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-11 210112.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-11 210112.png
+2025-02-23 17:26:17,212 - INFO - Evento: Arquivo carregado: MusicaLonga (6).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (6).MP3
+2025-02-23 17:26:17,212 - INFO - Evento: Arquivo carregado: MusicaLonga (2).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (2).MP3
+2025-02-23 17:26:17,212 - INFO - Evento: Arquivo carregado: MusicaLonga (9).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (9).MP3
+2025-02-23 17:26:17,212 - INFO - Evento: Arquivo carregado: MusicaLonga (8).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (8).MP3
+2025-02-23 17:26:20,101 - INFO - Evento: Adicionando áudio MusicaLonga (6).MP3 na sequência
+2025-02-23 17:26:20,288 - INFO - Evento: Adicionando áudio MusicaLonga (2).MP3 na sequência
+2025-02-23 17:26:20,477 - INFO - Evento: Adicionando áudio MusicaLonga (9).MP3 na sequência
+2025-02-23 17:26:20,654 - INFO - Evento: Adicionando áudio MusicaLonga (8).MP3 na sequência
+2025-02-23 17:26:20,670 - INFO - Evento: Obtendo duração da sequência: 2993724314380800 ticks
+2025-02-23 17:26:20,688 - INFO - Evento: Obtendo número de trilhas de vídeo: 0
+2025-02-23 17:26:20,873 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-22 200057.png na sequência
+2025-02-23 17:26:21,070 - INFO - Evento: Adicionando imagem Captura de tela 2025-01-31 173719.png na sequência
+2025-02-23 17:26:21,277 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-19 161633.png na sequência
+2025-02-23 17:26:21,501 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-11 210112.png na sequência
+2025-02-23 17:30:10,692 - INFO - Evento: Arquivo carregado: Captura de tela 2025-01-31 163625.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-01-31 163625.png
+2025-02-23 17:30:10,692 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-09 161027.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-09 161027.png
+2025-02-23 17:30:10,692 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-03 151321.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-03 151321.png
+2025-02-23 17:30:10,692 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-19 211544.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-19 211544.png
+2025-02-23 17:30:11,090 - INFO - Evento: Arquivo carregado: MusicaLonga (2).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (2).MP3
+2025-02-23 17:30:11,090 - INFO - Evento: Arquivo carregado: MusicaLonga (3).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (3).MP3
+2025-02-23 17:30:11,090 - INFO - Evento: Arquivo carregado: MusicaLonga (1).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (1).MP3
+2025-02-23 17:30:11,090 - INFO - Evento: Arquivo carregado: MusicaLonga (9).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (9).MP3
+2025-02-23 17:30:28,307 - INFO - Evento: Adicionando áudio MusicaLonga (2).MP3 na sequência
+2025-02-23 17:30:28,543 - INFO - Evento: Adicionando áudio MusicaLonga (3).MP3 na sequência
+2025-02-23 17:30:28,728 - INFO - Evento: Adicionando áudio MusicaLonga (1).MP3 na sequência
+2025-02-23 17:30:28,952 - INFO - Evento: Adicionando áudio MusicaLonga (9).MP3 na sequência
+2025-02-23 17:30:28,972 - INFO - Evento: Obtendo duração da sequência: 5987448628761600 ticks
+2025-02-23 17:30:28,991 - INFO - Evento: Obtendo número de trilhas de vídeo: 4
+2025-02-23 17:30:29,221 - INFO - Evento: Adicionando imagem Captura de tela 2025-01-31 163625.png na sequência
+2025-02-23 17:30:29,490 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-09 161027.png na sequência
+2025-02-23 17:30:29,783 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-03 151321.png na sequência
+2025-02-23 17:30:30,072 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-19 211544.png na sequência
+2025-02-23 17:30:53,978 - INFO - Evento: Arquivo carregado: Captura de tela 2025-01-31 170858.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-01-31 170858.png
+2025-02-23 17:30:53,978 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-20 001229.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-20 001229.png
+2025-02-23 17:30:54,341 - INFO - Evento: Arquivo carregado: MusicaLonga (1).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (1).MP3
+2025-02-23 17:30:54,341 - INFO - Evento: Arquivo carregado: MusicaLonga (9).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (9).MP3
+2025-02-23 17:30:54,341 - INFO - Evento: Arquivo carregado: MusicaLonga (5).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (5).MP3
+2025-02-23 17:30:54,341 - INFO - Evento: Arquivo carregado: MusicaLonga (2).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (2).MP3
+2025-02-23 17:30:55,656 - INFO - Evento: Adicionando áudio MusicaLonga (1).MP3 na sequência
+2025-02-23 17:30:55,887 - INFO - Evento: Adicionando áudio MusicaLonga (9).MP3 na sequência
+2025-02-23 17:30:56,175 - INFO - Evento: Adicionando áudio MusicaLonga (5).MP3 na sequência
+2025-02-23 17:30:56,410 - INFO - Evento: Adicionando áudio MusicaLonga (2).MP3 na sequência
+2025-02-23 17:30:56,434 - INFO - Evento: Obtendo duração da sequência: 8981172943142400 ticks
+2025-02-23 17:30:56,452 - INFO - Evento: Obtendo número de trilhas de vídeo: 8
+2025-02-23 17:30:56,697 - INFO - Evento: Adicionando imagem Captura de tela 2025-01-31 170858.png na sequência
+2025-02-23 17:30:56,958 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-20 001229.png na sequência
+2025-02-23 17:30:59,928 - INFO - Evento: Adicionando áudio MusicaLonga (1).MP3 na sequência
+2025-02-23 17:31:00,157 - INFO - Evento: Adicionando áudio MusicaLonga (9).MP3 na sequência
+2025-02-23 17:31:00,370 - INFO - Evento: Adicionando áudio MusicaLonga (5).MP3 na sequência
+2025-02-23 17:31:00,594 - INFO - Evento: Adicionando áudio MusicaLonga (2).MP3 na sequência
+2025-02-23 17:31:00,615 - INFO - Evento: Obtendo duração da sequência: 11974897257523200 ticks
+2025-02-23 17:31:00,645 - INFO - Evento: Obtendo número de trilhas de vídeo: 10
+2025-02-23 17:31:00,965 - INFO - Evento: Adicionando imagem Captura de tela 2025-01-31 170858.png na sequência
+2025-02-23 17:31:01,329 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-20 001229.png na sequência
+2025-02-23 17:31:18,944 - INFO - Evento: Adicionando áudio MusicaLonga (1).MP3 na sequência
+2025-02-23 17:31:19,188 - INFO - Evento: Adicionando áudio MusicaLonga (9).MP3 na sequência
+2025-02-23 17:31:19,406 - INFO - Evento: Adicionando áudio MusicaLonga (5).MP3 na sequência
+2025-02-23 17:31:19,653 - INFO - Evento: Adicionando áudio MusicaLonga (2).MP3 na sequência
+2025-02-23 17:31:19,674 - INFO - Evento: Obtendo duração da sequência: 14968621571904000 ticks
+2025-02-23 17:31:19,695 - INFO - Evento: Obtendo número de trilhas de vídeo: 12
+2025-02-23 17:31:20,057 - INFO - Evento: Adicionando imagem Captura de tela 2025-01-31 170858.png na sequência
+2025-02-23 17:31:20,348 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-20 001229.png na sequência
+2025-02-23 17:31:33,116 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-16 155553.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-16 155553.png
+2025-02-23 17:31:33,116 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-19 211552.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-19 211552.png
+2025-02-23 17:31:33,521 - INFO - Evento: Arquivo carregado: MusicaLonga (4).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (4).MP3
+2025-02-23 17:31:33,521 - INFO - Evento: Arquivo carregado: MusicaLonga (7).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (7).MP3
+2025-02-23 17:31:33,521 - INFO - Evento: Arquivo carregado: MusicaLonga (9).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (9).MP3
+2025-02-23 17:31:33,521 - INFO - Evento: Arquivo carregado: MusicaLonga (1).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (1).MP3
+2025-02-23 17:31:33,521 - INFO - Evento: Arquivo carregado: MusicaLonga (5).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (5).MP3
+2025-02-23 17:31:33,521 - INFO - Evento: Arquivo carregado: MusicaLonga (6).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (6).MP3
+2025-02-23 17:31:33,521 - INFO - Evento: Arquivo carregado: MusicaLonga (2).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (2).MP3
+2025-02-23 17:31:33,521 - INFO - Evento: Arquivo carregado: MusicaLonga (3).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (3).MP3
+2025-02-23 17:31:35,755 - INFO - Evento: Adicionando áudio MusicaLonga (4).MP3 na sequência
+2025-02-23 17:31:35,984 - INFO - Evento: Adicionando áudio MusicaLonga (7).MP3 na sequência
+2025-02-23 17:31:36,290 - INFO - Evento: Adicionando áudio MusicaLonga (9).MP3 na sequência
+2025-02-23 17:31:36,560 - INFO - Evento: Adicionando áudio MusicaLonga (1).MP3 na sequência
+2025-02-23 17:31:36,847 - INFO - Evento: Adicionando áudio MusicaLonga (5).MP3 na sequência
+2025-02-23 17:31:37,105 - INFO - Evento: Adicionando áudio MusicaLonga (6).MP3 na sequência
+2025-02-23 17:31:37,367 - INFO - Evento: Adicionando áudio MusicaLonga (2).MP3 na sequência
+2025-02-23 17:31:37,710 - INFO - Evento: Adicionando áudio MusicaLonga (3).MP3 na sequência
+2025-02-23 17:31:37,731 - INFO - Evento: Obtendo duração da sequência: 20956070200665600 ticks
+2025-02-23 17:31:37,749 - INFO - Evento: Obtendo número de trilhas de vídeo: 14
+2025-02-23 17:31:38,118 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-16 155553.png na sequência
+2025-02-23 17:31:38,524 - INFO - Evento: Adicionando imagem Captura de tela 2025-02-19 211552.png na sequência
+2025-02-23 17:41:22,928 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-16 155404.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-16 155404.png
+2025-02-23 17:41:22,928 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-13 201146.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-13 201146.png
+2025-02-23 17:41:22,928 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-04 130309.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-04 130309.png
+2025-02-23 17:41:22,928 - INFO - Evento: Arquivo carregado: Captura de tela 2025-01-31 170724.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-01-31 170724.png
+2025-02-23 17:41:23,418 - INFO - Evento: Arquivo carregado: MusicaLonga (3).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (3).MP3
+2025-02-23 17:41:23,418 - INFO - Evento: Arquivo carregado: MusicaLonga (6).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (6).MP3
+2025-02-23 17:41:23,418 - INFO - Evento: Arquivo carregado: MusicaLonga (1).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (1).MP3
+2025-02-23 17:41:23,418 - INFO - Evento: Arquivo carregado: MusicaLonga (9).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (9).MP3
+2025-02-23 17:41:42,450 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-04 130419.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-04 130419.png
+2025-02-23 17:41:42,450 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-09 162644.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-09 162644.png
+2025-02-23 17:41:42,450 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-15 141058.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-15 141058.png
+2025-02-23 17:41:42,450 - INFO - Evento: Arquivo carregado: Captura de tela 2025-01-30 220011.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-01-30 220011.png
+2025-02-23 17:41:42,884 - INFO - Evento: Arquivo carregado: MusicaLonga (3).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (3).MP3
+2025-02-23 17:41:42,884 - INFO - Evento: Arquivo carregado: MusicaLonga (5).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (5).MP3
+2025-02-23 17:41:42,884 - INFO - Evento: Arquivo carregado: MusicaLonga (10).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (10).MP3
+2025-02-23 17:41:42,884 - INFO - Evento: Arquivo carregado: MusicaLonga (8).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (8).MP3
+2025-02-23 17:41:42,884 - INFO - Evento: Arquivo carregado: MusicaLonga (2).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (2).MP3
+2025-02-23 17:41:42,886 - INFO - Evento: Arquivo carregado: MusicaLonga (7).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (7).MP3
+2025-02-23 17:41:42,886 - INFO - Evento: Arquivo carregado: MusicaLonga (9).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (9).MP3
+2025-02-23 17:41:42,886 - INFO - Evento: Arquivo carregado: MusicaLonga (4).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (4).MP3
+2025-02-23 17:41:42,886 - INFO - Evento: Arquivo carregado: MusicaLonga (1).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (1).MP3
+2025-02-23 17:46:01,885 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-03 014933.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-03 014933.png
+2025-02-23 17:46:01,885 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-09 213718.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-09 213718.png
+2025-02-23 17:46:01,885 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-22 200109.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-22 200109.png
+2025-02-23 17:46:01,885 - INFO - Evento: Arquivo carregado: Captura de tela 2025-01-31 205806.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-01-31 205806.png
+2025-02-23 17:46:02,398 - INFO - Evento: Arquivo carregado: MusicaLonga (9).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (9).MP3
+2025-02-23 17:46:02,398 - INFO - Evento: Arquivo carregado: MusicaLonga (7).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (7).MP3
+2025-02-23 17:46:02,398 - INFO - Evento: Arquivo carregado: MusicaLonga (8).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (8).MP3
+2025-02-23 17:46:02,398 - INFO - Evento: Arquivo carregado: MusicaLonga (3).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (3).MP3
+2025-02-23 17:46:43,561 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-22 123658.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-22 123658.png
+2025-02-23 17:46:43,561 - INFO - Evento: Arquivo carregado: Captura de tela 2025-01-29 141132.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-01-29 141132.png
+2025-02-23 17:46:43,561 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-03 151321.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-03 151321.png
+2025-02-23 17:46:43,561 - INFO - Evento: Arquivo carregado: Captura de tela 2025-01-31 162735.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-01-31 162735.png
+2025-02-23 17:46:43,757 - INFO - Evento: Arquivo carregado: MusicaLonga (4).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (4).MP3
+2025-02-23 17:46:43,757 - INFO - Evento: Arquivo carregado: MusicaLonga (3).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (3).MP3
+2025-02-23 17:46:43,757 - INFO - Evento: Arquivo carregado: MusicaLonga (5).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (5).MP3
+2025-02-23 17:46:43,757 - INFO - Evento: Arquivo carregado: MusicaLonga (6).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (6).MP3
+2025-02-23 17:46:56,258 - INFO - Evento: Arquivo carregado: Captura de tela 2025-01-29 195147.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-01-29 195147.png
+2025-02-23 17:46:56,258 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-19 163704.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-19 163704.png
+2025-02-23 17:46:56,258 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-14 111509.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-14 111509.png
+2025-02-23 17:46:56,258 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-02 085812.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-02 085812.png
+2025-02-23 17:46:56,465 - INFO - Evento: Arquivo carregado: MusicaLonga (6).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (6).MP3
+2025-02-23 17:46:56,465 - INFO - Evento: Arquivo carregado: MusicaLonga (10).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (10).MP3
+2025-02-23 17:46:56,465 - INFO - Evento: Arquivo carregado: MusicaLonga (9).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (9).MP3
+2025-02-23 17:46:56,465 - INFO - Evento: Arquivo carregado: MusicaLonga (8).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (8).MP3
+2025-02-24 07:03:49,778 - INFO - Evento: Projeto Premiere Pro Conectado!
+2025-02-24 18:38:58,664 - INFO - Evento: Arquivo carregado: Captura de tela 2025-01-30 111135.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-01-30 111135.png
+2025-02-24 18:38:58,665 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-19 215709.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-19 215709.png
+2025-02-24 18:38:58,666 - INFO - Evento: Arquivo carregado: Captura de tela 2025-01-29 140158.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-01-29 140158.png
+2025-02-24 18:38:58,666 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-06 194210.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-06 194210.png
+2025-02-24 18:38:58,963 - INFO - Evento: Arquivo carregado: MusicaLonga (5).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (5).MP3
+2025-02-24 18:38:58,963 - INFO - Evento: Arquivo carregado: MusicaLonga (7).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (7).MP3
+2025-02-24 18:38:58,963 - INFO - Evento: Arquivo carregado: MusicaLonga (10).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (10).MP3
+2025-02-24 18:38:58,963 - INFO - Evento: Arquivo carregado: MusicaLonga (4).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (4).MP3
+2025-02-24 19:20:05,208 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-14 111618.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-14 111618.png
+2025-02-24 19:20:05,209 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-20 001229.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-20 001229.png
+2025-02-24 19:20:05,209 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-19 224917.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-19 224917.png
+2025-02-24 19:20:05,209 - INFO - Evento: Arquivo carregado: Captura de tela 2025-02-19 204540.png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Captura de tela 2025-02-19 204540.png
+2025-02-24 19:20:05,556 - INFO - Evento: Arquivo carregado: MusicaLonga (6).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (6).MP3
+2025-02-24 19:20:05,556 - INFO - Evento: Arquivo carregado: MusicaLonga (2).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (2).MP3
+2025-02-24 19:20:05,556 - INFO - Evento: Arquivo carregado: MusicaLonga (3).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (3).MP3
+2025-02-24 19:20:05,556 - INFO - Evento: Arquivo carregado: MusicaLonga (4).MP3 - C:\Users\zryyh\Music\musicas\MusicaLonga (4).MP3
+2025-02-24 19:20:11,315 - INFO - Evento: Projeto Premiere Pro Desconectado!
+2025-02-24 19:21:46,664 - INFO - Evento: Projeto Premiere Pro Conectado!
+2025-02-24 19:22:13,168 - INFO - Evento: Arquivo carregado: Image_1.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_1.jpg
+2025-02-24 19:22:13,168 - INFO - Evento: Arquivo carregado: Image_2.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_2.jpg
+2025-02-24 19:22:13,168 - INFO - Evento: Arquivo carregado: Music_1.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_1.mp3
+2025-02-24 19:22:13,168 - INFO - Evento: Arquivo carregado: Music_2.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_2.mp3
+2025-02-24 19:23:05,318 - INFO - Evento: Projeto Premiere Pro Desconectado!
+2025-02-24 19:23:07,643 - INFO - Evento: Projeto Premiere Pro Conectado!
+2025-02-24 19:23:12,386 - INFO - Evento: Arquivo carregado: Image_1.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_1.jpg
+2025-02-24 19:23:12,386 - INFO - Evento: Arquivo carregado: Image_2.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_2.jpg
+2025-02-24 19:23:12,386 - INFO - Evento: Arquivo carregado: Music_1.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_1.mp3
+2025-02-24 19:23:12,386 - INFO - Evento: Arquivo carregado: Music_2.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_2.mp3
+2025-02-25 02:31:07,974 - INFO - Evento: Projeto Premiere Pro Desconectado!
+2025-02-25 02:31:11,654 - INFO - Evento: Projeto Premiere Pro Conectado!
+2025-02-25 02:31:24,795 - INFO - Evento: Modo de embaralhamento: False, Modo de pasta: False
+2025-02-25 02:31:24,795 - INFO - Evento: Arquivo carregado: Image_1.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_1.jpg
+2025-02-25 02:31:24,795 - INFO - Evento: Arquivo carregado: Image_2.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_2.jpg
+2025-02-25 02:31:24,795 - INFO - Evento: Modo de embaralhamento: False, Modo de pasta: False
+2025-02-25 02:31:24,795 - INFO - Evento: Arquivo carregado: Music_1.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_1.mp3
+2025-02-25 02:31:24,795 - INFO - Evento: Arquivo carregado: Music_2.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_2.mp3
+2025-02-25 02:31:51,730 - INFO - Evento: Modo de embaralhamento: False, Modo de pasta: False
+2025-02-25 02:31:51,730 - INFO - Evento: Arquivo carregado: Image_1.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_1.jpg
+2025-02-25 02:31:51,730 - INFO - Evento: Arquivo carregado: Image_2.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_2.jpg
+2025-02-25 02:31:51,730 - INFO - Evento: Modo de embaralhamento: False, Modo de pasta: False
+2025-02-25 02:31:51,730 - INFO - Evento: Arquivo carregado: Music_1.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_1.mp3
+2025-02-25 02:31:51,731 - INFO - Evento: Arquivo carregado: Music_2.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_2.mp3
+2025-02-25 02:31:56,252 - INFO - Evento: Modo de embaralhamento: False, Modo de pasta: False
+2025-02-25 02:31:56,252 - INFO - Evento: Arquivo carregado: Image_1.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_1.jpg
+2025-02-25 02:31:56,252 - INFO - Evento: Arquivo carregado: Image_2.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_2.jpg
+2025-02-25 02:31:56,252 - INFO - Evento: Modo de embaralhamento: False, Modo de pasta: False
+2025-02-25 02:31:56,252 - INFO - Evento: Arquivo carregado: Music_1.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_1.mp3
+2025-02-25 02:31:56,252 - INFO - Evento: Arquivo carregado: Music_2.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_2.mp3
+2025-02-25 02:33:12,639 - INFO - Evento: Modo de embaralhamento: False, Modo de pasta: False
+2025-02-25 02:33:12,639 - INFO - Evento: Arquivo carregado: Image_1.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_1.jpg
+2025-02-25 02:33:12,639 - INFO - Evento: Arquivo carregado: Image_2.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_2.jpg
+2025-02-25 02:33:12,639 - INFO - Evento: Modo de embaralhamento: False, Modo de pasta: False
+2025-02-25 02:33:12,639 - INFO - Evento: Arquivo carregado: Music_1.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_1.mp3
+2025-02-25 02:33:12,639 - INFO - Evento: Arquivo carregado: Music_2.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_2.mp3
+2025-02-25 02:40:12,572 - INFO - Evento: Projeto Premiere Pro Desconectado!
+2025-02-25 02:40:15,257 - INFO - Evento: Projeto Premiere Pro Conectado!
+2025-02-25 02:40:29,207 - INFO - Evento: Modo de embaralhamento: False, Modo de pasta: False
+2025-02-25 02:40:29,207 - INFO - Evento: Arquivo carregado: Image_1.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_1.jpg
+2025-02-25 02:40:29,207 - INFO - Evento: Arquivo carregado: Image_2.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_2.jpg
+2025-02-25 02:40:29,208 - INFO - Evento: Modo de embaralhamento: False, Modo de pasta: False
+2025-02-25 02:40:29,208 - INFO - Evento: Arquivo carregado: Music_1.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_1.mp3
+2025-02-25 02:40:29,208 - INFO - Evento: Arquivo carregado: Music_2.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_2.mp3
+2025-02-25 02:42:16,670 - INFO - Evento: Projeto Premiere Pro Desconectado!
+2025-02-25 02:42:19,110 - INFO - Evento: Projeto Premiere Pro Conectado!
+2025-02-25 02:42:33,718 - INFO - Evento: Modo de embaralhamento: False, Modo de pasta: False
+2025-02-25 02:42:33,718 - INFO - Evento: Arquivo carregado: Image_1.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_1.jpg
+2025-02-25 02:42:33,718 - INFO - Evento: Arquivo carregado: Image_2.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_2.jpg
+2025-02-25 02:42:33,718 - INFO - Evento: Modo de embaralhamento: False, Modo de pasta: False
+2025-02-25 02:42:33,718 - INFO - Evento: Arquivo carregado: Music_1.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_1.mp3
+2025-02-25 02:42:33,718 - INFO - Evento: Arquivo carregado: Music_2.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_2.mp3
+2025-02-25 02:44:01,208 - INFO - Evento: Projeto Premiere Pro Desconectado!
+2025-02-25 02:44:03,711 - INFO - Evento: Projeto Premiere Pro Conectado!
+2025-02-25 02:44:07,824 - INFO - Evento: Modo de embaralhamento: False, Modo de pasta: False
+2025-02-25 02:44:07,824 - INFO - Evento: Arquivo carregado: Image_1.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_1.jpg
+2025-02-25 02:44:07,824 - INFO - Evento: Arquivo carregado: Image_2.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_2.jpg
+2025-02-25 02:44:07,824 - INFO - Evento: Modo de embaralhamento: False, Modo de pasta: False
+2025-02-25 02:44:07,824 - INFO - Evento: Arquivo carregado: Music_1.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_1.mp3
+2025-02-25 02:44:07,824 - INFO - Evento: Arquivo carregado: Music_2.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_2.mp3
+2025-02-25 02:44:10,518 - INFO - Evento: Arquivos de imagem: ['C:\\Users\\zryyh\\OneDrive\\Documentos\\AdobePremiere\\Images\\Image_1.jpg', 'C:\\Users\\zryyh\\OneDrive\\Documentos\\AdobePremiere\\Images\\Image_2.jpg']
+2025-02-25 02:44:10,539 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\OneDrive\\Documentos\\AdobePremiere\\Musicas\\Music_1.mp3', 'C:\\Users\\zryyh\\OneDrive\\Documentos\\AdobePremiere\\Musicas\\Music_2.mp3']
+2025-02-25 02:44:50,186 - INFO - Evento: Projeto Premiere Pro Desconectado!
+2025-02-25 02:44:52,861 - INFO - Evento: Projeto Premiere Pro Conectado!
+2025-02-25 02:44:59,442 - INFO - Evento: Modo de embaralhamento: False, Modo de pasta: False
+2025-02-25 02:44:59,443 - INFO - Evento: Arquivo carregado: Image_1.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_1.jpg
+2025-02-25 02:44:59,443 - INFO - Evento: Arquivo carregado: Image_2.jpg - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Images\Image_2.jpg
+2025-02-25 02:44:59,443 - INFO - Evento: Modo de embaralhamento: False, Modo de pasta: False
+2025-02-25 02:44:59,443 - INFO - Evento: Arquivo carregado: Music_1.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_1.mp3
+2025-02-25 02:44:59,443 - INFO - Evento: Arquivo carregado: Music_2.mp3 - C:\Users\zryyh\OneDrive\Documentos\AdobePremiere\Musicas\Music_2.mp3
+2025-02-25 02:45:01,221 - INFO - Evento: Arquivos de imagem: ['Image_1.jpg', 'Image_2.jpg']
+2025-02-25 02:45:01,243 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\OneDrive\\Documentos\\AdobePremiere\\Musicas\\Music_1.mp3', 'C:\\Users\\zryyh\\OneDrive\\Documentos\\AdobePremiere\\Musicas\\Music_2.mp3']
+2025-02-25 02:47:58,079 - INFO - Evento: Modo de embaralhamento: False, Modo de pasta: False
+2025-02-25 02:47:58,079 - INFO - Evento: Arquivo carregado: Image (1).jpg - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (1).jpg
+2025-02-25 02:47:58,080 - INFO - Evento: Arquivo carregado: Image (2).jpg - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (2).jpg
+2025-02-25 02:47:58,080 - INFO - Evento: Modo de embaralhamento: False, Modo de pasta: False
+2025-02-25 02:47:58,080 - INFO - Evento: Arquivo carregado: MusicaLonga (1).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (1).mp3
+2025-02-25 02:47:58,080 - INFO - Evento: Arquivo carregado: MusicaLonga (2).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (2).mp3
+2025-02-25 02:48:08,842 - INFO - Evento: Projeto Premiere Pro Desconectado!
+2025-02-25 02:49:21,446 - INFO - Evento: Projeto Premiere Pro Conectado!
+2025-02-25 02:49:53,052 - INFO - Evento: Modo de embaralhamento: False, Modo de pasta: False
+2025-02-25 02:49:53,053 - INFO - Evento: Arquivo carregado: Image (1).jpg - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (1).jpg
+2025-02-25 02:49:53,053 - INFO - Evento: Arquivo carregado: Image (2).jpg - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (2).jpg
+2025-02-25 02:49:53,053 - INFO - Evento: Modo de embaralhamento: False, Modo de pasta: False
+2025-02-25 02:49:53,053 - INFO - Evento: Arquivo carregado: MusicaLonga (1).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (1).mp3
+2025-02-25 02:49:53,053 - INFO - Evento: Arquivo carregado: MusicaLonga (2).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (2).mp3
+2025-02-25 02:49:59,499 - INFO - Evento: Arquivos de imagem: ['C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (1).jpg', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (2).jpg']
+2025-02-25 02:49:59,520 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (1).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (2).mp3']
+2025-02-25 02:55:43,321 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 02:55:43,321 - INFO - Evento: Arquivo carregado: Image (2).jpg - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (2).jpg
+2025-02-25 02:55:43,321 - INFO - Evento: Arquivo carregado: Image (1).jpg - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (1).jpg
+2025-02-25 02:55:43,321 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 02:55:43,321 - INFO - Evento: Arquivo carregado: MusicaLonga (1).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (1).mp3
+2025-02-25 02:55:43,321 - INFO - Evento: Arquivo carregado: MusicaLonga (2).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (2).mp3
+2025-02-25 02:56:04,187 - INFO - Evento: Arquivos de imagem: ['C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (2).jpg', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (1).jpg']
+2025-02-25 02:56:04,207 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (1).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (2).mp3']
+2025-02-25 02:59:32,679 - INFO - Evento: Projeto Premiere Pro Desconectado!
+2025-02-25 03:00:24,453 - INFO - Evento: Projeto Premiere Pro Conectado!
+2025-02-25 03:00:31,776 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 03:00:31,777 - INFO - Evento: Arquivo carregado: Image (2).jpg - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (2).jpg
+2025-02-25 03:00:31,777 - INFO - Evento: Arquivo carregado: Image (1).jpg - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (1).jpg
+2025-02-25 03:00:31,777 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 03:00:31,777 - INFO - Evento: Arquivo carregado: MusicaLonga (1).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (1).mp3
+2025-02-25 03:00:31,778 - INFO - Evento: Arquivo carregado: MusicaLonga (2).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (2).mp3
+2025-02-25 03:00:37,950 - INFO - Evento: Arquivos de imagem: ['C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (2).jpg', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (1).jpg']
+2025-02-25 03:00:45,603 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (1).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (2).mp3']
+2025-02-25 03:02:02,840 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 03:02:02,840 - INFO - Evento: Arquivo carregado: Image (2).jpg - C:\Users\zryyh\OneDrive\Imagens\Capturas de Tela\Image (2).jpg
+2025-02-25 03:02:02,840 - INFO - Evento: Arquivo carregado: Image (1).jpg - C:\Users\zryyh\OneDrive\Imagens\Capturas de Tela\Image (1).jpg
+2025-02-25 03:02:02,840 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 03:02:02,840 - INFO - Evento: Arquivo carregado: MusicaLonga (1).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (1).mp3
+2025-02-25 03:02:02,840 - INFO - Evento: Arquivo carregado: MusicaLonga (2).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (2).mp3
+2025-02-25 03:02:05,496 - INFO - Evento: Arquivos de imagem: ['C:\\Users\\zryyh\\OneDrive\\Imagens\\Capturas de Tela\\Image (2).jpg', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Capturas de Tela\\Image (1).jpg']
+2025-02-25 03:02:15,514 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (1).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (2).mp3']
+2025-02-25 03:02:54,682 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 03:02:54,682 - INFO - Evento: Arquivo carregado: Image (1).jpg - C:\Users\zryyh\OneDrive\Imagens\imgs\Image (1).jpg
+2025-02-25 03:02:54,682 - INFO - Evento: Arquivo carregado: Image (2).jpg - C:\Users\zryyh\OneDrive\Imagens\imgs\Image (2).jpg
+2025-02-25 03:02:54,682 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 03:02:54,682 - INFO - Evento: Arquivo carregado: MusicaLonga (2).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (2).mp3
+2025-02-25 03:02:54,682 - INFO - Evento: Arquivo carregado: MusicaLonga (1).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (1).mp3
+2025-02-25 03:02:57,506 - INFO - Evento: Arquivos de imagem: ['C:\\Users\\zryyh\\OneDrive\\Imagens\\imgs\\Image (1).jpg', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\imgs\\Image (2).jpg']
+2025-02-25 03:03:00,081 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (2).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (1).mp3']
+2025-02-25 03:03:13,442 - INFO - Evento: Projeto Premiere Pro Desconectado!
+2025-02-25 03:04:36,275 - INFO - Evento: Projeto Premiere Pro Conectado!
+2025-02-25 03:04:41,758 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 03:04:41,759 - INFO - Evento: Arquivo carregado: Image (1).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (1).png
+2025-02-25 03:04:41,759 - INFO - Evento: Arquivo carregado: Image (2).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (2).png
+2025-02-25 03:04:41,759 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 03:04:41,759 - INFO - Evento: Arquivo carregado: MusicaLonga (1).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (1).mp3
+2025-02-25 03:04:41,759 - INFO - Evento: Arquivo carregado: MusicaLonga (2).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (2).mp3
+2025-02-25 03:04:51,798 - INFO - Evento: Arquivos de imagem: ['C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (1).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (2).png']
+2025-02-25 03:04:51,966 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (1).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (2).mp3']
+2025-02-25 03:05:12,145 - INFO - Evento: Adicionando áudio MusicaLonga (1).mp3 na sequência
+2025-02-25 03:05:12,223 - INFO - Evento: Adicionando áudio MusicaLonga (2).mp3 na sequência
+2025-02-25 03:05:12,240 - INFO - Evento: Obtendo duração da sequência: 1496862157190400 ticks
+2025-02-25 03:05:12,260 - INFO - Evento: Obtendo número de trilhas de vídeo: 0
+2025-02-25 03:05:12,346 - INFO - Evento: Adicionando imagem Image (1).png na sequência
+2025-02-25 03:05:12,449 - INFO - Evento: Adicionando imagem Image (2).png na sequência
+2025-02-25 03:05:18,497 - INFO - Evento: Removendo clipe de vídeo
+2025-02-25 03:05:18,536 - INFO - Evento: Removendo clipe de vídeo
+2025-02-25 03:05:18,652 - INFO - Evento: Removendo clipe de áudio
+2025-02-25 03:05:18,694 - INFO - Evento: Removendo clipe de áudio
+2025-02-25 03:05:18,750 - INFO - Evento: Sequência limpa
+2025-02-25 03:06:15,890 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 03:06:15,890 - INFO - Evento: Arquivo carregado: Image (1).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (1).png
+2025-02-25 03:06:15,890 - INFO - Evento: Arquivo carregado: Image (2).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (2).png
+2025-02-25 03:06:15,890 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 03:06:15,891 - INFO - Evento: Arquivo carregado: MusicaLonga (2).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (2).mp3
+2025-02-25 03:06:15,891 - INFO - Evento: Arquivo carregado: MusicaLonga (1).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (1).mp3
+2025-02-25 03:06:18,878 - INFO - Evento: Arquivos de imagem: ['C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (1).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (2).png']
+2025-02-25 03:06:18,997 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (2).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (1).mp3']
+2025-02-25 03:06:20,300 - INFO - Evento: Arquivos de imagem: ['C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (1).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (2).png']
+2025-02-25 03:06:20,364 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (2).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (1).mp3']
+2025-02-25 03:06:21,930 - INFO - Evento: Arquivos de imagem: ['C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (1).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (2).png']
+2025-02-25 03:06:21,991 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (2).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (1).mp3']
+2025-02-25 03:07:24,496 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 03:07:24,498 - INFO - Evento: Arquivo carregado: Image (2).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (2).png
+2025-02-25 03:07:24,498 - INFO - Evento: Arquivo carregado: Image (1).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (1).png
+2025-02-25 03:07:24,498 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 03:07:24,498 - INFO - Evento: Arquivo carregado: MusicaLonga (2).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (2).mp3
+2025-02-25 03:07:24,498 - INFO - Evento: Arquivo carregado: MusicaLonga (1).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (1).mp3
+2025-02-25 03:07:28,273 - INFO - Evento: Arquivos de imagem: ['C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (2).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (1).png']
+2025-02-25 03:07:28,334 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (2).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (1).mp3']
+2025-02-25 03:07:36,820 - INFO - Evento: Adicionando áudio MusicaLonga (2).mp3 na sequência
+2025-02-25 03:07:36,914 - INFO - Evento: Adicionando áudio MusicaLonga (1).mp3 na sequência
+2025-02-25 03:07:36,939 - INFO - Evento: Obtendo duração da sequência: 1496862157190400 ticks
+2025-02-25 03:07:36,965 - INFO - Evento: Obtendo número de trilhas de vídeo: 0
+2025-02-25 03:07:37,065 - INFO - Evento: Adicionando imagem Image (2).png na sequência
+2025-02-25 03:07:37,179 - INFO - Evento: Adicionando imagem Image (1).png na sequência
+2025-02-25 03:07:54,658 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 03:07:54,658 - INFO - Evento: Arquivo carregado: Image (2).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (2).png
+2025-02-25 03:07:54,658 - INFO - Evento: Arquivo carregado: Image (1).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (1).png
+2025-02-25 03:07:54,658 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 03:07:54,658 - INFO - Evento: Arquivo carregado: MusicaLonga (2).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (2).mp3
+2025-02-25 03:07:58,659 - INFO - Evento: Arquivos de imagem: ['C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (2).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (1).png']
+2025-02-25 03:07:58,720 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (2).mp3']
+2025-02-25 03:08:06,597 - INFO - Evento: Adicionando áudio MusicaLonga (2).mp3 na sequência
+2025-02-25 03:08:06,622 - INFO - Evento: Obtendo duração da sequência: 2245293235785600 ticks
+2025-02-25 03:08:06,646 - INFO - Evento: Obtendo número de trilhas de vídeo: 2
+2025-02-25 03:08:06,751 - INFO - Evento: Adicionando imagem Image (2).png na sequência
+2025-02-25 03:08:06,844 - INFO - Evento: Adicionando imagem Image (1).png na sequência
+2025-02-25 03:08:47,450 - INFO - Evento: Removendo clipe de vídeo
+2025-02-25 03:08:47,490 - INFO - Evento: Removendo clipe de vídeo
+2025-02-25 03:08:47,524 - INFO - Evento: Removendo clipe de vídeo
+2025-02-25 03:08:47,562 - INFO - Evento: Removendo clipe de vídeo
+2025-02-25 03:08:47,672 - INFO - Evento: Removendo clipe de áudio
+2025-02-25 03:08:47,715 - INFO - Evento: Removendo clipe de áudio
+2025-02-25 03:08:47,751 - INFO - Evento: Removendo clipe de áudio
+2025-02-25 03:08:47,800 - INFO - Evento: Sequência limpa
+2025-02-25 03:08:54,827 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 03:08:54,828 - INFO - Evento: Arquivo carregado: Image (1).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (1).png
+2025-02-25 03:08:54,828 - INFO - Evento: Arquivo carregado: Image (2).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (2).png
+2025-02-25 03:08:54,828 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 03:08:54,828 - INFO - Evento: Arquivo carregado: MusicaLonga (2).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (2).mp3
+2025-02-25 03:08:54,828 - INFO - Evento: Arquivo carregado: MusicaLonga (1).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (1).mp3
+2025-02-25 03:09:54,112 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 03:09:54,112 - INFO - Evento: Arquivo carregado: Image (1).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (1).png
+2025-02-25 03:09:54,112 - INFO - Evento: Arquivo carregado: Image (4).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (4).png
+2025-02-25 03:09:54,113 - INFO - Evento: Arquivo carregado: Image (3).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (3).png
+2025-02-25 03:09:54,113 - INFO - Evento: Arquivo carregado: Image (2).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (2).png
+2025-02-25 03:09:54,113 - INFO - Evento: Arquivo carregado: Image (5).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (5).png
+2025-02-25 03:09:54,113 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 03:09:54,113 - INFO - Evento: Arquivo carregado: MusicaLonga (4).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (4).mp3
+2025-02-25 03:09:54,113 - INFO - Evento: Arquivo carregado: MusicaLonga (1).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (1).mp3
+2025-02-25 03:09:54,113 - INFO - Evento: Arquivo carregado: MusicaLonga (3).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (3).mp3
+2025-02-25 03:09:54,113 - INFO - Evento: Arquivo carregado: MusicaLonga (2).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (2).mp3
+2025-02-25 03:09:54,113 - INFO - Evento: Arquivo carregado: MusicaLonga (5).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (5).mp3
+2025-02-25 03:09:56,698 - INFO - Evento: Arquivos de imagem: ['C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (1).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (4).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (3).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (2).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (5).png']
+2025-02-25 03:09:56,932 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (4).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (1).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (3).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (2).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (5).mp3']
+2025-02-25 03:10:04,607 - INFO - Evento: Adicionando áudio MusicaLonga (4).mp3 na sequência
+2025-02-25 03:10:04,741 - INFO - Evento: Adicionando áudio MusicaLonga (1).mp3 na sequência
+2025-02-25 03:10:04,899 - INFO - Evento: Adicionando áudio MusicaLonga (3).mp3 na sequência
+2025-02-25 03:10:05,034 - INFO - Evento: Adicionando áudio MusicaLonga (2).mp3 na sequência
+2025-02-25 03:10:05,191 - INFO - Evento: Adicionando áudio MusicaLonga (5).mp3 na sequência
+2025-02-25 03:10:05,213 - INFO - Evento: Obtendo duração da sequência: 3742155392976000 ticks
+2025-02-25 03:10:05,238 - INFO - Evento: Obtendo número de trilhas de vídeo: 0
+2025-02-25 03:10:05,357 - INFO - Evento: Adicionando imagem Image (1).png na sequência
+2025-02-25 03:10:05,499 - INFO - Evento: Adicionando imagem Image (4).png na sequência
+2025-02-25 03:10:05,647 - INFO - Evento: Adicionando imagem Image (3).png na sequência
+2025-02-25 03:10:05,817 - INFO - Evento: Adicionando imagem Image (2).png na sequência
+2025-02-25 03:10:05,961 - INFO - Evento: Adicionando imagem Image (5).png na sequência
+2025-02-25 03:10:24,028 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 03:10:24,028 - INFO - Evento: Arquivo carregado: Image (2).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (2).png
+2025-02-25 03:10:24,029 - INFO - Evento: Arquivo carregado: Image (4).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (4).png
+2025-02-25 03:10:24,029 - INFO - Evento: Arquivo carregado: Image (3).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (3).png
+2025-02-25 03:10:24,029 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 03:10:24,029 - INFO - Evento: Arquivo carregado: MusicaLonga (1).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (1).mp3
+2025-02-25 03:10:24,029 - INFO - Evento: Arquivo carregado: MusicaLonga (4).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (4).mp3
+2025-02-25 03:10:24,029 - INFO - Evento: Arquivo carregado: MusicaLonga (5).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (5).mp3
+2025-02-25 03:10:24,029 - INFO - Evento: Arquivo carregado: MusicaLonga (3).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (3).mp3
+2025-02-25 03:10:24,029 - INFO - Evento: Arquivo carregado: MusicaLonga (2).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (2).mp3
+2025-02-25 03:10:27,115 - INFO - Evento: Arquivos de imagem: ['C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (2).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (4).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (3).png']
+2025-02-25 03:10:27,227 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (1).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (4).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (5).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (3).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (2).mp3']
+2025-02-25 03:10:33,555 - INFO - Evento: Adicionando áudio MusicaLonga (1).mp3 na sequência
+2025-02-25 03:10:33,699 - INFO - Evento: Adicionando áudio MusicaLonga (4).mp3 na sequência
+2025-02-25 03:10:33,840 - INFO - Evento: Adicionando áudio MusicaLonga (5).mp3 na sequência
+2025-02-25 03:10:33,968 - INFO - Evento: Adicionando áudio MusicaLonga (3).mp3 na sequência
+2025-02-25 03:10:34,093 - INFO - Evento: Adicionando áudio MusicaLonga (2).mp3 na sequência
+2025-02-25 03:10:34,121 - INFO - Evento: Obtendo duração da sequência: 7484310785952000 ticks
+2025-02-25 03:10:34,146 - INFO - Evento: Obtendo número de trilhas de vídeo: 5
+2025-02-25 03:10:34,287 - INFO - Evento: Adicionando imagem Image (2).png na sequência
+2025-02-25 03:10:34,456 - INFO - Evento: Adicionando imagem Image (4).png na sequência
+2025-02-25 03:10:34,603 - INFO - Evento: Adicionando imagem Image (3).png na sequência
+2025-02-25 03:11:12,222 - INFO - Evento: Removendo clipe de vídeo
+2025-02-25 03:11:12,258 - INFO - Evento: Removendo clipe de vídeo
+2025-02-25 03:11:12,293 - INFO - Evento: Removendo clipe de vídeo
+2025-02-25 03:11:12,325 - INFO - Evento: Removendo clipe de vídeo
+2025-02-25 03:11:12,363 - INFO - Evento: Removendo clipe de vídeo
+2025-02-25 03:11:12,400 - INFO - Evento: Removendo clipe de vídeo
+2025-02-25 03:11:12,432 - INFO - Evento: Removendo clipe de vídeo
+2025-02-25 03:11:12,468 - INFO - Evento: Removendo clipe de vídeo
+2025-02-25 03:11:12,550 - INFO - Evento: Removendo clipe de áudio
+2025-02-25 03:11:12,583 - INFO - Evento: Removendo clipe de áudio
+2025-02-25 03:11:12,616 - INFO - Evento: Removendo clipe de áudio
+2025-02-25 03:11:12,651 - INFO - Evento: Removendo clipe de áudio
+2025-02-25 03:11:12,683 - INFO - Evento: Removendo clipe de áudio
+2025-02-25 03:11:12,718 - INFO - Evento: Removendo clipe de áudio
+2025-02-25 03:11:12,751 - INFO - Evento: Removendo clipe de áudio
+2025-02-25 03:11:12,785 - INFO - Evento: Removendo clipe de áudio
+2025-02-25 03:11:12,820 - INFO - Evento: Removendo clipe de áudio
+2025-02-25 03:11:12,854 - INFO - Evento: Removendo clipe de áudio
+2025-02-25 03:11:12,893 - INFO - Evento: Sequência limpa
+2025-02-25 03:11:15,392 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 03:11:15,392 - INFO - Evento: Arquivo carregado: Image (3).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (3).png
+2025-02-25 03:11:15,392 - INFO - Evento: Arquivo carregado: Image (5).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (5).png
+2025-02-25 03:11:15,392 - INFO - Evento: Arquivo carregado: Image (4).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (4).png
+2025-02-25 03:11:15,392 - INFO - Evento: Arquivo carregado: Image (2).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (2).png
+2025-02-25 03:11:15,392 - INFO - Evento: Arquivo carregado: Image (1).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (1).png
+2025-02-25 03:11:15,393 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 03:11:15,393 - INFO - Evento: Arquivo carregado: MusicaLonga (3).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (3).mp3
+2025-02-25 03:11:15,393 - INFO - Evento: Arquivo carregado: MusicaLonga (5).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (5).mp3
+2025-02-25 03:11:15,393 - INFO - Evento: Arquivo carregado: MusicaLonga (1).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (1).mp3
+2025-02-25 03:11:17,566 - INFO - Evento: Arquivos de imagem: ['C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (3).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (5).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (4).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (2).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (1).png']
+2025-02-25 03:11:17,680 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (3).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (5).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (1).mp3']
+2025-02-25 03:11:19,832 - INFO - Evento: Adicionando áudio MusicaLonga (3).mp3 na sequência
+2025-02-25 03:11:19,958 - INFO - Evento: Adicionando áudio MusicaLonga (5).mp3 na sequência
+2025-02-25 03:11:20,070 - INFO - Evento: Adicionando áudio MusicaLonga (1).mp3 na sequência
+2025-02-25 03:11:20,094 - INFO - Evento: Obtendo duração da sequência: 2245293235785600 ticks
+2025-02-25 03:11:20,114 - INFO - Evento: Obtendo número de trilhas de vídeo: 0
+2025-02-25 03:11:20,245 - INFO - Evento: Adicionando imagem Image (3).png na sequência
+2025-02-25 03:11:20,376 - INFO - Evento: Adicionando imagem Image (5).png na sequência
+2025-02-25 03:11:20,514 - INFO - Evento: Adicionando imagem Image (4).png na sequência
+2025-02-25 03:11:20,631 - INFO - Evento: Adicionando imagem Image (2).png na sequência
+2025-02-25 03:11:20,750 - INFO - Evento: Adicionando imagem Image (1).png na sequência
+2025-02-25 03:11:25,459 - INFO - Evento: Removendo clipe de vídeo
+2025-02-25 03:11:25,499 - INFO - Evento: Removendo clipe de vídeo
+2025-02-25 03:11:25,536 - INFO - Evento: Removendo clipe de vídeo
+2025-02-25 03:11:25,575 - INFO - Evento: Removendo clipe de vídeo
+2025-02-25 03:11:25,612 - INFO - Evento: Removendo clipe de vídeo
+2025-02-25 03:11:25,704 - INFO - Evento: Removendo clipe de áudio
+2025-02-25 03:11:25,739 - INFO - Evento: Removendo clipe de áudio
+2025-02-25 03:11:25,775 - INFO - Evento: Removendo clipe de áudio
+2025-02-25 03:11:25,818 - INFO - Evento: Sequência limpa
+2025-02-25 03:11:30,184 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 03:11:30,184 - INFO - Evento: Arquivo carregado: Image (2).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (2).png
+2025-02-25 03:11:30,184 - INFO - Evento: Arquivo carregado: Image (1).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (1).png
+2025-02-25 03:11:30,184 - INFO - Evento: Arquivo carregado: Image (3).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (3).png
+2025-02-25 03:11:30,184 - INFO - Evento: Arquivo carregado: Image (5).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (5).png
+2025-02-25 03:11:30,185 - INFO - Evento: Arquivo carregado: Image (4).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (4).png
+2025-02-25 03:11:30,185 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 03:11:30,185 - INFO - Evento: Arquivo carregado: MusicaLonga (4).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (4).mp3
+2025-02-25 03:11:30,185 - INFO - Evento: Arquivo carregado: MusicaLonga (3).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (3).mp3
+2025-02-25 03:11:30,185 - INFO - Evento: Arquivo carregado: MusicaLonga (1).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (1).mp3
+2025-02-25 03:11:30,185 - INFO - Evento: Arquivo carregado: MusicaLonga (2).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (2).mp3
+2025-02-25 03:11:30,185 - INFO - Evento: Arquivo carregado: MusicaLonga (5).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (5).mp3
+2025-02-25 03:11:31,975 - INFO - Evento: Arquivos de imagem: ['C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (2).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (1).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (3).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (5).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (4).png']
+2025-02-25 03:11:32,087 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (4).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (3).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (1).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (2).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (5).mp3']
+2025-02-25 03:11:33,882 - INFO - Evento: Adicionando áudio MusicaLonga (4).mp3 na sequência
+2025-02-25 03:11:34,097 - INFO - Evento: Adicionando áudio MusicaLonga (3).mp3 na sequência
+2025-02-25 03:11:34,212 - INFO - Evento: Adicionando áudio MusicaLonga (1).mp3 na sequência
+2025-02-25 03:11:34,365 - INFO - Evento: Adicionando áudio MusicaLonga (2).mp3 na sequência
+2025-02-25 03:11:34,496 - INFO - Evento: Adicionando áudio MusicaLonga (5).mp3 na sequência
+2025-02-25 03:11:34,515 - INFO - Evento: Obtendo duração da sequência: 3742155392976000 ticks
+2025-02-25 03:11:34,534 - INFO - Evento: Obtendo número de trilhas de vídeo: 0
+2025-02-25 03:11:34,652 - INFO - Evento: Adicionando imagem Image (2).png na sequência
+2025-02-25 03:11:34,776 - INFO - Evento: Adicionando imagem Image (1).png na sequência
+2025-02-25 03:11:34,912 - INFO - Evento: Adicionando imagem Image (3).png na sequência
+2025-02-25 03:11:35,052 - INFO - Evento: Adicionando imagem Image (5).png na sequência
+2025-02-25 03:11:35,187 - INFO - Evento: Adicionando imagem Image (4).png na sequência
+2025-02-25 03:11:50,787 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 03:11:50,787 - INFO - Evento: Arquivo carregado: Image (4).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (4).png
+2025-02-25 03:11:50,787 - INFO - Evento: Arquivo carregado: Image (2).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (2).png
+2025-02-25 03:11:50,788 - INFO - Evento: Arquivo carregado: Image (3).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (3).png
+2025-02-25 03:11:50,788 - INFO - Evento: Arquivo carregado: Image (5).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (5).png
+2025-02-25 03:11:50,788 - INFO - Evento: Arquivo carregado: Image (1).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (1).png
+2025-02-25 03:11:50,788 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 03:11:50,788 - INFO - Evento: Arquivo carregado: MusicaLonga (3).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (3).mp3
+2025-02-25 03:11:50,788 - INFO - Evento: Arquivo carregado: MusicaLonga (1).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (1).mp3
+2025-02-25 03:11:50,788 - INFO - Evento: Arquivo carregado: MusicaLonga (5).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (5).mp3
+2025-02-25 03:11:52,652 - INFO - Evento: Arquivos de imagem: ['C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (4).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (2).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (3).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (5).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (1).png']
+2025-02-25 03:11:52,757 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (3).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (1).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (5).mp3']
+2025-02-25 03:11:54,454 - INFO - Evento: Adicionando áudio MusicaLonga (3).mp3 na sequência
+2025-02-25 03:11:54,700 - INFO - Evento: Adicionando áudio MusicaLonga (1).mp3 na sequência
+2025-02-25 03:11:54,838 - INFO - Evento: Adicionando áudio MusicaLonga (5).mp3 na sequência
+2025-02-25 03:11:54,860 - INFO - Evento: Obtendo duração da sequência: 5987448628761600 ticks
+2025-02-25 03:11:54,879 - INFO - Evento: Obtendo número de trilhas de vídeo: 5
+2025-02-25 03:11:55,005 - INFO - Evento: Adicionando imagem Image (4).png na sequência
+2025-02-25 03:11:55,141 - INFO - Evento: Adicionando imagem Image (2).png na sequência
+2025-02-25 03:11:55,280 - INFO - Evento: Adicionando imagem Image (3).png na sequência
+2025-02-25 03:11:55,422 - INFO - Evento: Adicionando imagem Image (5).png na sequência
+2025-02-25 03:11:55,551 - INFO - Evento: Adicionando imagem Image (1).png na sequência
+2025-02-25 03:23:25,997 - INFO - Evento: Projeto Premiere Pro Desconectado!
+2025-02-25 03:23:28,610 - INFO - Evento: Projeto Premiere Pro Conectado!
+2025-02-25 03:24:40,896 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 03:24:40,896 - INFO - Evento: Arquivo carregado: Image (5).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (5).png
+2025-02-25 03:24:40,897 - INFO - Evento: Arquivo carregado: Image (2).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (2).png
+2025-02-25 03:24:40,897 - INFO - Evento: Arquivo carregado: Image (1).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (1).png
+2025-02-25 03:24:40,897 - INFO - Evento: Arquivo carregado: Image (3).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (3).png
+2025-02-25 03:24:40,897 - INFO - Evento: Arquivo carregado: Image (4).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (4).png
+2025-02-25 03:24:40,897 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 03:24:40,897 - INFO - Evento: Arquivo carregado: MusicaLonga (3).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (3).mp3
+2025-02-25 03:24:40,897 - INFO - Evento: Arquivo carregado: MusicaLonga (1).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (1).mp3
+2025-02-25 03:24:40,897 - INFO - Evento: Arquivo carregado: MusicaLonga (2).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (2).mp3
+2025-02-25 03:24:40,897 - INFO - Evento: Arquivo carregado: MusicaLonga (4).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (4).mp3
+2025-02-25 03:24:40,897 - INFO - Evento: Arquivo carregado: MusicaLonga (5).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (5).mp3
+2025-02-25 03:24:55,682 - INFO - Evento: Arquivos de imagem: ['C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (5).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (2).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (1).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (3).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (4).png']
+2025-02-25 03:24:55,836 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (3).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (1).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (2).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (4).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (5).mp3']
+2025-02-25 03:26:33,249 - INFO - Evento: Projeto Premiere Pro Desconectado!
+2025-02-25 03:26:35,898 - INFO - Evento: Projeto Premiere Pro Conectado!
+2025-02-25 03:26:54,649 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 03:26:54,651 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 03:26:54,651 - INFO - Evento: Arquivo carregado: MusicaLonga (5).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (5).mp3
+2025-02-25 03:26:54,651 - INFO - Evento: Arquivo carregado: MusicaLonga (3).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (3).mp3
+2025-02-25 03:26:54,651 - INFO - Evento: Arquivo carregado: MusicaLonga (4).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (4).mp3
+2025-02-25 03:26:54,651 - INFO - Evento: Arquivo carregado: MusicaLonga (1).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (1).mp3
+2025-02-25 03:26:54,651 - INFO - Evento: Arquivo carregado: MusicaLonga (2).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (2).mp3
+2025-02-25 03:27:00,868 - INFO - Evento: Arquivos de imagem: []
+2025-02-25 03:27:00,899 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (5).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (3).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (4).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (1).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (2).mp3']
+2025-02-25 03:27:20,399 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 03:27:20,399 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 03:27:20,399 - INFO - Evento: Arquivo carregado: MusicaLonga (9).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (9).mp3
+2025-02-25 03:27:20,399 - INFO - Evento: Arquivo carregado: MusicaLonga (6).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (6).mp3
+2025-02-25 03:27:20,399 - INFO - Evento: Arquivo carregado: MusicaLonga (8).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (8).mp3
+2025-02-25 03:27:20,399 - INFO - Evento: Arquivo carregado: MusicaLonga (7).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (7).mp3
+2025-02-25 03:27:20,400 - INFO - Evento: Arquivo carregado: MusicaLonga (10).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (10).mp3
+2025-02-25 03:27:23,158 - INFO - Evento: Arquivos de imagem: []
+2025-02-25 03:27:23,231 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (9).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (6).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (8).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (7).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (10).mp3']
+2025-02-25 03:27:39,027 - INFO - Evento: Adicionando áudio MusicaLonga (9).mp3 na sequência
+2025-02-25 03:27:39,149 - INFO - Evento: Adicionando áudio MusicaLonga (6).mp3 na sequência
+2025-02-25 03:27:39,269 - INFO - Evento: Adicionando áudio MusicaLonga (8).mp3 na sequência
+2025-02-25 03:27:39,408 - INFO - Evento: Adicionando áudio MusicaLonga (7).mp3 na sequência
+2025-02-25 03:27:39,559 - INFO - Evento: Adicionando áudio MusicaLonga (10).mp3 na sequência
+2025-02-25 03:27:39,583 - INFO - Evento: Obtendo duração da sequência: 3742155392976000 ticks
+2025-02-25 03:28:04,065 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 03:28:04,065 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 03:28:04,065 - INFO - Evento: Arquivo carregado: MusicaLonga (3).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (3).mp3
+2025-02-25 03:28:04,065 - INFO - Evento: Arquivo carregado: MusicaLonga (4).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (4).mp3
+2025-02-25 03:28:04,065 - INFO - Evento: Arquivo carregado: MusicaLonga (5).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (5).mp3
+2025-02-25 03:28:04,065 - INFO - Evento: Arquivo carregado: MusicaLonga (1).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (1).mp3
+2025-02-25 03:28:04,065 - INFO - Evento: Arquivo carregado: MusicaLonga (2).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (2).mp3
+2025-02-25 03:28:07,359 - INFO - Evento: Arquivos de imagem: []
+2025-02-25 03:28:07,477 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (3).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (4).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (5).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (1).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (2).mp3']
+2025-02-25 03:28:11,518 - INFO - Evento: Adicionando áudio MusicaLonga (3).mp3 na sequência
+2025-02-25 03:28:11,643 - INFO - Evento: Adicionando áudio MusicaLonga (4).mp3 na sequência
+2025-02-25 03:28:11,761 - INFO - Evento: Adicionando áudio MusicaLonga (5).mp3 na sequência
+2025-02-25 03:28:11,901 - INFO - Evento: Adicionando áudio MusicaLonga (1).mp3 na sequência
+2025-02-25 03:28:12,045 - INFO - Evento: Adicionando áudio MusicaLonga (2).mp3 na sequência
+2025-02-25 03:28:12,068 - INFO - Evento: Obtendo duração da sequência: 7484310785952000 ticks
+2025-02-25 03:28:31,494 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 03:28:31,495 - INFO - Evento: Arquivo carregado: Image (2).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (2).png
+2025-02-25 03:28:31,495 - INFO - Evento: Arquivo carregado: Image (3).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (3).png
+2025-02-25 03:28:31,495 - INFO - Evento: Arquivo carregado: Image (5).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (5).png
+2025-02-25 03:28:31,495 - INFO - Evento: Arquivo carregado: Image (4).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (4).png
+2025-02-25 03:28:31,495 - INFO - Evento: Arquivo carregado: Image (1).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (1).png
+2025-02-25 03:28:31,495 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 03:28:35,624 - INFO - Evento: Arquivos de imagem: ['C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (2).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (3).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (5).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (4).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (1).png']
+2025-02-25 03:28:35,821 - INFO - Evento: Arquivos de música: []
+2025-02-25 03:28:42,622 - INFO - Evento: Obtendo número de trilhas de vídeo: 0
+2025-02-25 03:28:42,791 - INFO - Evento: Adicionando imagem Image (2).png na sequência
+2025-02-25 03:28:42,967 - INFO - Evento: Adicionando imagem Image (3).png na sequência
+2025-02-25 03:28:43,148 - INFO - Evento: Adicionando imagem Image (5).png na sequência
+2025-02-25 03:28:43,331 - INFO - Evento: Adicionando imagem Image (4).png na sequência
+2025-02-25 03:28:43,514 - INFO - Evento: Adicionando imagem Image (1).png na sequência
+2025-02-25 03:52:53,435 - INFO - Evento: Projeto Premiere Pro Desconectado!
+2025-02-25 03:52:55,787 - INFO - Evento: Projeto Premiere Pro Conectado!
+2025-02-25 03:55:55,604 - INFO - Evento: Projeto Premiere Pro Desconectado!
+2025-02-25 03:55:57,800 - INFO - Evento: Projeto Premiere Pro Conectado!
+2025-02-25 03:56:05,481 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 03:56:14,234 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 03:56:14,234 - INFO - Evento: Arquivo carregado: MusicaLonga (5).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (5).mp3
+2025-02-25 03:56:14,234 - INFO - Evento: Arquivo carregado: MusicaLonga (4).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (4).mp3
+2025-02-25 03:56:14,235 - INFO - Evento: Arquivo carregado: MusicaLonga (3).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (3).mp3
+2025-02-25 03:56:14,235 - INFO - Evento: Arquivo carregado: MusicaLonga (1).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (1).mp3
+2025-02-25 03:56:21,816 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (5).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (4).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (3).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (1).mp3']
+2025-02-25 03:56:25,587 - INFO - Evento: Adicionando áudio MusicaLonga (5).mp3 na sequência
+2025-02-25 03:56:25,660 - INFO - Evento: Adicionando áudio MusicaLonga (4).mp3 na sequência
+2025-02-25 03:56:25,736 - INFO - Evento: Adicionando áudio MusicaLonga (3).mp3 na sequência
+2025-02-25 03:56:25,822 - INFO - Evento: Adicionando áudio MusicaLonga (1).mp3 na sequência
+2025-02-25 03:56:25,845 - INFO - Evento: Obtendo duração da sequência: 2993724314380800 ticks
+2025-02-25 03:56:52,200 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 03:56:52,201 - INFO - Evento: Arquivo carregado: Image (3).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (3).png
+2025-02-25 03:56:52,201 - INFO - Evento: Arquivo carregado: Image (1).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (1).png
+2025-02-25 03:56:52,201 - INFO - Evento: Arquivo carregado: Image (4).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (4).png
+2025-02-25 03:56:52,201 - INFO - Evento: Arquivo carregado: Image (5).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (5).png
+2025-02-25 03:56:52,201 - INFO - Evento: Arquivo carregado: Image (2).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (2).png
+2025-02-25 03:56:57,332 - INFO - Evento: Arquivos de imagem: ['C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (3).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (1).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (4).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (5).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (2).png']
+2025-02-25 03:57:01,593 - INFO - Evento: Obtendo número de trilhas de vídeo: 0
+2025-02-25 03:57:01,716 - INFO - Evento: Adicionando imagem Image (3).png na sequência
+2025-02-25 03:57:01,853 - INFO - Evento: Adicionando imagem Image (1).png na sequência
+2025-02-25 03:57:01,990 - INFO - Evento: Adicionando imagem Image (4).png na sequência
+2025-02-25 03:57:02,130 - INFO - Evento: Adicionando imagem Image (5).png na sequência
+2025-02-25 03:57:02,277 - INFO - Evento: Adicionando imagem Image (2).png na sequência
+2025-02-25 03:57:14,694 - INFO - Evento: Removendo clipe de vídeo
+2025-02-25 03:57:14,736 - INFO - Evento: Removendo clipe de vídeo
+2025-02-25 03:57:14,777 - INFO - Evento: Removendo clipe de vídeo
+2025-02-25 03:57:14,823 - INFO - Evento: Removendo clipe de vídeo
+2025-02-25 03:57:14,860 - INFO - Evento: Removendo clipe de vídeo
+2025-02-25 03:57:14,957 - INFO - Evento: Removendo clipe de áudio
+2025-02-25 03:57:14,992 - INFO - Evento: Removendo clipe de áudio
+2025-02-25 03:57:15,026 - INFO - Evento: Removendo clipe de áudio
+2025-02-25 03:57:15,059 - INFO - Evento: Removendo clipe de áudio
+2025-02-25 03:57:15,098 - INFO - Evento: Sequência limpa
+2025-02-25 04:04:43,999 - INFO - Evento: Projeto Premiere Pro Desconectado!

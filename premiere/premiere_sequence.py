@@ -16,6 +16,19 @@ class PremiereSequence:
         return ticks
 
     @safe_sequence
+    def get_video_tracks(self):
+        # Obter o número de trilhas de vídeo na sequência
+        tracks = self.activeSequence.videoTracks[0].clips.numItems
+        info(f"Obtendo número de trilhas de vídeo: {tracks}")
+        return tracks
+
+    def get_audio_tracks(self):
+        # Obter o número de trilhas de áudio na sequência
+        tracks = self.activeSequence.audioTracks[0].clips.numItems
+        info(f"Obtendo número de trilhas de áudio: {tracks}")
+        return tracks
+
+    @safe_sequence
     def add_audio(self, files: list[str]):
         # Obtém a primeira faixa de áudio da sequência
         audio_track = self.activeSequence.audioTracks[0]
@@ -58,12 +71,12 @@ class PremiereSequence:
         for track in self.activeSequence.videoTracks:
             while track.clips.numItems > 0:
                 track.clips[0].remove(False, False)
-                info("Removendo clipe de vídeo")
+                info("Removendo clipe de vídeo: {track.clips[0].name}")
 
         # Limpar trilhas de áudio
         for track in self.activeSequence.audioTracks:
             while track.clips.numItems > 0:
                 track.clips[0].remove(False, False)
-                info("Removendo clipe de áudio")
+                info("Removendo clipe de áudio: {track.clips[0].name}")
 
         info("Sequência limpa")
