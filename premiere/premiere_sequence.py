@@ -31,14 +31,38 @@ class PremiereSequence:
 
     @safe_sequence
     def add_audio(self, files: list[str]):
-        audio_track = self.activeSequence.audioTracks[0]
+        """
+        Adiciona múltiplos arquivos de áudio à sequência no Adobe Premiere,
+        utilizando a busca otimizada `find_media_items(files)`, garantindo que
+        múltiplos clipes sejam inseridos corretamente.
+
+        :param files: Lista de nomes dos arquivos de áudio no projeto do Premiere.
+        """
+        audio_track = self.activeSequence.audioTracks[0]  # Obtém a trilha de áudio
+
+        # Obter todos os itens de mídia de uma vez
         media_items = self.project.find_media_items(files)
 
-        # Insere cada clipe na sequência (de forma rápida, sem sobreposição)
-        for i, media_item in enumerate(media_items):
-            info(f"Adicionando áudio {files[i]} na sequência")
-            # Define pontos de entrada/saída e insere na sequência
-            audio_track.insertClip(media_item, i)
+        # Se `find_media_items()` retorna um único item ao invés de uma lista, convertemos para lista
+        if not media_items:
+            info("❌ Nenhum arquivo de áudio encontrado. Cancelando operação.")
+            return None
+        if not isinstance(media_items, list):  # Se não for lista, transforma em lista
+            media_items = [media_items]
+
+        # Insere os clipes na sequência corretamente
+        position = 0  # Posição inicial (em ticks)
+        for media_item in media_items:
+            try:
+                # Inserir o áudio na trilha
+                audio_track.insertClip(media_item, position)
+                info(
+                    f"✅ Adicionando áudio {media_item.name} na sequência em {position} ticks"
+                )
+
+            except Exception as e:
+                info(f"❌ Erro ao adicionar áudio {media_item.name}: {str(e)}")
+
         return None
 
     @safe_sequence
