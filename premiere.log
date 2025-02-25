@@ -2023,3 +2023,253 @@
 2025-02-25 04:27:20,425 - INFO - Evento: Removendo clipe de áudio: {track.clips[0].name}
 2025-02-25 04:27:20,457 - INFO - Evento: Removendo clipe de áudio: {track.clips[0].name}
 2025-02-25 04:27:20,494 - INFO - Evento: Sequência limpa
+2025-02-25 04:35:18,965 - CRITICAL - Evento: Erro ao executar função: Premiere Pro is not running
+2025-02-25 04:35:47,755 - INFO - Evento: Projeto Premiere Pro Conectado!
+2025-02-25 04:36:08,102 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:36:08,102 - INFO - Evento: Arquivo carregado: MusicaLonga (1).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (1).mp3
+2025-02-25 04:36:08,102 - INFO - Evento: Arquivo carregado: MusicaLonga (2).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (2).mp3
+2025-02-25 04:36:08,102 - INFO - Evento: Arquivo carregado: MusicaLonga (4).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (4).mp3
+2025-02-25 04:36:08,102 - INFO - Evento: Arquivo carregado: MusicaLonga (5).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (5).mp3
+2025-02-25 04:36:11,798 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (1).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (2).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (4).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (5).mp3']
+2025-02-25 04:36:25,028 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (1).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (2).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (4).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (5).mp3']
+2025-02-25 04:36:59,105 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:36:59,106 - INFO - Evento: Arquivo carregado: MusicaLonga (5).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (5).mp3
+2025-02-25 04:36:59,106 - INFO - Evento: Arquivo carregado: MusicaLonga (4).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (4).mp3
+2025-02-25 04:36:59,106 - INFO - Evento: Arquivo carregado: MusicaLonga (2).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (2).mp3
+2025-02-25 04:36:59,106 - INFO - Evento: Arquivo carregado: MusicaLonga (3).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (3).mp3
+2025-02-25 04:37:02,719 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (5).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (4).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (2).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (3).mp3']
+2025-02-25 04:37:09,222 - INFO - Evento: Adicionando áudio MusicaLonga (5).mp3 na sequência
+2025-02-25 04:37:09,283 - CRITICAL - Evento: Erro ao executar função: Arquivo MusicaLonga (4).mp3 não encontrado no projeto!
+2025-02-25 04:37:09,288 - CRITICAL - Evento: Erro ao executar função: arg "clipProjectItem" of function "Track.insertClip" shoud be of type <class 'pymiere.objects.premiere_objects.ProjectItem'> but got 'None' (type <class 'NoneType'>)
+2025-02-25 04:37:09,293 - INFO - Evento: Obtendo duração da sequência: 748431078595200 ticks
+2025-02-25 04:37:21,672 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:37:21,673 - INFO - Evento: Arquivo carregado: Image (5).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (5).png
+2025-02-25 04:37:21,673 - INFO - Evento: Arquivo carregado: Image (1).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (1).png
+2025-02-25 04:37:21,673 - INFO - Evento: Arquivo carregado: Image (4).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (4).png
+2025-02-25 04:37:21,673 - INFO - Evento: Arquivo carregado: Image (2).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (2).png
+2025-02-25 04:37:21,673 - INFO - Evento: Arquivo carregado: Image (3).png - C:\Users\zryyh\OneDrive\Imagens\Screenshots\Image (3).png
+2025-02-25 04:37:25,633 - INFO - Evento: Arquivos de imagem: ['C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (5).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (1).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (4).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (2).png', 'C:\\Users\\zryyh\\OneDrive\\Imagens\\Screenshots\\Image (3).png']
+2025-02-25 04:37:38,665 - INFO - Evento: Obtendo número de trilhas de vídeo: 0
+2025-02-25 04:37:38,784 - INFO - Evento: Adicionando imagem Image (5).png na sequência
+2025-02-25 04:37:38,922 - INFO - Evento: Adicionando imagem Image (1).png na sequência
+2025-02-25 04:37:39,053 - INFO - Evento: Adicionando imagem Image (4).png na sequência
+2025-02-25 04:37:39,176 - INFO - Evento: Adicionando imagem Image (2).png na sequência
+2025-02-25 04:37:39,310 - INFO - Evento: Adicionando imagem Image (3).png na sequência
+2025-02-25 04:39:01,557 - INFO - Evento: Projeto Premiere Pro Desconectado!
+2025-02-25 04:39:03,916 - INFO - Evento: Projeto Premiere Pro Conectado!
+2025-02-25 04:39:48,044 - INFO - Evento: Projeto Premiere Pro Desconectado!
+2025-02-25 04:39:50,502 - INFO - Evento: Projeto Premiere Pro Conectado!
+2025-02-25 04:39:54,526 - INFO - Evento: Removendo clipe de áudio: {track.clips[0].name}
+2025-02-25 04:39:54,566 - INFO - Evento: Áudios removidos da sequência
+2025-02-25 04:39:58,444 - INFO - Evento: Removendo clipe de vídeo: {track.clips[0].name}
+2025-02-25 04:39:58,484 - INFO - Evento: Removendo clipe de vídeo: {track.clips[0].name}
+2025-02-25 04:39:58,524 - INFO - Evento: Removendo clipe de vídeo: {track.clips[0].name}
+2025-02-25 04:39:58,559 - INFO - Evento: Removendo clipe de vídeo: {track.clips[0].name}
+2025-02-25 04:39:58,592 - INFO - Evento: Removendo clipe de vídeo: {track.clips[0].name}
+2025-02-25 04:39:58,621 - INFO - Evento: Imagens removidas da sequência
+2025-02-25 04:40:24,459 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:40:24,459 - INFO - Evento: Arquivo carregado: MusicaLonga (3).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (3).mp3
+2025-02-25 04:40:24,459 - INFO - Evento: Arquivo carregado: MusicaLonga (2).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (2).mp3
+2025-02-25 04:40:24,459 - INFO - Evento: Arquivo carregado: MusicaLonga (4).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (4).mp3
+2025-02-25 04:40:24,459 - INFO - Evento: Arquivo carregado: MusicaLonga (1).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (1).mp3
+2025-02-25 04:40:24,459 - INFO - Evento: Arquivo carregado: MusicaLonga (5).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (5).mp3
+2025-02-25 04:40:27,269 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (3).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (2).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (4).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (1).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (5).mp3']
+2025-02-25 04:41:29,996 - INFO - Evento: Projeto Premiere Pro Desconectado!
+2025-02-25 04:43:50,376 - INFO - Evento: Projeto Premiere Pro Conectado!
+2025-02-25 04:44:05,380 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:44:05,380 - INFO - Evento: Arquivo carregado: MusicaLonga (2).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (2).mp3
+2025-02-25 04:44:05,380 - INFO - Evento: Arquivo carregado: MusicaLonga (1).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (1).mp3
+2025-02-25 04:44:05,380 - INFO - Evento: Arquivo carregado: MusicaLonga (4).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (4).mp3
+2025-02-25 04:44:05,380 - INFO - Evento: Arquivo carregado: MusicaLonga (3).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (3).mp3
+2025-02-25 04:44:05,380 - INFO - Evento: Arquivo carregado: MusicaLonga (5).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (5).mp3
+2025-02-25 04:44:57,984 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (2).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (1).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (4).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (3).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (5).mp3']
+2025-02-25 04:46:23,746 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:46:23,747 - INFO - Evento: Arquivo carregado: MusicaLonga (5).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (5).mp3
+2025-02-25 04:46:23,747 - INFO - Evento: Arquivo carregado: MusicaLonga (4).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (4).mp3
+2025-02-25 04:46:23,747 - INFO - Evento: Arquivo carregado: MusicaLonga (1).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (1).mp3
+2025-02-25 04:46:23,747 - INFO - Evento: Arquivo carregado: MusicaLonga (3).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (3).mp3
+2025-02-25 04:46:23,747 - INFO - Evento: Arquivo carregado: MusicaLonga (2).mp3 - C:\Users\zryyh\Music\musicas\MusicaLonga (2).mp3
+2025-02-25 04:46:27,371 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (5).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (4).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (1).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (3).mp3', 'C:\\Users\\zryyh\\Music\\musicas\\MusicaLonga (2).mp3']
+2025-02-25 04:47:31,125 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:47:31,126 - INFO - Evento: Arquivo carregado: Oi (10).MP3 - C:\Users\zryyh\Music\musicas\Oi (10).MP3
+2025-02-25 04:47:31,126 - INFO - Evento: Arquivo carregado: Oi (6).MP3 - C:\Users\zryyh\Music\musicas\Oi (6).MP3
+2025-02-25 04:47:31,126 - INFO - Evento: Arquivo carregado: Oi (2).MP3 - C:\Users\zryyh\Music\musicas\Oi (2).MP3
+2025-02-25 04:47:31,126 - INFO - Evento: Arquivo carregado: Oi (9).MP3 - C:\Users\zryyh\Music\musicas\Oi (9).MP3
+2025-02-25 04:47:31,126 - INFO - Evento: Arquivo carregado: Oi (8).MP3 - C:\Users\zryyh\Music\musicas\Oi (8).MP3
+2025-02-25 04:47:34,655 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\Oi (10).MP3', 'C:\\Users\\zryyh\\Music\\musicas\\Oi (6).MP3', 'C:\\Users\\zryyh\\Music\\musicas\\Oi (2).MP3', 'C:\\Users\\zryyh\\Music\\musicas\\Oi (9).MP3', 'C:\\Users\\zryyh\\Music\\musicas\\Oi (8).MP3']
+2025-02-25 04:47:49,421 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:47:49,421 - INFO - Evento: Arquivo carregado: Oi (8).MP3 - C:\Users\zryyh\Music\musicas\Oi (8).MP3
+2025-02-25 04:47:50,504 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:47:50,505 - INFO - Evento: Arquivo carregado: Oi (1).MP3 - C:\Users\zryyh\Music\musicas\Oi (1).MP3
+2025-02-25 04:47:51,109 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:47:51,109 - INFO - Evento: Arquivo carregado: Oi (8).MP3 - C:\Users\zryyh\Music\musicas\Oi (8).MP3
+2025-02-25 04:47:53,616 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:47:53,618 - INFO - Evento: Arquivo carregado: Oi (4).MP3 - C:\Users\zryyh\Music\musicas\Oi (4).MP3
+2025-02-25 04:47:53,618 - INFO - Evento: Arquivo carregado: Oi (5).MP3 - C:\Users\zryyh\Music\musicas\Oi (5).MP3
+2025-02-25 04:47:53,881 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:47:53,881 - INFO - Evento: Arquivo carregado: Oi (2).MP3 - C:\Users\zryyh\Music\musicas\Oi (2).MP3
+2025-02-25 04:47:53,881 - INFO - Evento: Arquivo carregado: Oi (4).MP3 - C:\Users\zryyh\Music\musicas\Oi (4).MP3
+2025-02-25 04:47:54,061 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:47:54,062 - INFO - Evento: Arquivo carregado: Oi (1).MP3 - C:\Users\zryyh\Music\musicas\Oi (1).MP3
+2025-02-25 04:47:54,062 - INFO - Evento: Arquivo carregado: Oi (4).MP3 - C:\Users\zryyh\Music\musicas\Oi (4).MP3
+2025-02-25 04:47:54,229 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:47:54,229 - INFO - Evento: Arquivo carregado: Oi (8).MP3 - C:\Users\zryyh\Music\musicas\Oi (8).MP3
+2025-02-25 04:47:54,229 - INFO - Evento: Arquivo carregado: Oi (7).MP3 - C:\Users\zryyh\Music\musicas\Oi (7).MP3
+2025-02-25 04:47:54,378 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:47:54,379 - INFO - Evento: Arquivo carregado: Oi (8).MP3 - C:\Users\zryyh\Music\musicas\Oi (8).MP3
+2025-02-25 04:47:54,379 - INFO - Evento: Arquivo carregado: Oi (2).MP3 - C:\Users\zryyh\Music\musicas\Oi (2).MP3
+2025-02-25 04:47:54,535 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:47:54,535 - INFO - Evento: Arquivo carregado: Oi (2).MP3 - C:\Users\zryyh\Music\musicas\Oi (2).MP3
+2025-02-25 04:47:54,535 - INFO - Evento: Arquivo carregado: Oi (7).MP3 - C:\Users\zryyh\Music\musicas\Oi (7).MP3
+2025-02-25 04:47:54,835 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:47:54,835 - INFO - Evento: Arquivo carregado: Oi (10).MP3 - C:\Users\zryyh\Music\musicas\Oi (10).MP3
+2025-02-25 04:47:54,837 - INFO - Evento: Arquivo carregado: Oi (5).MP3 - C:\Users\zryyh\Music\musicas\Oi (5).MP3
+2025-02-25 04:47:54,985 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:47:54,985 - INFO - Evento: Arquivo carregado: Oi (5).MP3 - C:\Users\zryyh\Music\musicas\Oi (5).MP3
+2025-02-25 04:47:54,985 - INFO - Evento: Arquivo carregado: Oi (2).MP3 - C:\Users\zryyh\Music\musicas\Oi (2).MP3
+2025-02-25 04:47:55,140 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:47:55,141 - INFO - Evento: Arquivo carregado: Oi (10).MP3 - C:\Users\zryyh\Music\musicas\Oi (10).MP3
+2025-02-25 04:47:55,141 - INFO - Evento: Arquivo carregado: Oi (1).MP3 - C:\Users\zryyh\Music\musicas\Oi (1).MP3
+2025-02-25 04:47:55,302 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:47:55,303 - INFO - Evento: Arquivo carregado: Oi (4).MP3 - C:\Users\zryyh\Music\musicas\Oi (4).MP3
+2025-02-25 04:47:55,303 - INFO - Evento: Arquivo carregado: Oi (7).MP3 - C:\Users\zryyh\Music\musicas\Oi (7).MP3
+2025-02-25 04:47:55,465 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:47:55,465 - INFO - Evento: Arquivo carregado: Oi (7).MP3 - C:\Users\zryyh\Music\musicas\Oi (7).MP3
+2025-02-25 04:47:55,465 - INFO - Evento: Arquivo carregado: Oi (8).MP3 - C:\Users\zryyh\Music\musicas\Oi (8).MP3
+2025-02-25 04:47:58,683 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:47:58,684 - INFO - Evento: Arquivo carregado: Oi (3).MP3 - C:\Users\zryyh\Music\musicas\Oi (3).MP3
+2025-02-25 04:47:58,850 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:47:58,850 - INFO - Evento: Arquivo carregado: Oi (5).MP3 - C:\Users\zryyh\Music\musicas\Oi (5).MP3
+2025-02-25 04:47:59,014 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:47:59,014 - INFO - Evento: Arquivo carregado: Oi (2).MP3 - C:\Users\zryyh\Music\musicas\Oi (2).MP3
+2025-02-25 04:47:59,179 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:47:59,180 - INFO - Evento: Arquivo carregado: Oi (5).MP3 - C:\Users\zryyh\Music\musicas\Oi (5).MP3
+2025-02-25 04:47:59,334 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:47:59,335 - INFO - Evento: Arquivo carregado: Oi (4).MP3 - C:\Users\zryyh\Music\musicas\Oi (4).MP3
+2025-02-25 04:48:00,170 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\Oi (4).MP3']
+2025-02-25 04:48:01,086 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\Oi (4).MP3']
+2025-02-25 04:48:01,605 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\Oi (4).MP3']
+2025-02-25 04:48:01,880 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\Oi (4).MP3']
+2025-02-25 04:48:03,670 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:48:03,670 - INFO - Evento: Arquivo carregado: Oi (4).MP3 - C:\Users\zryyh\Music\musicas\Oi (4).MP3
+2025-02-25 04:48:04,750 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:48:04,750 - INFO - Evento: Arquivo carregado: Oi (4).MP3 - C:\Users\zryyh\Music\musicas\Oi (4).MP3
+2025-02-25 04:48:05,073 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:48:05,074 - INFO - Evento: Arquivo carregado: Oi (9).MP3 - C:\Users\zryyh\Music\musicas\Oi (9).MP3
+2025-02-25 04:48:05,265 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:48:05,266 - INFO - Evento: Arquivo carregado: Oi (4).MP3 - C:\Users\zryyh\Music\musicas\Oi (4).MP3
+2025-02-25 04:48:05,673 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:48:05,673 - INFO - Evento: Arquivo carregado: Oi (2).MP3 - C:\Users\zryyh\Music\musicas\Oi (2).MP3
+2025-02-25 04:48:06,291 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:48:06,292 - INFO - Evento: Arquivo carregado: Oi (10).MP3 - C:\Users\zryyh\Music\musicas\Oi (10).MP3
+2025-02-25 04:48:07,150 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\Oi (10).MP3']
+2025-02-25 04:48:09,507 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:48:09,507 - INFO - Evento: Arquivo carregado: Oi (4).MP3 - C:\Users\zryyh\Music\musicas\Oi (4).MP3
+2025-02-25 04:48:10,381 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\Oi (4).MP3']
+2025-02-25 04:48:10,720 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:48:10,720 - INFO - Evento: Arquivo carregado: Oi (3).MP3 - C:\Users\zryyh\Music\musicas\Oi (3).MP3
+2025-02-25 04:48:11,779 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\Oi (3).MP3']
+2025-02-25 04:48:12,278 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:48:12,280 - INFO - Evento: Arquivo carregado: Oi (4).MP3 - C:\Users\zryyh\Music\musicas\Oi (4).MP3
+2025-02-25 04:48:13,404 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\Oi (4).MP3']
+2025-02-25 04:48:13,761 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:48:13,761 - INFO - Evento: Arquivo carregado: Oi (4).MP3 - C:\Users\zryyh\Music\musicas\Oi (4).MP3
+2025-02-25 04:48:14,385 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\Oi (4).MP3']
+2025-02-25 04:48:14,745 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:48:14,745 - INFO - Evento: Arquivo carregado: Oi (7).MP3 - C:\Users\zryyh\Music\musicas\Oi (7).MP3
+2025-02-25 04:48:15,208 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\Oi (7).MP3']
+2025-02-25 04:48:15,562 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:48:15,562 - INFO - Evento: Arquivo carregado: Oi (5).MP3 - C:\Users\zryyh\Music\musicas\Oi (5).MP3
+2025-02-25 04:48:16,140 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\Oi (5).MP3']
+2025-02-25 04:48:16,384 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:48:16,384 - INFO - Evento: Arquivo carregado: Oi (4).MP3 - C:\Users\zryyh\Music\musicas\Oi (4).MP3
+2025-02-25 04:48:16,786 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\Oi (4).MP3']
+2025-02-25 04:48:17,032 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:48:17,032 - INFO - Evento: Arquivo carregado: Oi (10).MP3 - C:\Users\zryyh\Music\musicas\Oi (10).MP3
+2025-02-25 04:48:17,475 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\Oi (10).MP3']
+2025-02-25 04:48:17,769 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:48:17,770 - INFO - Evento: Arquivo carregado: Oi (3).MP3 - C:\Users\zryyh\Music\musicas\Oi (3).MP3
+2025-02-25 04:48:18,297 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\Oi (3).MP3']
+2025-02-25 04:48:18,471 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:48:18,471 - INFO - Evento: Arquivo carregado: Oi (9).MP3 - C:\Users\zryyh\Music\musicas\Oi (9).MP3
+2025-02-25 04:48:18,918 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\Oi (9).MP3']
+2025-02-25 04:48:22,290 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\Oi (9).MP3']
+2025-02-25 04:48:31,687 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\Oi (9).MP3']
+2025-02-25 04:48:36,693 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:48:36,693 - INFO - Evento: Arquivo carregado: Oi (4).MP3 - C:\Users\zryyh\Music\musicas\Oi (4).MP3
+2025-02-25 04:48:36,882 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:48:36,883 - INFO - Evento: Arquivo carregado: Oi (8).MP3 - C:\Users\zryyh\Music\musicas\Oi (8).MP3
+2025-02-25 04:48:37,030 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:48:37,030 - INFO - Evento: Arquivo carregado: Oi (1).MP3 - C:\Users\zryyh\Music\musicas\Oi (1).MP3
+2025-02-25 04:48:37,195 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:48:37,195 - INFO - Evento: Arquivo carregado: Oi (3).MP3 - C:\Users\zryyh\Music\musicas\Oi (3).MP3
+2025-02-25 04:48:37,356 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:48:37,356 - INFO - Evento: Arquivo carregado: Oi (6).MP3 - C:\Users\zryyh\Music\musicas\Oi (6).MP3
+2025-02-25 04:48:37,530 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:48:37,530 - INFO - Evento: Arquivo carregado: Oi (2).MP3 - C:\Users\zryyh\Music\musicas\Oi (2).MP3
+2025-02-25 04:48:37,668 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:48:37,669 - INFO - Evento: Arquivo carregado: Oi (8).MP3 - C:\Users\zryyh\Music\musicas\Oi (8).MP3
+2025-02-25 04:48:37,819 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:48:37,820 - INFO - Evento: Arquivo carregado: Oi (2).MP3 - C:\Users\zryyh\Music\musicas\Oi (2).MP3
+2025-02-25 04:48:38,479 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\Oi (2).MP3']
+2025-02-25 04:48:41,007 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\Oi (2).MP3']
+2025-02-25 04:48:43,959 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:48:43,959 - INFO - Evento: Arquivo carregado: Oi (6).MP3 - C:\Users\zryyh\Music\musicas\Oi (6).MP3
+2025-02-25 04:48:44,418 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\Oi (6).MP3']
+2025-02-25 04:48:50,318 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:48:50,318 - INFO - Evento: Arquivo carregado: Oi (6).MP3 - C:\Users\zryyh\Music\musicas\Oi (6).MP3
+2025-02-25 04:48:51,022 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\Oi (6).MP3']
+2025-02-25 04:48:53,054 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:48:53,054 - INFO - Evento: Arquivo carregado: Oi (1).MP3 - C:\Users\zryyh\Music\musicas\Oi (1).MP3
+2025-02-25 04:48:54,228 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\Oi (1).MP3']
+2025-02-25 04:48:55,665 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:48:55,665 - INFO - Evento: Arquivo carregado: Oi (6).MP3 - C:\Users\zryyh\Music\musicas\Oi (6).MP3
+2025-02-25 04:48:56,688 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\Oi (6).MP3']
+2025-02-25 04:49:03,004 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\Oi (6).MP3']
+2025-02-25 04:49:05,648 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\Oi (6).MP3']
+2025-02-25 04:51:21,412 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:51:21,412 - INFO - Evento: Arquivo carregado: Oi (10).MP3 - C:\Users\zryyh\Music\musicas\Oi (10).MP3
+2025-02-25 04:51:21,412 - INFO - Evento: Arquivo carregado: Oi (9).MP3 - C:\Users\zryyh\Music\musicas\Oi (9).MP3
+2025-02-25 04:51:21,413 - INFO - Evento: Arquivo carregado: Oi (8).MP3 - C:\Users\zryyh\Music\musicas\Oi (8).MP3
+2025-02-25 04:51:21,413 - INFO - Evento: Arquivo carregado: Oi (3).MP3 - C:\Users\zryyh\Music\musicas\Oi (3).MP3
+2025-02-25 04:51:27,079 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\Oi (10).MP3', 'C:\\Users\\zryyh\\Music\\musicas\\Oi (9).MP3', 'C:\\Users\\zryyh\\Music\\musicas\\Oi (8).MP3', 'C:\\Users\\zryyh\\Music\\musicas\\Oi (3).MP3']
+2025-02-25 04:51:41,803 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:51:41,803 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (10).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (10).MP3
+2025-02-25 04:51:41,803 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (7).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (7).MP3
+2025-02-25 04:51:41,803 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (4).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (4).MP3
+2025-02-25 04:51:41,803 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (1).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (1).MP3
+2025-02-25 04:51:42,432 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:51:42,432 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (5).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (5).MP3
+2025-02-25 04:51:42,432 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (3).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (3).MP3
+2025-02-25 04:51:42,432 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (9).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (9).MP3
+2025-02-25 04:51:42,432 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (2).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (2).MP3
+2025-02-25 04:51:42,915 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:51:42,915 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (7).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (7).MP3
+2025-02-25 04:51:42,915 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (9).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (9).MP3
+2025-02-25 04:51:42,915 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (8).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (8).MP3
+2025-02-25 04:51:42,917 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (10).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (10).MP3
+2025-02-25 04:51:43,517 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\NaoFazsentidonenhum (7).MP3', 'C:\\Users\\zryyh\\Music\\musicas\\NaoFazsentidonenhum (9).MP3', 'C:\\Users\\zryyh\\Music\\musicas\\NaoFazsentidonenhum (8).MP3', 'C:\\Users\\zryyh\\Music\\musicas\\NaoFazsentidonenhum (10).MP3']
+2025-02-25 04:52:15,542 - INFO - Evento: Modo de embaralhamento: True, Modo de pasta: True
+2025-02-25 04:52:15,542 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (4).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (4).MP3
+2025-02-25 04:52:15,543 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (5).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (5).MP3
+2025-02-25 04:52:15,543 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (3).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (3).MP3
+2025-02-25 04:52:15,543 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (7).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (7).MP3
+2025-02-25 04:52:15,544 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (10).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (10).MP3
+2025-02-25 04:52:15,544 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (6).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (6).MP3
+2025-02-25 04:52:15,544 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (9).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (9).MP3
+2025-02-25 04:52:15,544 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (8).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (8).MP3
+2025-02-25 04:52:15,545 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (2).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (2).MP3
+2025-02-25 04:52:15,545 - INFO - Evento: Arquivo carregado: NaoFazsentidonenhum (1).MP3 - C:\Users\zryyh\Music\musicas\NaoFazsentidonenhum (1).MP3
+2025-02-25 04:52:18,501 - INFO - Evento: Arquivos de música: ['C:\\Users\\zryyh\\Music\\musicas\\NaoFazsentidonenhum (4).MP3', 'C:\\Users\\zryyh\\Music\\musicas\\NaoFazsentidonenhum (5).MP3', 'C:\\Users\\zryyh\\Music\\musicas\\NaoFazsentidonenhum (3).MP3', 'C:\\Users\\zryyh\\Music\\musicas\\NaoFazsentidonenhum (7).MP3', 'C:\\Users\\zryyh\\Music\\musicas\\NaoFazsentidonenhum (10).MP3', 'C:\\Users\\zryyh\\Music\\musicas\\NaoFazsentidonenhum (6).MP3', 'C:\\Users\\zryyh\\Music\\musicas\\NaoFazsentidonenhum (9).MP3', 'C:\\Users\\zryyh\\Music\\musicas\\NaoFazsentidonenhum (8).MP3', 'C:\\Users\\zryyh\\Music\\musicas\\NaoFazsentidonenhum (2).MP3', 'C:\\Users\\zryyh\\Music\\musicas\\NaoFazsentidonenhum (1).MP3']
+2025-02-25 04:52:31,885 - INFO - Evento: Adicionando áudio NaoFazsentidonenhum (4).MP3 na sequência
+2025-02-25 04:52:32,001 - INFO - Evento: Adicionando áudio NaoFazsentidonenhum (5).MP3 na sequência
+2025-02-25 04:52:32,130 - INFO - Evento: Adicionando áudio NaoFazsentidonenhum (3).MP3 na sequência
+2025-02-25 04:52:32,245 - INFO - Evento: Adicionando áudio NaoFazsentidonenhum (7).MP3 na sequência
+2025-02-25 04:52:32,381 - INFO - Evento: Adicionando áudio NaoFazsentidonenhum (10).MP3 na sequência
+2025-02-25 04:52:32,552 - INFO - Evento: Adicionando áudio NaoFazsentidonenhum (6).MP3 na sequência
+2025-02-25 04:52:32,682 - INFO - Evento: Adicionando áudio NaoFazsentidonenhum (9).MP3 na sequência
+2025-02-25 04:52:32,798 - INFO - Evento: Adicionando áudio NaoFazsentidonenhum (8).MP3 na sequência
+2025-02-25 04:52:32,940 - INFO - Evento: Adicionando áudio NaoFazsentidonenhum (2).MP3 na sequência
+2025-02-25 04:52:33,085 - INFO - Evento: Adicionando áudio NaoFazsentidonenhum (1).MP3 na sequência
+2025-02-25 04:52:33,104 - INFO - Evento: Obtendo duração da sequência: 7484310785952000 ticks
+2025-02-25 04:53:05,097 - INFO - Evento: Projeto Premiere Pro Desconectado!

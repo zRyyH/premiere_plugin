@@ -92,7 +92,7 @@ def add_images():
 @app.get("/clear_images")
 def clear_images():
     try:
-        premiere_driver.limpar_images()
+        premiere_driver.limpar_imagens()
 
         return {"mensagem": "Imagens removidas da sequencia!"}
     except Exception as e:
@@ -102,7 +102,7 @@ def clear_images():
 @app.get("/clear_musics")
 def clear_musics():
     try:
-        premiere_driver.limpar_musics()
+        premiere_driver.limpar_musicas()
 
         return {"mensagem": "Musicas removidas da sequencia!"}
     except Exception as e:

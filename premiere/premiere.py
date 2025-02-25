@@ -81,7 +81,13 @@ class Premiere:
         return None
 
     @safe_premiere
-    # Limpar sequência
-    def limpar_sequencia(self):
-        self.sequence_project.limpar_sequencia()
+    # Limpar sequência de músicas
+    def limpar_musicas(self):
+        self.sequence_project.limpar_musics()
+        return None
+
+    @safe_premiere
+    # Limpar sequência de imagens
+    def limpar_imagens(self):
+        self.sequence_project.limpar_images()
         return None
