@@ -62,21 +62,26 @@ class PremiereSequence:
             # Adiciona um clipe na faixa de vídeo
             video_track.insertClip(media_item, 0)
             info(f"Adicionando imagem {midia} na sequência")
-
         return None
 
     @safe_sequence
-    def limpar_sequencia(self):
-        # Limpar trilhas de vídeo
-        for track in self.activeSequence.videoTracks:
-            while track.clips.numItems > 0:
-                track.clips[0].remove(False, False)
-                info("Removendo clipe de vídeo: {track.clips[0].name}")
-
+    def limpar_musics(self):
         # Limpar trilhas de áudio
         for track in self.activeSequence.audioTracks:
             while track.clips.numItems > 0:
                 track.clips[0].remove(False, False)
                 info("Removendo clipe de áudio: {track.clips[0].name}")
 
-        info("Sequência limpa")
+        info("Áudios removidos da sequência")
+        return None
+
+    @safe_sequence
+    def limpar_images(self):
+        # Limpar trilhas de vídeo
+        for track in self.activeSequence.videoTracks:
+            while track.clips.numItems > 0:
+                track.clips[0].remove(False, False)
+                info("Removendo clipe de vídeo: {track.clips[0].name}")
+
+        info("Imagens removidas da sequência")
+        return None

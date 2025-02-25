@@ -25,6 +25,7 @@ def connect():
 def load_images(payload: ImageConfig):
     try:
         config = payload.dict()
+        print(config)
 
         image_config = config["image_config"]
         image_names = premiere_driver.load_images(**image_config)
@@ -38,6 +39,7 @@ def load_images(payload: ImageConfig):
 def load_musics(payload: MusicConfig):
     try:
         config = payload.dict()
+        print(config)
 
         music_config = config["music_config"]
         music_names = premiere_driver.load_musics(**music_config)
@@ -87,14 +89,24 @@ def add_images():
         return {"mensagem": f"Erro ao adicionar imagens a sequencia!, error: {e}"}
 
 
-@app.get("/clear")
-def start():
+@app.get("/clear_images")
+def clear_images():
     try:
-        premiere_driver.limpar_sequencia()
+        premiere_driver.limpar_images()
 
-        return {"mensagem": "Sequencia limpa!"}
+        return {"mensagem": "Imagens removidas da sequencia!"}
     except Exception as e:
-        return {"mensagem": f"Erro ao limpar sequencia!, error: {e}"}
+        return {"mensagem": f"Erro ao remover imagens da sequencia!, error: {e}"}
+
+
+@app.get("/clear_musics")
+def clear_musics():
+    try:
+        premiere_driver.limpar_musics()
+
+        return {"mensagem": "Musicas removidas da sequencia!"}
+    except Exception as e:
+        return {"mensagem": f"Erro ao remover musicas da sequencia!, error: {e}"}
 
 
 if __name__ == "__main__":
