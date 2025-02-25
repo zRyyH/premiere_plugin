@@ -1,3 +1,4 @@
+from concurrent.futures import ThreadPoolExecutor
 from premiere.wrappers import safe_sequence
 from logger import info
 
@@ -30,38 +31,33 @@ class PremiereSequence:
 
     @safe_sequence
     def add_audio(self, files: list[str]):
-        # Obtém a primeira faixa de áudio da sequência
         audio_track = self.activeSequence.audioTracks[0]
+        media_items = self.project.find_media_items(files)
 
-        for midia in files:
-            # Obter o primeiro item de mídia carregado
-            media_item = self.project.find_media_item(midia)
-
-            # Adiciona um clipe na faixa de áudio
-            audio_track.insertClip(media_item, 0)
-            info(f"Adicionando áudio {midia} na sequência")
+        # Insere cada clipe na sequência (de forma rápida, sem sobreposição)
+        for i, media_item in enumerate(media_items):
+            info(f"Adicionando áudio {files[i]} na sequência")
+            # Define pontos de entrada/saída e insere na sequência
+            audio_track.insertClip(media_item, i)
         return None
 
     @safe_sequence
     def add_image(self, files: list[str], duration_ticks: int = 5):
-        # Obtém a primeira faixa de vídeo da sequência
         video_track = self.activeSequence.videoTracks[0]
 
-        for midia in files:
-            # Obter o primeiro item de mídia carregado
-            media_item = self.project.find_media_item(midia)
+        # Obter itens de mídia do projeto
+        media_items = self.project.find_media_items(files)
 
-            # Converter duração em segundos para ticks
-            in_point_ticks = "0"  # Início sempre em 0
-            out_point_ticks = str(int(duration_ticks))  # Duração convertida para ticks
+        # Define pontos de entrada/saída e insere na sequência
+        for i, media_item in enumerate(media_items):
+            media_item.setInPoint("0", 1)
+            media_item.setOutPoint(str(int(duration_ticks)), 1)
+            video_track.insertClip(
+                media_item, i * int(duration_ticks)
+            )  # Espaçamento automático
 
-            # Definir ponto de entrada (inPoint) e saída (outPoint) antes de inserir na timeline
-            media_item.setInPoint(in_point_ticks, 1)
-            media_item.setOutPoint(out_point_ticks, 1)
+            info(f"Adicionando imagem {files[i]} na sequência")
 
-            # Adiciona um clipe na faixa de vídeo
-            video_track.insertClip(media_item, 0)
-            info(f"Adicionando imagem {midia} na sequência")
         return None
 
     @safe_sequence
