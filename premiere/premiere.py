@@ -64,7 +64,8 @@ class Premiere:
     @safe_premiere
     # Adicionar arquivos de música e imagem à sequência
     def add_audio(self):
-        self.limpar_imagens()
+        try:self.limpar_imagens()
+        except:info("Não há imagens para limpar")
         self.sequence_project.add_audio(self.music_names)
         self.duration_ticks = self.sequence_project.get_sequence_duration()
         return None

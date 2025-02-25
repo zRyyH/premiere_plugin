@@ -87,7 +87,7 @@ class PremiereSequence:
     @safe_sequence
     def limpar_musics(self):
         # Limpar trilhas de áudio
-        for track in self.activeSequence.audioTracks:
+        for track in [self.activeSequence.audioTracks[0]]:
             while track.clips.numItems > 0:
                 track.clips[0].remove(False, False)
                 info("Removendo clipe de áudio: {track.clips[0].name}")
@@ -98,7 +98,7 @@ class PremiereSequence:
     @safe_sequence
     def limpar_images(self):
         # Limpar trilhas de vídeo
-        for track in self.activeSequence.videoTracks:
+        for track in [self.activeSequence.videoTracks[0]]:
             while track.clips.numItems > 0:
                 track.clips[0].remove(False, False)
                 info("Removendo clipe de vídeo: {track.clips[0].name}")
