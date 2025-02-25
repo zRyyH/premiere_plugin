@@ -84,10 +84,16 @@ class Premiere:
     # Limpar sequência de músicas
     def limpar_musicas(self):
         self.sequence_project.limpar_musics()
+        self.duration_ticks = "0"
+        self.music_names = []
+        self.music_paths = []
         return None
 
     @safe_premiere
     # Limpar sequência de imagens
     def limpar_imagens(self):
         self.sequence_project.limpar_images()
+        self.duration_ticks = "0"
+        self.image_names = []
+        self.image_paths = []
         return None
