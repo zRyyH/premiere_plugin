@@ -4,3 +4,9 @@ Set-ItemProperty -Path "HKCU:\Software\Adobe\CSXS.12" -Name "PlayerDebugMode" -V
 
 Passo 2:
 Executar programs\extension_installer_win.bat como administrador no prompt de comando (CMD)
+
+Passo 3:
+Cole a pasta painel dentro da pasta do adobe premiere (C:\Program Files\Adobe\Adobe Premiere Pro 2025\CEP\extensions)
+
+Regras de uso:
+-Sempre execute a extensão depois de já ter aberto o premiere e criado uma sequencia.
